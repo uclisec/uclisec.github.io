@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UCL Information Security Research"
+title                    : "UCL Information Security"
 title_separator          : "-"
-name                     : &name "UCL ISec"
+name                     : &name "UCL ISec Group"
 description              : 
 url                      : https://uclisec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

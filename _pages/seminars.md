@@ -23,7 +23,7 @@ Guest Seminars are given by visitors outside the regular Thursday slots.
 You can subscribe to our mailing list by sending an email with subject "subscribe" to infosec-seminars-join (at) ucl.ac.uk.  
 You can also subscribe to our Google Calendar: \[[ICS](https://www.google.com/calendar/ical/pk0m34jd9tiad42vk08vhlphbs%40group.calendar.google.com/public/basic.ics)\] \[[HTML](https://www.google.com/calendar/embed?src=pk0m34jd9tiad42vk08vhlphbs%40group.calendar.google.com&ctz=Europe/London)\].  
 * *How can I learn more about InfoSec research and teaching activities at UCL?*  
-Check out the UCL's InfoSec research group [page](/about). We also run an excellent MSc in Information Security [Degree](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc) and a [Centre](https://www.ucl.ac.uk/cybersecurity-cdt/) for Doctoral Training in Cybersecurity, and maintain a [blog](https://benthamsgaze.org/) called Bentham's Gaze.  
+Check out the UCL's InfoSec research group [page](/about). We also run an MSc in Information Security [Degree](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc) and a [Centre](https://www.ucl.ac.uk/cybersecurity-cdt/) for Doctoral Training in Cybersecurity, and maintain a [blog](https://benthamsgaze.org/) called Bentham's Gaze.  
 * *Any other questions?*  
 Please [email](mailto:silpa.shah@ucl.ac.uk) us!  
 

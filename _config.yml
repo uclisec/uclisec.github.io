@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UCL ISec"
+title                    : "UCL Information Security"
 title_separator          : "-"
 name                     : &name
 description              : 

@@ -17,8 +17,8 @@ author_profile: true
 - [Dr. Marie Vasek](https://mvasek.com/index.html) \| Lecturer in Information Security
 
 ### Support Staff
-- Silpa Shah \| Centre Administrator
-- Samantha Bottomley \| MSc Information Security Administrator 
+- [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator
+- [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
 
 ### Research Staff
 

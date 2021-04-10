@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "UCL Information Security Group"
 title_separator          : "-"
-name                     : &name "UCL Information Security Group"
-description              : &description "personal description"
+name                     : &name "UCL ISec"
+description              : 
 url                      : https://uclisec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uclisec/uclisec.github.io"

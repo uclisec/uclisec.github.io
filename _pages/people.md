@@ -4,7 +4,20 @@ permalink: /people/
 author_profile: true
 ---
 
-### Academic Staff (with images)
+### Academic Staff  
+<br>
+
+<img src="../images/nicolas.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Nicolas Courtois**](http://www.cs.ucl.ac.uk/staff/N.Courtois/)  
+Senior Lecturer  
+<br>
+<br>
+
+<img src="../images/george.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**George Danezis**](http://www0.cs.ucl.ac.uk/staff/G.Danezis/)  
+Professor of Security and Privacy Engineering  
+<br>
+<br>
 
 <img src="../images/emiliano.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Emiliano De Cristofaro**](https://emilianodc.com/)  
@@ -12,24 +25,42 @@ Professor of Security and Privacy Enhancing Technologies
 Head of Group  
 <br>
 
-<img src="../images/george.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**George Danezis**](http://www0.cs.ucl.ac.uk/staff/G.Danezis/)  
-Professor of Security and Privacy Engineering  
-Research Scientist, Facebook's Blockchain team  
+<img src="../images/philipp.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Philipp Jovanovic**](https://philipp.jovanovic.io/)  
+Associate Professor in Information Security  
+<br>
 <br>
 
+<img src="../images/sarah.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Sarah Meiklejohn**](https://smeiklej.com/)  
+Professor of Cryptography and Security  
+<br>
+<br>
 
-### Academic Staff (without images)
+<img src="../images/steven.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Steven Murdoch**](https://murdoch.is/)  
+Professor of Security Engineering  
+<br>
+<br>
 
-- [Dr. Nicolas Courtois](http://www.cs.ucl.ac.uk/staff/N.Courtois/) \| Senior Lecturer
-- [Prof. George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) \| Professor of Security and Privacy Engineering
-- [Prof. Emiliano De Cristofaro](https://emilianodc.com/) \| Head of Group, Professor of Security and Privacy Enhancing Technologies
-- [Dr. Philipp Jovanovic](https://philipp.jovanovic.io/) \| Associate Professor in Information Security
-- [Prof. Sarah Meiklejohn](https://philipp.jovanovic.io/) \| Professor of Cryptography and Security
-- [Prof. Steven Murdoch](http://www0.cs.ucl.ac.uk/staff/s.murdoch/) \| Professor of Security Engineering
-- [Prof. David Pym](http://www0.cs.ucl.ac.uk/staff/D.Pym/) \| Professor of Information, Logic, and Security
-- [Prof. Angela Sasse](https://uclisec.github.io/people/m_angela_sasse/) \| Professor of Human-Centred Technology
-- [Dr. Marie Vasek](https://mvasek.com/index.html) \| Lecturer in Information Security
+<img src="../images/david.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**David Pym**](http://www0.cs.ucl.ac.uk/staff/D.Pym/)  
+Professor of Information, Logic, and Security  
+<br>
+<br>
+
+<img src="../images/angela.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Angela Sasse**](https://uclisec.github.io/people/m_angela_sasse/)  
+Professor of Human-Centred Technology  
+<br>
+<br>
+
+<img src="../images/marie.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Marie Vasek**](https://mvasek.com/)  
+Lecturer in Information Security  
+<br>
+<br>
+
 
 ### Support Staff
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator

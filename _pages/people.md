@@ -1,5 +1,5 @@
 ---
-title: "iDrama Members"
+title: "UCL ISec Members"
 permalink: /people/
 author_profile: true
 ---

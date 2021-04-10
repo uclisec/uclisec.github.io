@@ -43,10 +43,10 @@ Some of the key research themes addressed by the group include, but are not limi
 
 ## Affiliated Centres and Activities
 
-- [Academic Centre of Excellence in Cyber Security Research](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)
-- [Bentham's Gaze](https://benthamsgaze.org/) (Blog)
-- [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/cybersecurity-cdt/)
-- [MSc Degree in Information Security](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc)
-- [Security Science Doctoral Training Centre](http://www.ucl.ac.uk/secret/homepage) (SECReT)
-- [Science of Cyber Security Research Institute](http://www.ucl.ac.uk/cybersecurity/)
-- [Twitter](https://twitter.com/uclisec)
+- Academic Centre of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/))
+- Bentham's Gaze ([Blog](https://benthamsgaze.org/))
+- Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/))
+- MSc Degree in Information Security ([MSc InfoSec](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc))
+- Security Science Doctoral Training Centre ([SECReT](http://www.ucl.ac.uk/secret/homepage))
+- Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
+- Twitter ([@uclisec](https://twitter.com/uclisec))

@@ -6,6 +6,21 @@ author_profile: true
 
 ### Academic Staff
 
+<img src="../images/emiliano.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**Emiliano De Cristofaro**](https://emilianodc.com/)  
+Professor of Security and Privacy Enhancing Technologies  
+Head of Group
+<br>
+
+<img src="../images/george.jpg" style="float:left;width:100px;height:100px" hspace="20">
+[**George Danezis**](http://www0.cs.ucl.ac.uk/staff/G.Danezis/)  
+Professor of Security and Privacy Engineering  
+Head of Group
+<br>
+
+
+### Academic Staff
+
 - [Dr. Nicolas Courtois](http://www.cs.ucl.ac.uk/staff/N.Courtois/) \| Senior Lecturer
 - [Prof. George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) \| Professor of Security and Privacy Engineering
 - [Prof. Emiliano De Cristofaro](https://emilianodc.com/) \| Head of Group, Professor of Security and Privacy Enhancing Technologies

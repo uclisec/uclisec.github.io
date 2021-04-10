@@ -1,0 +1,160 @@
+/* CSS Document */
+#content {
+  width: auto;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-image:url(../images/bg_combinedLines.gif);
+  background-position:center;
+  background-repeat:repeat-y;
+}
+
+#leftcontent {
+  position: relative;
+    float:left;
+  left: 0px;
+  top: 0px;
+  width:190px;
+  padding: 5px;
+    margin-left: 0px;
+  background-color:#FAFAFA;
+}
+
+  
+#centercontent {
+  padding-left:3px;
+  padding-right:3px;
+  margin-left: 191px;
+  margin-right: 189px;
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  margin-left: 193px;
+  margin-right:191px;
+  /* background-image: url(../images/dotted_line.gif);
+       background-repeat: repeat-y; */
+  min-height: 400px;
+  
+  background:#FFFFFF;
+}
+
+#centercontent img {
+  float:left;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+
+#centercontentrhborder {
+  /* background-image: url(../images/dotted_line.gif);
+     background-repeat: repeat-y; */
+  padding-top:3px;
+  padding-left:3px;
+  padding-right:3px;
+  background-position: right;
+  }
+
+html>body #centercontent {
+margin-left: 193px;
+margin-right:191px;
+  }
+  
+#centercontent2cols {
+padding-left:3px;
+padding-right:3px;
+voice-family: "\"}\"";
+voice-family: inherit;
+/* background-image: url(../images/dotted_line.gif); 
+   background-repeat: repeat-y; */
+min-height: 400px;
+  }
+#centercontentrhborder2cols {
+  padding-top:3px;
+  padding-left:3px;
+  padding-right:3px;
+  }
+
+html>body #centercontent2cols {
+margin-left: 193px;
+  }
+  
+
+#centercontent1col {
+padding-left:3px;
+padding-right:3px;
+voice-family: "\"}\"";
+voice-family: inherit;
+min-height: 400px;
+  }
+#centercontentrhborder1col {
+  padding-top:3px;
+  padding-left:3px;
+  padding-right:3px;
+  }
+
+#smalltext
+
+{
+  font-size: .75em;
+font-weight:bold;
+  
+}
+
+
+#rightcontent {
+  position: absolute;
+  right: 0px;
+  top: 130px;
+  width:190px;
+  padding: 0px;
+  background-color:#AFCDE3;
+}
+  
+#hr {
+height:1px;
+border-top: 1px solid #AAAAAA;
+margin: 0;
+padding: 0;
+}
+
+
+
+#footer {
+  width:100%;
+  padding-top:5px;
+  height:auto;
+        clear:both;
+}
+
+#inlinelist {
+  
+  list-style:none;
+  padding-left: 5px;
+  margin: 0;
+  }
+
+
+#inlinelist ul {
+  display: inline;
+  margin:0;
+  padding:0;
+  }
+  
+#inlinelist li {
+  display: inline;
+  margin:0;
+  }
+
+#phone {
+vertical-align: middle;
+}
+
+#google_image {
+border: 0;
+padding-left:5px;
+}
+
+#bodyspacer
+
+{height:200px;}
+
+
+

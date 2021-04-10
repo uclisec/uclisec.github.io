@@ -26,3 +26,7 @@ You can also subscribe to our Google Calendar: \[[ICS](https://www.google.com/ca
 Check out the UCL's InfoSec research group [page](/about). We also run an excellent MSc in Information Security [Degree](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc) and a [Centre](https://www.ucl.ac.uk/cybersecurity-cdt/) for Doctoral Training in Cybersecurity, and maintain a [blog](https://benthamsgaze.org/) called Bentham's Gaze.  
 * *Any other questions?*  
 Please [email](mailto:silpa.shah@ucl.ac.uk) us!  
+
+
+Past Events
+---

@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "People"
+    url: /people/
+
+  - title: "Seminars"
+    url: /seminars/
+
+  - title: "Contact"
+    url: /contact/    

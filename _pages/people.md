@@ -13,7 +13,7 @@ author_profile: true
 - [Prof. Sarah Meiklejohn](https://philipp.jovanovic.io/) \| Professor of Cryptography and Security
 - [Prof. Steven Murdoch](http://www0.cs.ucl.ac.uk/staff/s.murdoch/) \| Professor of Security Engineering
 - [Prof. David Pym](http://www0.cs.ucl.ac.uk/staff/D.Pym/) \| Professor of Information, Logic, and Security
-- [Prof. Angela Sasse](people/m_angela_sasse/) \| Professor of Human-Centred Technology
+- [Prof. Angela Sasse](https://uclisec.github.io/people/m_angela_sasse/) \| Professor of Human-Centred Technology
 - [Dr. Marie Vasek](https://mvasek.com/index.html) \| Lecturer in Information Security
 
 ### Support Staff
@@ -71,4 +71,4 @@ author_profile: true
 - [Susan Landau](https://privacyink.org/)
 - [Ben Laurie](https://en.wikipedia.org/wiki/Ben_Laurie)
 - [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/)
-- [Simon Parkin](people/simon_parkin/)
+- [Simon Parkin](https://uclisec.github.io/people/simon_parkin/)

@@ -6,19 +6,19 @@ author_profile: true
 
 ### Academic Staff
 
-- Dr. Nicolas Courtois | Senior Lecturer
-- Prof. George Danezis | Professor of Security and Privacy Engineering
-- Prof. Emiliano De Cristofaro | Head of Group, Professor of Security and Privacy Enhancing Technologies
-- Dr. Philipp Jovanovic | Associate Professor in Information Security
-- Prof. Sarah Meiklejohn | Professor of Cryptography and Security
-- Prof. Steven Murdoch | Professor of Security Engineering
-- Prof. David Pym | Professor of Information, Logic, and Security
-- Prof. Angela Sasse | Professor of Human-Centred Technology
-- Dr. Marie Vasek | Lecturer in Information Security
+- Dr. Nicolas Courtois \| Senior Lecturer
+- Prof. George Danezis \| Professor of Security and Privacy Engineering
+- Prof. Emiliano De Cristofaro \| Head of Group, Professor of Security and Privacy Enhancing Technologies
+- Dr. Philipp Jovanovic \| Associate Professor in Information Security
+- Prof. Sarah Meiklejohn \| Professor of Cryptography and Security
+- Prof. Steven Murdoch \| Professor of Security Engineering
+- Prof. David Pym \| Professor of Information, Logic, and Security
+- Prof. Angela Sasse \| Professor of Human-Centred Technology
+- Dr. Marie Vasek \| Lecturer in Information Security
 
 ### Support Staff
-- Silpa Shah | Centre Administrator
-- Samantha Bottomley | MSc Information Security Administrator 
+- Silpa Shah \| Centre Administrator
+- Samantha Bottomley \| MSc Information Security Administrator 
 
 ### Research Staff
 

@@ -1,0 +1,149 @@
+#higher
+
+{
+	width:100%;
+        padding-bottom:3px;
+	
+}
+
+
+#index 
+{
+
+margin-top:15px;
+}
+#lower
+
+{
+        clear:both;
+        display:block;
+	text-align: center;
+}
+
+
+
+#lower_menu_container
+
+{
+width:100%;
+text-align: center;
+}
+
+ul.left {
+    float:left;
+    display: inline;
+    padding: 15px 0px;
+    border: 0px none; 
+    list-style-type: none;
+    width:200px;
+    height: 40px;
+
+  }
+
+ul.left li {
+padding-bottom:7px;
+vertical-align:text-top;
+}
+
+.bold_link {
+
+font-weight:bold;
+padding-bottom: 2px;
+
+}
+
+input#title {
+
+margin-left: 120px;
+
+}
+
+input#first {
+
+margin-left: 77px;
+
+}
+
+input#family {
+
+margin-left: 5px;
+
+}
+
+input#prn {
+
+margin-left: 14px;
+
+}
+
+input#dob {
+
+margin-left: 75px;
+
+}
+
+input#qual {
+
+margin-left: 5px;
+
+}
+
+input#dept {
+
+margin-left: 100px;
+
+}
+
+input#year {
+
+margin-left: 113px;
+
+}
+
+input#house {
+
+margin-left: 5px;
+
+}
+
+input#town {
+
+margin-left: 96px;
+
+}
+
+input#area {
+
+margin-left: 84px;
+
+}
+
+input#zip {
+
+margin-left: 41px;
+
+}
+
+input#country {
+
+margin-left: 111px;
+
+}
+
+input#tel {
+
+margin-left: 5px;
+
+}
+
+input#email {
+
+margin-left: 5px;
+
+}
+
+p.field {
+
+margin-left:15px;
+
+}

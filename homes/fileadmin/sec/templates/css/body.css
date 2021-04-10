@@ -1,0 +1,230 @@
+body.default
+ {
+	/* margin: 0; */
+	padding: 0;
+	border: 0;
+	background-color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+
+
+body.blue_sansserif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #d3f7f7 !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+body.blue_serif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #d3f7f7 !important;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+body.green_sansserif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #d3f7e8 !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+body.green_serif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #d3f7e8 !important;
+	font-family: "Times New Roman", Times, serif;
+
+}
+body.grey_sansserif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #f5f8f7 !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+body.grey_serif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #f5f8f7 !important;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+body.pink_sansserif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #f8e7f5 !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+body.pink_serif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #f8e7f5 !important;
+	font-family: "Times New Roman", Times, serif;
+
+}
+body.yellow_sansserif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #FFFFCC !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+body.yellow_serif
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #FFFFCC !important;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+body.txt_black_yellow
+
+{
+	margin: 0;
+	padding: 10px;
+	border: 0;
+	background-color: #000000 !important;
+        color: yellow;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        width:100%;
+
+        
+
+}
+
+body.txt_white_black
+
+{
+	margin: 5px;
+	padding: 10px;
+	border: 0;
+	background-color: #FFFFFF !important;
+        color: #000000;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        width:100%;
+
+
+}
+
+
+body.txt_black_yellow img, body.txt_black_yellow #banner, body.txt_black_yellow #footer, body.txt_black_yellow #rightcontent, body.txt_black_yellow #ucl0074 
+{ display: none;
+
+}
+
+body.txt_white_black img, body.txt_white_black #banner, body.txt_white_black #footer, body.txt_white_black #rightcontent, body.txt_white_black #ucl0074 
+{ display: none;
+
+}
+
+body.txt_black_yellow #content, body.txt_white_black #content {
+	margin-left:35px;
+        margin-right:35px;
+}
+
+body.txt_black_yellow ul, body.txt_black_yellow .space {
+	list-style-type: square;
+}
+
+body.txt_white_black ul,  body.txt_white_black .space {
+	list-style-type: square;
+}
+
+body.txt_white_black ul.lhmenu li , body.txt_black_yellow ul.lhmenu li {
+	padding-left:3px;
+        padding-right:3px;
+        display: inline;
+}
+
+html>body.txt_black_yellow #centercontent, html>body.txt_white_black #centercontent  {
+margin-left: 0px;
+margin-right:0px;
+	}
+
+body.txt_black_yellow #leftcontent, body.txt_white_black #leftcontent {
+        margin-left: 3px;
+        display:block;
+        float:none;
+width:100%;
+	}
+
+body.txt_black_yellow #centercontentrhborder, body.txt_white_black #centercontentrhborder 
+
+{
+background-image:  none;
+padding:0;
+display:block;}
+
+body.txt_black_yellow #centercontent, body.txt_white_black #centercontent {
+background-image:  none;
+margin-left:0;
+margin-right:0;
+display:block;
+	}
+
+body.txt_black_yellow a:link {
+    color: yellow;
+	text-decoration: underline;
+}
+body.txt_black_yellow a:visited {
+    color: yellow;
+	text-decoration: underline;
+}
+
+body.txt_black_yellow a:hover {
+    color: yellow;
+    text-decoration: underline;
+    background-color: green;
+
+}
+body.txt_black_yellow a:active {
+color: yellow;
+text-decoration: none;
+}
+
+body.txt_white_black a:link {
+	text-decoration: underline;
+}
+body.txt_white_black a:visited {
+	text-decoration: underline;
+}
+
+body.txt_white_black a:hover {
+   background-color: #FFFFCC;
+
+}
+
+body.txt_white_black a:active {
+text-decoration: underline;
+}

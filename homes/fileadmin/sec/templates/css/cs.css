@@ -1,0 +1,208 @@
+#responsible {
+padding-top: 15px;
+text-align:right;
+font-size:10px;
+}
+
+/* for IE6 */
+#actualcontent {
+height:400px;
+}
+
+/* for good browsers */
+html>body #actualcontent {
+min-height: 400px;
+height: auto;
+overflow: hidden;
+}
+
+#uclblue {
+width:100%;
+margin: 0;
+padding: 0;
+height:22px;
+background-color:#d1d2d4;
+}
+
+#tb-uclblue {
+background-color: #000055;
+height: 111px;
+}
+
+#uclhome {
+width:100%;
+margin: 0;
+padding: 0;
+height:22px;
+background-color:#FF6633;
+}
+
+#tb-uclhome {
+background-color: #CCCCCC;
+height: 111px;
+} 
+
+#uclbioinf {
+width:100%;
+margin: 0;
+padding: 0;
+height:22px;
+background-color:#8CA5D6;
+}
+
+#tb-uclbioinf {
+background-color: #00319c;
+height: 111px;
+}
+
+
+#tb-csml {
+background-color: #00319C;
+height: 120px;
+}
+
+#uclcsml {
+width:100%;
+margin: 0;
+padding: 0;
+height:22px;
+background-color:#8CA5D6;
+}
+
+
+#section_header_black {
+        font-size: 14px;
+        font-weight:bold;
+        color:#000000;
+        padding-left: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#section_subheader_black{
+        font-size: 11px;
+        font-weight:lighter;
+        color:#000000;
+        padding-left: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div.lhmenu
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: #000000;
+        text-decoration: none;
+        vertical-align:middle;
+        padding-bottom:2px;
+        padding-top:2px;
+}       
+
+div.lhmenuindent
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: #000000;
+        text-decoration: none;
+        vertical-align:middle;
+        padding-bottom:1px;
+        padding-top:1px;
+        padding-left:7px;
+}
+
+div.lhmenuindent2
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: #000000;
+        text-decoration: none;
+        vertical-align:middle;
+        padding-bottom:1px;
+        padding-top:1px;
+        padding-left:14px;
+}
+
+div.lhmenuindent3
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: #000000;
+        text-decoration: none;
+        vertical-align:middle;
+        padding-bottom:1px;
+        padding-top:1px;
+        padding-left:21px;
+}
+
+        
+table.contenttable-3
+{       
+        width: 90%;
+        /* cellpadding: 10; */
+        /* cellspacing: 1; */
+        margin-left: auto;
+        margin-right: auto;
+        border: 0;
+        border-collapse: collapse;
+        background-color: #e2e2e2;
+}
+
+table.contenttable-2
+{       
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        /* cellpadding: 10; */
+        border: 0;
+}
+
+table.contenttable-2 * td.td-0, table.contenttable-2 * td.td-1, table.contenttable-2 * td.td-last, table.contenttable-3 * td.td-0, table.contenttable-3 * td.td-1, table.contenttable-3 * td.td-last
+{
+        vertical-align: top;
+        width: 33%;
+}
+
+table.contenttable-1
+{
+        width: 90%;
+        /* cellpadding: 10; */
+        /* cellspacing: 1; */
+        margin-left: auto;
+        margin-right: auto;
+        border: 0;
+        border-collapse: collapse;
+        background-color: #e2e2e2;
+}
+
+table.contenttable-1 > thead {
+        background-color: #929292;
+        color: white;
+        vertical-align: top;
+}
+
+table.contenttable-1 >tbody {
+        background-color: #e2e2e2;
+        vertical-align: top;
+}
+
+#section_header_white {
+        font-size: 14px;
+        font-weight:bold;
+        color:#FFFFFF;
+        padding-left: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#section_subheader_white{
+        font-size: 11px;
+        font-weight:lighter;
+        color:#FFFFFF;
+        padding-left: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Two frame examples taken from the example CSS file of CSS Styled Content extension and applied to p and table block elements.*/
+p.csc-frame-frame1, table.csc-frame-frame1 { background-color: #EDEBF1; padding: 2px 4px 2px 4px; border: 1px solid #333333; }
+p.csc-frame-frame2, table.csc-frame-frame2 { background-color: #F5FFAA; padding: 2px 4px 2px 4px; border: 1px solid #333333; }
+
+table#pubtable  {
+	border-spacing: 10px;
+}

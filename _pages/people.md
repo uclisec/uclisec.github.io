@@ -22,7 +22,7 @@ author_profile: true
 
 ### Research Staff
 
-- Dr. Tristan Caulfield
+- [Dr. Tristan Caulfield](https://www.tristancaulfield.com/)
 
 ### Doctoral Researchers
 
@@ -66,10 +66,9 @@ author_profile: true
 - Haaroon Yousaf
 
 ### Honorary and Visiting Members
-- Yvo G. Desmedt
-- Jens Groth
-- Gus Hosein
-- Susan Landau
-- Ben Laurie
-- Gianluca Stringhini
-- Simon Parkin
+- [Jens Groth](http://www.cs.ucl.ac.uk/staff/J.Groth/)
+- [Gus Hosein](https://privacyinternational.org/people/95/gus-hosein)
+- [Susan Landau](https://privacyink.org/)
+- [Ben Laurie](https://en.wikipedia.org/wiki/Ben_Laurie)
+- [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/)
+- [Simon Parkin](http://sec.cs.ucl.ac.uk/people/simon_parkin/)

@@ -9,13 +9,15 @@ author_profile: true
 <img src="../images/emiliano.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Emiliano De Cristofaro**](https://emilianodc.com/)  
 Professor of Security and Privacy Enhancing Technologies  
-Head of Group
+Head of Group  
+<br>
 <br>
 
 <img src="../images/george.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**George Danezis**](http://www0.cs.ucl.ac.uk/staff/G.Danezis/)  
 Professor of Security and Privacy Engineering  
-Head of Group
+<br>
+<br>
 <br>
 
 

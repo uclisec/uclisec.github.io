@@ -442,7 +442,7 @@ Bridging large-scale data collection and analysis
 Practicing a Science of Security: A Philosophy of Science Perspective  
 *InfoSec Seminar, Roberts G08*
 * 24 August 2017  
-**Francois Labreche, Ecole Polytechnique de Montreal**  
+**Francois Labreche, École Polytechnique de Montreal**  
 POISED: Spotting Twitter Spam Off the Beaten Paths  
 *InfoSec Seminar, Gordon Street(25)*
 * 10 August 2017  
@@ -593,7 +593,7 @@ ACE Lectures, including Jens Groth's Inaugural Lecture: "Zero-Knowledge Proofs"
 Privacy-Friendly Mobility Analytics using Aggregate Location Data  
 *InfoSec Seminar, Gordon Street(25)*
 * 20 October 2016  
-**Toby, GCHQ (NCSC)**  
+**Toby, GCHQ/NCSC**  
 Cyber Security in Practice: Detecting Real Attacks on Real Networks  
 *ACE Seminar, Gordon Street(25)*
 * 13 October 2016  
@@ -898,7 +898,7 @@ Controlled Data Sharing for Collaborative Predictive Blacklisting
 System Security meets Usable Security – Administrators and Developers are humans too  
 *ACE Seminar, MPEB 1.02*
 * 4 June 2015  
-**Ben Smith, Ecole Polytechnique**  
+**Ben Smith, École Polytechnique**  
 (Slightly) more practical quantum factoring  
 *ACE Seminar, MPEB 1.20*
 * 28 May 2015  

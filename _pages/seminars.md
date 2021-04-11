@@ -40,199 +40,199 @@ Past Events
 * 25 March 2021  
 **Joseph Tanega, Vrije Universiteit Brussels**  
 NFT Art, Digital Asset-Backed Securities, and Universal Constructions in The Mathematical Philosophy of Law and Finance  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 11 March 2021  
 **Giovanni Cherubin, The Alan Turing Institute**  
 Black-box leakage estimation, and some thoughts on its applicability to membership inference and synthetic data  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 4 March 2021  
 **Arthur Gervais, Imperial College London**  
 Flash Loans for Fun and Profit  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 18 February 2021  
 **Benjamin Alexander Steer, Queen Mary University/ The Alan Truing Institue**  
 Moving with the Times: Investigating the Alt-Right Network Gab with Temporal Interaction Graphs  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 11 February 2021  
 **Craig Costello, Microsoft**  
 Finding twin smooth integers for isogeny-based cryptography  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 
 ### 2020
 
 * 10 December 2020  
 **Chelsea Komlo, University of Waterloo**  
 Introducing FROST: Flexible Round-Optimized Schnorr Threshold Signatures  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 17 December 2020  
 **Michael Veale, UCL Law**  
 The use and (potential) abuse of privacy-preserving infrastructures  
-InfoSec Seminar, Virtual
+*InfoSec Seminar, Virtual*
 * 3 December 2020  
 **Ryan Castelucci, White Ops**  
 BitCry  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 26 November 2020  
 **Arianna Trozze, UCL**  
 Explaining Prosecution Outcomes for Cryptocurrency-based Financial Crimes  
-InfoSec Seminar, Virtual
+*InfoSec Seminar, Virtual*
 * 19 November 2020  
 **Henry Skeoch, UCL**  
 Cyber-insurance: what is the right price?  
-InfoSec Seminar, Virtual
+*InfoSec Seminar, Virtual*
 * 12 November 2020  
 **Antonis Papasavva, UCL**  
 "Go back to Reddit!: Detecting Hate and Analyzing Narratives of Online Fringe Communities  
-InfoSec Seminar, Virtual
+*InfoSec Seminar, Virtual*
 * 5 November 2020  
 **Alin Tomescu, VMware**  
 Authenticated Data Structures for Stateless Validation and Transparency Logs  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 28 May 2020  
 **Henry Corrigan-Gibbs, EPFL**  
 Private Information Retrieval with Sublinear Online Time  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 7 May 2020  
 **Fabio Pierazzi, King's College London**  
 Intriguing Properties of Adversarial ML Attacks in the Problem Space  
-ACE Seminar, Virtual
+*ACE Seminar, Virtual*
 * 11 March 2020  
 **Yang Zhang, CISPA Helmholtz Center for Information Security**  
 Towards Understanding Privacy Risks of Machine Learning Models  
-ACE Seminar, Malet Place Engineering Building 6.12A
+*ACE Seminar, Malet Place Engineering Building 6.12A*
 * 5 March 2020  
 **Gene Tsudik, University of California, Irvine**  
 Reconciling security and real-time constraints for simple IoT devices  
-ACE Seminar, Main Quad Pop Up 101
+*ACE Seminar, Main Quad Pop Up 101*
 
 ### 2019
 
 * 12 December 2019  
 **Mathieu Baudet, Calibra**  
 LibraBFTv2: Optimistically-linear BFT Consensus with Concrete Latency Bounds  
-ACE Seminar, Roberts 421
+*ACE Seminar, Roberts 421*
 * 21 November 2019  
 **Ilias Leontiadis, Samsung AI**  
 Learnings from industrial research on privacy and machine learning on wireless networks  
-ACE Seminar, Roberts 421
+*ACE Seminar, Roberts 421*
 * 8 November 2019  
 **Ian Goldberg, University of Waterloo**  
 Walking Onions: Scaling Anonymity Networks while Protecting Users  
-ACE Seminar, Malet Place Engineering Building 1.03
+*ACE Seminar, Malet Place Engineering Building 1.03*
 * 7 November 2019  
 **Enrico Mariconti, UCL**  
 "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks  
-InfoSec Seminar, Drayton House B03 Ricardo LT
+*InfoSec Seminar, Drayton House B03 Ricardo LT*
 * 31 October 2019  
 **Bristena Oprisanu, UCL**  
-How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data"  
-InfoSec Seminar, Drayton House B03 Ricardo LT
+How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data  
+*InfoSec Seminar, Drayton House B03 Ricardo LT*
 * 17 October 2019  
 **Kirill Nikitin, EPFL**  
 Reducing Metadata Leakage from Encrypted Files and Communication with PURBs  
-InfoSec Seminar, Drayton House B03 Ricardo LT
+*InfoSec Seminar, Drayton House B03 Ricardo LT*
 * 10 October 2019  
 **Grace Cassey, CyLon**  
 First Steps Towards Building a Cybersecurity Spinout  
-ACE Seminar, Drayton House B03 Ricardo LT
+*ACE Seminar, Drayton House B03 Ricardo LT*
 * 3 October 2019  
 **Nicolas Kourtellis, Telefonica Research**  
 Online user tracking and personal data leakage in the big data era  
-ACE Seminar, Roberts Building G06
+*ACE Seminar, Roberts Building G06*
 * 5 September 2019  
 **Simon Parkin and Albesa Demjaha, UCL**  
 You’ve left me no choices: Security economics to inform behaviour intervention support in organizations  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 15 August 2019  
 **Guillermo Suarez de Tangil Rotaeche, King's College London**  
 A First Look at the Crypto-Mining Malware Ecosystem: A Decade of Unrestricted Wealth  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 8 August 2019  
 **Savvas Zannettou, Cyprus University of Technology**  
 Towards Understanding the Behavior of State-Sponsored Trolls and their Influence on the Web  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 8 August 2019  
 **Haaroon Yousaf, University College London**  
 Tracing Transactions Across Cryptocurrency Ledgers  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 1 August 2019  
 **Simon Parkin, University College London**  
 Of Two Minds about Two-Factor: Understanding Everyday FIDO U2F Usability through Device Comparison and Experience Sampling  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 25 July 2019  
 **Matthew Wixey, University College London**  
 Sound Effects: Exploring Acoustic Cyber-Weapons  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 18 July 2019  
 **Prof. Dr. Christian Hammer, Uni Potsdam**  
 Security and Privacy Issues due to Android Intents  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 4 July 2019  
 **Alexandros Mittos, University College London**  
 Systematizing Genome Privacy Research: A Privacy-Enhancing Technologies Perspective  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 28 June 2019  
 **Battista Biggio, University of Cagliari**  
 Wild Patterns: Ten Years after the Rise of Adversarial Machine Learning  
-ACE Seminar, Alan Turing Institute, Jack Good Meeting Room
+*ACE Seminar, Alan Turing Institute, Jack Good Meeting Room*
 * 27 June 2019  
 **Colin Ife, University College London**  
 Waves of Malice: A Longitudinal Measurement of the Malicious File Delivery Ecosystem on the Web  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 10 June 2019  
 **Matthew Wright, Rochester Institute of Technology**  
 Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 12 June 2019  
 **Houman Homayoun, George Mason University**  
 Towards Hardware Cybersecurity  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 30 May 2019  
 **Nissy Sombatruang, University College London**  
 The Continued Risks of Public Wi-Fi and Why Users Keep Using It  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 16 May 2019  
 **Andrei Sabelfeld, Chalmers University of Technology**  
 Securing IoT Apps  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 9 May 2019  
 **Ilia Shumailov, University of Cambridge**  
 Towards Adversarial Sample Detection in Constraint Devices, Key Embedding and Neural Cryptography  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 2 May 2019  
 **Shi Zhou, University College London**  
 Twitter Botnets Detection -- Star Wars and Failure of Supervised Learning  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 25 April 2019  
 **Adria Gascon, Alan Turing Institute**  
 Privacy-Preserving Data Analysis: Proofs, Algorithms, and Systems  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 28 March 2019  
 **Enrico Mariconti, University College London**  
 One Does Not Simply Walk Into Mordor A PhD Journey in Malicious Behavior Detection  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 28 February 2019  
 **Jonathan Lusthaus, Oxford University**  
 Industry of Anonymity: Inside the Business of Cybercrime  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 14 February 2019  
 **Simon Parkin, UCL**  
 Device Purchase as an Opportune Moment for Security Behavior Change / Perceptions and Reality of Windows 10 Home Edition Update Features  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 7 February 2019  
 **Mustafa Al-Bassam, UCL**  
 Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities  
-InfoSec Seminar, Roberts 309
+*InfoSec Seminar, Roberts 309*
 * 29 January 2019  
 **Alvaro Garcia-Perez, IMDEA Software Institute**  
 Federated Byzantine Quorum Systems  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 31 January 2019  
 **Vid Simoniti, University of Liverpool**  
 Deception and Politics Online: A Philosophical Approach  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 * 17 January 2019  
 **Soteris Demetriou, Imperial College London**  
 Security and Privacy Challenges in User-Facing, Complex, Interconnected Environments  
-ACE Seminar, Roberts 309
+*ACE Seminar, Roberts 309*
 

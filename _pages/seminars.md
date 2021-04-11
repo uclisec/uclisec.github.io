@@ -865,7 +865,7 @@ Applying Sentiment Analysis to Identify Different Conceptions of Security and Us
 *InfoSec Seminar, MPEB 1.02*
 * 30 July 2015  
 **Kat Krol, UCL**  
-"""Too taxing on the mind!"" Authentication grids are not for everyone"  
+"Too taxing on the mind! Authentication grids are not for everyone  
 *InfoSec Seminar, MPEB 1.02*
 * 23 July 2015  
 **Gareth Tyson, Queen Mary**  

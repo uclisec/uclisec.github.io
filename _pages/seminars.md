@@ -82,7 +82,7 @@ Cyber-insurance: what is the right price?
 *InfoSec Seminar, Virtual*
 * 12 November 2020  
 **Antonis Papasavva, UCL**  
-"Go back to Reddit!: Detecting Hate and Analyzing Narratives of Online Fringe Communities  
+"Go back to Reddit!": Detecting Hate and Analyzing Narratives of Online Fringe Communities  
 *InfoSec Seminar, Virtual*
 * 5 November 2020  
 **Alin Tomescu, VMware**  
@@ -121,11 +121,11 @@ Walking Onions: Scaling Anonymity Networks while Protecting Users
 *ACE Seminar, Malet Place Engineering Building 1.03*
 * 7 November 2019  
 **Enrico Mariconti, UCL**  
-"You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks  
+"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks  
 *InfoSec Seminar, Drayton House B03 Ricardo LT*
 * 31 October 2019  
 **Bristena Oprisanu, UCL**  
-How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data  
+How Much Does GenoGuard Really "Guard"? An Empirical Analysis of Long-Term Security for Genomic Data  
 *InfoSec Seminar, Drayton House B03 Ricardo LT*
 * 17 October 2019  
 **Kirill Nikitin, EPFL**  
@@ -622,7 +622,6 @@ A Changing Landscape: Securing The Internet Of Things (IoT)
 *ACE Seminar, MPEB 1.02*
 * 28 July 2016  
 **Professor Delphine Reinhardt, University of Bonn**  
-  
 *ACE Seminar, Roberts 110*
 * 26 July 2016  
 **Professor Gilles Barthe, IMDEA Software Institute**  
@@ -642,7 +641,6 @@ How to do Zero Knowledge from Discrete Logs in under 7kB
 *InfoSec Seminar, MPEB 1.04*
 * 30 June 2016  
 **Raphael Toledo, UCL**  
-  
 *InfoSec Seminar, Roberts 110*
 * 23 June 2016  
 **Maura Paterson,, Birkbeck**  
@@ -865,7 +863,7 @@ Applying Sentiment Analysis to Identify Different Conceptions of Security and Us
 *InfoSec Seminar, MPEB 1.02*
 * 30 July 2015  
 **Kat Krol, UCL**  
-"Too taxing on the mind! Authentication grids are not for everyone  
+"Too taxing on the mind!" Authentication grids are not for everyone  
 *InfoSec Seminar, MPEB 1.02*
 * 23 July 2015  
 **Gareth Tyson, Queen Mary**  

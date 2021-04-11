@@ -442,7 +442,7 @@ Bridging large-scale data collection and analysis
 Practicing a Science of Security: A Philosophy of Science Perspective  
 *InfoSec Seminar, Roberts G08*
 * 24 August 2017  
-**Francois Labreche, Ecole Polytechnique de MontrealJ**  
+**Francois Labreche, Ecole Polytechnique de Montreal**  
 POISED: Spotting Twitter Spam Off the Beaten Paths  
 *InfoSec Seminar, Gordon Street(25)*
 * 10 August 2017  

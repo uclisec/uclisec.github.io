@@ -585,9 +585,9 @@ Understanding The Use Of Leaked Webmail Credentials
 Technology Transfer from Security Research Projects: A Personal Perspective  
 *ACE Seminar, Gordon Street(25)*
 * 2 November 2016  
-**Jens Groth, Zachary Peterson, Jens Krinke, UCL, UCL/Cal Poly, UCL**  
-ACE Lectures, including Jens Groth’s Inaugural Lecture: ‘Zero-Knowledge Proofs’ —Registration Required  
-ACE Event, Roberts 421*
+**Jens Groth, Zachary Peterson, Jens Krinke, UCL and Cal Poly**  
+ACE Lectures, including Jens Groth's Inaugural Lecture: "Zero-Knowledge Proofs"  
+*ACE Event, Roberts 421*
 * 27 October 2016  
 **Apostolos Pyrgelis, UCL**  
 Privacy-Friendly Mobility Analytics using Aggregate Location Data  

@@ -243,7 +243,7 @@ Security and Privacy Challenges in User-Facing, Complex, Interconnected Environm
 Fixing Revocation: How We Failed and How We'll Succeed  
 *ACE Seminar, Roberts 309*
 * 17 December 2018  
-**Nick Spooner, UC Berkley**  
+**Nick Spooner, UC Berkeley**  
 Aurora: Transparent zkSNARKs for R1CS  
 *ACE Seminar, Robert 309*
 * 6 December 2018  

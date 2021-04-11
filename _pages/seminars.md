@@ -101,7 +101,7 @@ Intriguing Properties of Adversarial ML Attacks in the Problem Space
 Towards Understanding Privacy Risks of Machine Learning Models  
 *ACE Seminar, Malet Place Engineering Building 6.12A*
 * 5 March 2020  
-**Gene Tsudik, University of California, Irvine**  
+**Gene Tsudik, UC Irvine**  
 Reconciling security and real-time constraints for simple IoT devices  
 *ACE Seminar, Main Quad Pop Up 101*
 
@@ -1093,7 +1093,7 @@ Towards systematic application sandboxing on Linux
 Fasten Your Seatbelts – An Overview and Security Considerations of Next Generation Air Traffic Communication  
 *ACE Seminar, MPEB 6.12*
 * 15 May 2014  
-**Odette Beris, Tony Morton, UCL**  
+**Odette Beris and Tony Morton, UCL**  
 Employee Risk Understanding and Compliance: Looking Through a Johari Window  
 *InfoSec Seminar, MPEB 6.12*
 * 1 May 2014  

@@ -1042,7 +1042,7 @@ New academic year kick-off – Welcoming New Academics
 ACE Event, MPEB 1.02*
 * 16 October 2014  
 **Emiliano De Cristofaro, UCL**  
-What's wrong with the Interwebs? Recent results measuring Web Filtering and Facebook Like Fraud (upcoming IMC papers)  
+What's wrong with the Interwebs? Recent results measuring Web Filtering and Facebook Like Fraud  
 *InfoSec Seminar, Roberts 110*
 * 9 October 2014  
 **Giovanni Vigna, UC Santa Barbara**  

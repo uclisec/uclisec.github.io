@@ -494,7 +494,7 @@ Automatic Learning and Enforcement of Authorization Rules in Online Social Netwo
 Obstacles to the Adoption of Secure Communication Tools  
 *InfoSec Seminar, Gordon Street(25)*
 * 27 April 2017  
-**Professor Anna Squicciarini, Penn State University**  
+**Anna Squicciarini, Penn State University**  
 Toward Controlling Malicious Users in Online Social Platforms  
 *ACE Seminar, Roberts 309*
 * 6 April 2017  
@@ -581,7 +581,7 @@ Déjà Q All Over Again: Tighter and Broader Reductions of q-Type Assumptions
 Understanding The Use Of Leaked Webmail Credentials  
 *InfoSec Seminar, Roberts 309*
 * 3 November 2016  
-**Professor N Asokan, Aalto University**  
+**N Asokan, Aalto University**  
 Technology Transfer from Security Research Projects: A Personal Perspective  
 *ACE Seminar, Gordon Street(25)*
 * 2 November 2016  
@@ -617,14 +617,14 @@ How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of D
 Cryptography in Practice  
 *ACE Seminar, Engineering Front Executive Suite 103*
 * 5 August 2016  
-**Professor Sanjay K. Jha, University of New South Wales**  
+**Sanjay K. Jha, University of New South Wales**  
 A Changing Landscape: Securing The Internet Of Things (IoT)  
 *ACE Seminar, MPEB 1.02*
 * 28 July 2016  
-**Professor Delphine Reinhardt, University of Bonn**  
+**Delphine Reinhardt, University of Bonn**  
 *ACE Seminar, Roberts 110*
 * 26 July 2016  
-**Professor Gilles Barthe, IMDEA Software Institute**  
+**Gilles Barthe, IMDEA Software Institute**  
 Language-based techniques for cryptography and privacy  
 Computer Science Distinguished Letcture, MPEB 1.02*
 * 14 July 2016  

@@ -454,11 +454,11 @@ ZCash: past, present, and future of an Anonymous Bitcoin like Crypto-Currency
 Applications of the Blockchain using Cryptography  
 *InfoSec Seminar, Gordon Street(25)*
 * 31 July 2017  
-**Sanaz Taheri Boshrooyeh, Koc University**  
+**Sanaz Taheri Boshrooyeh, Koç University**  
 Inonymous: Anonymous Invitation-Based System  
 *InfoSec Seminar, Roberts*
 * 31 July 2017  
-**Devris Isler, Koc University**  
+**Devris Isler, Koç University**  
 Threshold Single Password AuthenticationThreshold Single Password Authentication  
 *InfoSec Seminar, Roberts*
 * 20 July 2017  

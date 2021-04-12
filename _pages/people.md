@@ -60,7 +60,7 @@ Professor of Human-Centred Technology
 Lecturer in Information Security  
 <br>
 <br>
-
+<br>
 
 ### Support Staff
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator
@@ -71,6 +71,7 @@ Lecturer in Information Security
 <img src="../images/tristan.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Tristan Caulfield**](https://www.tristancaulfield.com/)  
 Senior Research Fellow  
+<br>
 <br>
 <br>
 

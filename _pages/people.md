@@ -4,7 +4,7 @@ permalink: /people/
 author_profile: true
 ---
 
-### Academic Staff  
+## Academic Staff  
 
 <img src="../images/nicolas.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Nicolas Courtois**](http://www.cs.ucl.ac.uk/staff/N.Courtois/)  
@@ -61,7 +61,7 @@ Lecturer in Information Security
 <br>
 <br>
 
-### Research Staff
+## Research Staff
 
 <img src="../images/tristan.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Tristan Caulfield**](https://www.tristancaulfield.com/)  
@@ -70,12 +70,12 @@ Senior Research Fellow
 <br>
 <br>
 
-### Support Staff
+## Support Staff
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator
 - [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
 
 
-### Doctoral Researchers
+## Doctoral Researchers
 
 - Sarah Azouvi
 - Adrián Bermúdez Villalva

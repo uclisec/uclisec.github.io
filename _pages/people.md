@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ### Academic Staff  
-<br>
 
 <img src="../images/nicolas.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Nicolas Courtois**](http://www.cs.ucl.ac.uk/staff/N.Courtois/)  

@@ -77,22 +77,22 @@ Senior Research Fellow
 
 ## Doctoral Researchers
 
-- Sarah Azouvi
+- [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Adrián Bermúdez Villalva
 - Daniel Blackwell
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
 - Ahana Datta
-- Killian Davitt
+- [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
 - Albesa Demjaha
-- Alexandros Efstratiou
+- [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
-- Georgi Ganev
+- [Georgi Ganev](https://ganevgv.github.io/)
 - Jamie Hayes
 - Niamh Healy
-- Alexander Hicks
+- [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
 - Colin Ife
 - Marius Ilau

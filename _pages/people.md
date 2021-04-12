@@ -74,9 +74,6 @@ Senior Research Fellow
 <br>
 <br>
 
-
-- [Dr. Tristan Caulfield](https://www.tristancaulfield.com/)
-
 ### Doctoral Researchers
 
 - Sarah Azouvi

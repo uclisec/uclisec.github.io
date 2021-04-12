@@ -62,10 +62,6 @@ Lecturer in Information Security
 <br>
 <br>
 
-### Support Staff
-- [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator
-- [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
-
 ### Research Staff
 
 <img src="../images/tristan.jpg" style="float:left;width:100px;height:100px" hspace="20">
@@ -74,6 +70,11 @@ Senior Research Fellow
 <br>
 <br>
 <br>
+
+### Support Staff
+- [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator
+- [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
+
 
 ### Doctoral Researchers
 

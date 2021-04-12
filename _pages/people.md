@@ -77,44 +77,44 @@ Senior Research Fellow
 
 ## Doctoral Researchers
 
-- Sarah Azouvi
+- [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Adrián Bermúdez Villalva
 - Daniel Blackwell
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
 - Ahana Datta
-- Killian Davitt
+- [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
 - Albesa Demjaha
-- Alexandros Efstratiou
+- [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
-- Georgi Ganev
-- Jamie Hayes
+- [Georgi Ganev](https://ganevgv.github.io/)
+- [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/)
 - Niamh Healy
-- Alexander Hicks
+- [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
-- Colin Ife
+- [Colin Ife](https://www.colinife.com/)
 - Marius Ilau
-- Marios Isaakidis
+- [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
 - George Kappos
 - Emmanouil Koulas
-- Vasilios Mavroudis
+- [Vasilios Mavroudis](https://mavroud.is/)
 - Chizzy Meka
 - Reza Moqadasi
-- Mohammad Naseri
-- Bristena Oprisanu
+- [Mohammad Naseri](https://mohammadnaseri.github.io/)
+- [Bristena Oprisanu](https://www.bristenaop.com/)
 - Kart Padur
 - Antonis Papasavva
 - Ilaria Pia Del Torre
 - Dan Ristea
-- Maria Santos
-- Maria Schett
+- [Maria Santos](https://mariascrs.github.io/)
+- [Maria Schett](http://www.maria-a-schett.net/)
 - Henry Skeoch
 - Arianna Trozze
-- Antoine Vendeville
+- [Antoine Vendeville](https://antoinevendeville.github.io/)
 - Matthew Wixley
-- Haaroon Yousaf
+- [Haaroon Yousaf](http://www.haaroonyousaf.com/)
 
 ### Honorary and Visiting Members
 - [Jens Groth](http://www.cs.ucl.ac.uk/staff/J.Groth/)

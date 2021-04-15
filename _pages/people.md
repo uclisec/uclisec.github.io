@@ -121,5 +121,6 @@ Senior Research Fellow
 - [Gus Hosein](https://privacyinternational.org/people/95/gus-hosein)
 - [Susan Landau](https://privacyink.org/)
 - [Ben Laurie](https://en.wikipedia.org/wiki/Ben_Laurie)
-- [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/)
 - [Simon Parkin](https://uclisec.github.io/people/simon_parkin/)
+- [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/)
+

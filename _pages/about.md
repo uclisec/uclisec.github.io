@@ -17,7 +17,7 @@ We maintain an active blog on topics related to our work. Find it [here](https:/
 ## Who are we?
 Our group has about 50 members, including faculty, research staff, and doctoral researchers. Please visit the [people](/people) page for an up-to-date list of our members.
 
-## Research Interests
+## Research Themes
 Some of the key research themes addressed by the group include, but are not limited to:
 
 - Anonymity

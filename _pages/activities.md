@@ -23,4 +23,4 @@ Outreach
 
 - Bentham's Gaze ([Blog](https://benthamsgaze.org/)){target:_blank}
 - Twitter ([@uclisec](https://twitter.com/uclisec)){target:_blank}
-- Youtube ([channel](https://www.youtube.com/channel/UCTbJZUFNtRnx-Qb4IKvSK7w)){target:_blank}
+- Youtube ([Channel](https://www.youtube.com/channel/UCTbJZUFNtRnx-Qb4IKvSK7w)){target:_blank}

@@ -11,7 +11,7 @@ Affiliated Centres
 - Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
 
 
-Training and Teaching Activities
+Training and Teaching
 ---
 
 - Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/))

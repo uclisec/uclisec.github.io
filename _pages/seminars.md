@@ -6,28 +6,26 @@ author_profile: true
 
 Upcoming events
 ---
+
 <img src="../images/emiliano.jpg" style="float:right;width:100px;height:100px" hspace="20">  
 
-* 29 April 2021, 16:00  
+- 29 April 2021, 16:00  
 **Emiliano De Cristofaro, UCL**  
 Studying Jerks on the Web: A Socio-Technical Perspective  
-[[Zoom Registration]()] [[Live Stream]()] <details><br>**Abstract:** Over the past two decades, the world has seen an explosion of data. While in the past controlled experiments, surveys, or compilation of high-level statistics allowed us to gain insights into the problems we explored, the Web has brought about a host of new challenges for researchers hoping to gain an understanding of modern socio-technical behavior. First, even discovering appropriate data sources is not a straight forward task. Next, although the Web enables us to collect highly detailed digital information, there are issues of availability and ephemerality: simply put, researchers have no control over what data a 3rd party platform collects and exposes, and more specifically, no control over how long that data will remain available. Third, the massive scale and multiple formats data are available in requires creative execution of analysis. Finally, modern socio-technical problems, while related to typical social problems, are fundamentally different, and in addition to posing a research challenge, can also cause disruption in researchers' personal lives. In this talk, I will discuss how our work has overcome the above challenges. Using concrete examples from our research, I will delve into some of the unique datasets and analyses we have performed, focusing on emerging issues like hate speech, coordinate harassment campaigns, and deplatforming as well as modeling the influence that Web communities have on the spread of disinformation, weaponized memes, etc. Finally, I will discuss how we can design proactive systems to anticipate and predict online abuse and, if time permits, how the "fringe" information ecosystem exposes researchers to attacks by the very actors they study.<br><br>**Bio**: Emiliano De Cristofaro is a Professor at UCL (UCL), where he heads the Information Security Research Group, a Faculty Fellow at the Alan Turing Institute, and a co-founder of the iDramaLab. Before moving to London, he was a research scientist at Xerox PARC. He received a PhD in Networked Systems from the University of California, Irvine in 2011. Overall, Emiliano does research in the broad security, safety, and privacy areas. These days he mostly works on tackling problems at the intersection of machine learning and security/privacy/safety, as well as understanding and countering information weaponization via data-driven analysis. In 2013 and 2014, he co-chaired the Privacy Enhancing Technologies Symposium, in 2018, the security and privacy track at WWW and the privacy track at CCS, and in 2020 the Truth and Trust Online (TTO) Conference. He has also received best paper awards from NDSS, ACM IMC, and the Cybersafety workshop.<br><br>
-**Homepage**: [https://emilianodc.com](https://emilianodc.com)</details><br>  
-
-* 20 May 2021, 16:00  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:** Over the past two decades, the world has seen an explosion of data. While in the past controlled experiments, surveys, or compilation of high-level statistics allowed us to gain insights into the problems we explored, the Web has brought about a host of new challenges for researchers hoping to gain an understanding of modern socio-technical behavior. First, even discovering appropriate data sources is not a straight forward task. Next, although the Web enables us to collect highly detailed digital information, there are issues of availability and ephemerality: simply put, researchers have no control over what data a 3rd party platform collects and exposes, and more specifically, no control over how long that data will remain available. Third, the massive scale and multiple formats data are available in requires creative execution of analysis. Finally, modern socio-technical problems, while related to typical social problems, are fundamentally different, and in addition to posing a research challenge, can also cause disruption in researchers' personal lives. In this talk, I will discuss how our work has overcome the above challenges. Using concrete examples from our research, I will delve into some of the unique datasets and analyses we have performed, focusing on emerging issues like hate speech, coordinate harassment campaigns, and deplatforming as well as modeling the influence that Web communities have on the spread of disinformation, weaponized memes, etc. Finally, I will discuss how we can design proactive systems to anticipate and predict online abuse and, if time permits, how the "fringe" information ecosystem exposes researchers to attacks by the very actors they study.<br><br>**Bio**: Emiliano De Cristofaro is a Professor at UCL (UCL), where he heads the Information Security Research Group, a Faculty Fellow at the Alan Turing Institute, and a co-founder of the iDramaLab. Before moving to London, he was a research scientist at Xerox PARC. He received a PhD in Networked Systems from the University of California, Irvine in 2011. Overall, Emiliano does research in the broad security, safety, and privacy areas. These days he mostly works on tackling problems at the intersection of machine learning and security/privacy/safety, as well as understanding and countering information weaponization via data-driven analysis. In 2013 and 2014, he co-chaired the Privacy Enhancing Technologies Symposium, in 2018, the security and privacy track at WWW and the privacy track at CCS, and in 2020 the Truth and Trust Online (TTO) Conference. He has also received best paper awards from NDSS, ACM IMC, and the Cybersafety workshop.<br><br>
+**Homepage**: [https://emilianodc.com](https://emilianodc.com)<br></details>
+- 20 May 2021, 16:00  
 **Tim Roughgarden, Columbia University**  
-TBA
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()] <details><br>**Abstract:** TBA
-
-* 3 June 2021, 16:00  
+TBA  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
+- 3 June 2021, 16:00  
 **Ewa Syta, Trinity College**  
-TBA
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()] <details><br>**Abstract:** TBA
-  
-* 17 June 2021, 16:00  
+TBA  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
+- 17 June 2021, 16:00  
 **Andrew Lewis-Pye, LSE**  
-TBA
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()] <details><br>**Abstract:** TBA
+TBA  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
 
 
 FAQs

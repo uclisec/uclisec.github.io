@@ -22,9 +22,9 @@ TBA
 **Ewa Syta, Trinity College**  
 TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
-- 10 June 2021, 16:00
-**Nicolas Christin, Carnegie Mellon University**
-TBA
+- 10 June 2021, 16:00\
+**Nicolas Christin, Carnegie Mellon University**\
+TBA\
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
 - 17 June 2021, 16:00  
 **Andrew Lewis-Pye, LSE**  

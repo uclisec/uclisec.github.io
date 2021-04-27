@@ -30,7 +30,10 @@ TBA\
 **Andrew Lewis-Pye, LSE**  
 TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
-
+- 15 July 2021, 16:00\
+**Steffen Becker and Carina Wiesen, Ruhr-Universität Bochum**\
+Towards Cognitive Obfuscation - Understanding Cognitive Processes of Hardware Reverse Engineers\
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>
 
 FAQs
 ---

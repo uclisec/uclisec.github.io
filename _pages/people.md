@@ -105,7 +105,7 @@ Senior Research Fellow
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
 - [Bristena Oprisanu](https://www.bristenaop.com/)
 - Kart Padur
-- Antonis Papasavva
+- [Antonis Papasavva](https://antonispapasavva.github.io/)
 - Ilaria Pia Del Torre
 - Dan Ristea
 - [Maria Santos](https://mariascrs.github.io/)

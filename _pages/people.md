@@ -21,6 +21,7 @@ Professor of Security and Privacy Engineering
 <img src="../images/emiliano.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Emiliano De Cristofaro**](https://emilianodc.com/)  
 Professor of Security and Privacy Enhancing Technologies  
+Fellow of the Alan Turing Institute  
 *Head of Group*  
 <br>
 

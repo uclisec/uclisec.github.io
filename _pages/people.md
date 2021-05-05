@@ -56,7 +56,7 @@ Professor of Human-Centred Technology
 
 <img src="../images/marie.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Marie Vasek**](https://mvasek.com/)  
-Lecturer in Information Security  
+Lecturer  
 <br>
 <br>
 <br>

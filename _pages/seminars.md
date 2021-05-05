@@ -44,9 +44,9 @@ FAQs
 - *In what time zone are the seminars?*  
 All seminars are on London time (typically at 16:00).
 - *Can people not affiliated with UCL attend the seminars?*  
-Yes, InfoSec and ACE seminars are open to everyone! At the moment, we're virtual, so you just need to request the Zoom details or join the YouTube livestream. When we'll restart in-person, we'll post more details.
+Yes, seminars are open to everyone! At the moment, we're virtual, so you just need to request the Zoom details or join the YouTube livestream. When we'll restart in-person, we'll post more details.
 - *What's the difference between ACE and InfoSec Seminars?*  
-ACE Seminars were part of our distinguished seminar series, organized with the support of, and funding from, the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).  
+ACE Seminars were part of our distinguished seminar series, organized with the support of, and funding from, the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
 InfoSec Seminars were informal-in-nature talks given by members of UCL's InfoSec group on very recent/work-in-progress research, but open to everyone nonetheless (unless explicitly noted). 
 As all seminars are virtual at the moment, there is no difference.  
 - *How do I subscribe to seminar announcements?*  

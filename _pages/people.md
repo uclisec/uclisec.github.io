@@ -49,14 +49,14 @@ Professor of Information, Logic, and Security
 <br>
 
 <img src="../images/angela.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Angela Sasse**](https://uclisec.github.io/people/m_angela_sasse/)  
+[**Angela M. Sasse**](https://uclisec.github.io/people/m_angela_sasse/)  
 Professor of Human-Centred Technology  
 <br>
 <br>
 
 <img src="../images/marie.jpg" style="float:left;width:100px;height:100px" hspace="20">
 [**Marie Vasek**](https://mvasek.com/)  
-Lecturer in Information Security  
+Lecturer  
 <br>
 <br>
 <br>

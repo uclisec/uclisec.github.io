@@ -6,76 +6,56 @@ author_profile: true
 
 ## Academic Staff  
 
-<img src="../images/nicolas.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Nicolas Courtois**](http://www.cs.ucl.ac.uk/staff/N.Courtois/)  
-Senior Lecturer  
-<br>
-<br>
+<p class="profile"><img src="../images/nicolas.jpg" class="profilephoto" />
+<a href="http://www.cs.ucl.ac.uk/staff/N.Courtois/"><strong>Nicolas Courtois</strong></a>
+Senior Lecturer</p>
 
-<img src="../images/george.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**George Danezis**](http://www0.cs.ucl.ac.uk/staff/G.Danezis/)  
-Professor of Security and Privacy Engineering  
-<br>
-<br>
+<p class="profile"><img src="../images/george.jpg" class="profilephoto" />
+<a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />
+Professor of Security and Privacy Engineering</p>
 
-<img src="../images/emiliano.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Emiliano De Cristofaro**](https://emilianodc.com/)  
-Professor of Security and Privacy Enhancing Technologies  
-*Head of Group*  
-<br>
+<p class="profile"><img src="../images/emiliano.jpg" class="profilephoto" />
+<a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />
+Professor of Security and Privacy Enhancing Technologies<br />
+<em>Head of Group</em></p>
 
-<img src="../images/philipp.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Philipp Jovanovic**](https://philipp.jovanovic.io/)  
-Associate Professor in Information Security  
-<br>
-<br>
+<p class="profile"><img src="../images/philipp.jpg" class="profilephoto" />
+<a href="https://philipp.jovanovic.io/"><strong>Philipp Jovanovic</strong></a><br />
+Associate Professor in Information Security</p>
 
-<img src="../images/sarah.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Sarah Meiklejohn**](https://smeiklej.com/)  
-Professor of Cryptography and Security  
-<br>
-<br>
+<p class="profile"><img src="../images/sarah.jpg" class="profilephoto" />
+<a href="https://smeiklej.com/"><strong>Sarah Meiklejohn</strong></a><br />
+Professor of Cryptography and Security</p>
 
-<img src="../images/steven.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Steven Murdoch**](https://murdoch.is/)  
-Professor of Security Engineering  
-<br>
-<br>
+<p class="profile"><img src="../images/steven.jpg" class="profilephoto" />
+<a href="https://murdoch.is/"><strong>Steven Murdoch</strong></a><br />
+Professor of Security Engineering</p>
 
-<img src="../images/david.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**David Pym**](http://www0.cs.ucl.ac.uk/staff/D.Pym/)  
-Professor of Information, Logic, and Security  
-<br>
-<br>
+<p class="profile"><img src="../images/david.jpg" class="profilephoto" />
+<a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />
+Professor of Information, Logic, and Security</p>
 
-<img src="../images/angela.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Angela M. Sasse**](https://uclisec.github.io/people/m_angela_sasse/)  
-Professor of Human-Centred Technology  
-<br>
-<br>
+<p class="profile"><img src="../images/angela.jpg" class="profilephoto" />
+<a href="https://uclisec.github.io/people/m_angela_sasse/"><strong>Angela M. Sasse</strong></a><br />
+Professor of Human-Centred Technology</p>
 
-<img src="../images/marie.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Marie Vasek**](https://mvasek.com/)  
-Lecturer  
-<br>
-<br>
-<br>
+<p class="profile"><img src="../images/marie.jpg" class="profilephoto" />
+<a href="https://mvasek.com/"><strong>Marie Vasek</strong></a><br />
+Lecturer</p>
+
+<div class="cf"></div>
 
 ## Research Staff
 
-<img src="../images/aydin.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Aydin Abadi**](http://www.AydinAbadi.com)  
-Research Fellow 
-<br>
-<br>
-<br>
+<p class="profile"><img src="../images/aydin.jpg" class="profilephoto" />
+<a href="http://www.AydinAbadi.com"><strong>Aydin Abadi</strong></a><br />
+Research Fellow </p>
 
-<img src="../images/tristan.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Tristan Caulfield**](https://www.tristancaulfield.com/)  
-Senior Research Fellow  
-<br>
-<br>
+<p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
+<a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />
+Senior Research Fellow</p>
 
+<div class="cf"></div>
 
 ## Support Staff
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| Centre Administrator

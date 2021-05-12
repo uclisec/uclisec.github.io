@@ -64,7 +64,7 @@ Lecturer
 ## Research Staff
 
 <img src="../images/aydin.jpg" style="float:left;width:100px;height:100px" hspace="20">
-[**Aydin Abadi**](www.AydinAbadi.com)  
+[**Aydin Abadi**](http://www.AydinAbadi.com)  
 Research Fellow 
 <br>
 <br>

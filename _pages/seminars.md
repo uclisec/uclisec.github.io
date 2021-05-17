@@ -1,4 +1,7 @@
 ---
+title: "Seminars"
+permalink: /seminars/
+
 <img src="../images/timroughgarden.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 May 2021, 16:00  
 **Tim Roughgarden, Columbia University**  

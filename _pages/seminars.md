@@ -9,7 +9,7 @@ permalink: /seminars/
 Upcoming events
 ---
 <img src="../images/timroughgarden.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 20 May 2021, 16:00
+- 20 May 2021, 16:00\
 **Tim Roughgarden, Columbia University**  
 Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559    
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://www.youtube.com/watch?v=IKsbLRSY41E)]<details>**Abstract:** EIP-1559 is a proposal to make several tightly coupled changes to the Ethereum blockchain’s transaction fee mechanism, including the introduction of variable-size blocks and a burned base fee that rises and falls with demand.  This proposal is slated for deployment in the London fork (scheduled for late summer 2021), and will be the biggest economic change made to a major blockchain to date.

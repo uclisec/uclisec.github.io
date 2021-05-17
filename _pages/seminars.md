@@ -1,7 +1,14 @@
 ---
 title: "Seminars"
 permalink: /seminars/
+---
 
+
+
+
+Upcoming events
+---
+<!----->
 <img src="../images/timroughgarden.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 May 2021, 16:00  
 **Tim Roughgarden, Columbia University**  
@@ -16,10 +23,7 @@ In this talk we formalize the problem of designing a transaction fee mechanism, 
 **Homepage**: [https://timroughgarden.org](https://http://timroughgarden.org)<br></details>
 <!-----><!----->
 author_profile: true
----
 
-Upcoming events
----
 <!----->
 <img src="../images/ewasyta.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 June 2021, 16:00  

@@ -16,12 +16,6 @@ Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analys
 In this talk we formalize the problem of designing a transaction fee mechanism, taking into account the many idiosyncrasies of the blockchain setting (ranging from off-chain collusion between miners and users to the ease of money-burning). We then situate the specific mechanism proposed in EIP-1559 in this framework and rigorously interrogate its game-theoretic properties. We also touch on two alternative designs that offer different sets of incentive trade-offs.<br><br>**Bio**: Tim Roughgarden is a Professor of Computer Science at Columbia University. Prior to joining Columbia, he spent 15 years on the computer science faculty at Stanford, following a PhD at Cornell and a postdoc at UC Berkeley. His research interests include the many connections between computer science and economics, as well as the design, analysis, applications, and limitations of algorithms. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Kalai Prize in Computer Science and Game Theory, the Social Choice and Welfare Prize, the Mathematical Programming Society's Tucker Prize, and the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 International Congress of Mathematicians, the Shapley Lecturer at the 2008 World Congress of the Game Theory Society, and a Guggenheim Fellow in 2017. He has written or edited ten books and monographs, including Twenty Lectures on Algorithmic Game Theory (2016), Beyond the Worst-Case Analysis of Algorithms (2020), and the Algorithms Illuminated book series (2017-2020).<br><br>
 **Homepage**: [https://timroughgarden.org](https://http://timroughgarden.org)<br></details>
 <!----->
-<img src="../images/ewasyta.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 3 June 2021, 16:00  
-**Ewa Syta, Trinity College (Hartford, CT)**  
-TBA  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
-<!----->
 <img src="../images/nicolaschristin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 June 2021, 16:00  
 **Nicolas Christin, Carnegie Mellon University**  

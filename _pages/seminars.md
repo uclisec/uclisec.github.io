@@ -16,9 +16,9 @@ Cryptocurrency trading at 10: From “Monopoly money” to billion-dollar deriva
 <img src="../images/andrewlewispye.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 17 June 2021, 16:00  
 **Andrew Lewis-Pye, LSE**  
-TBA  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
-<!----->
+Consensus in the Permissionless Setting   
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** In the distributed computing literature, consensus protocols have traditionally been studied in a setting where all participants are known to each other from the start of the protocol execution. In the parlance of the ‘blockchain’ literature, this is referred to as the permissioned setting. What differentiates the most prominent blockchain protocol Bitcoin from these previously studied protocols is that it operates in a permissionless setting, i.e. it is a protocol for establishing consensus over an unknown network of participants that anybody can join, with as many identities as they like in any role.  I’ll talk about recent work with Tim Roughgarden in which we describe a formal framework for the analysis of both permissioned and permissionless systems.<br><br>**Bio**: Andrew Lewis-Pye is a Professor in the Department of Mathematics at the London School of Economics. Prior to coming to LSE, he was a Royal Society University Research Fellow at the University of Leeds, and a Marie-Curie Fellow at the University of Siena. The bulk of his research has been in Computability Theory and Algorithmic Randomness, but he has also worked in fields as diverse as Network Science, Statistical Mechanics and Population Genetics. His most recent research interests are in cryptocurrencies.<br></details> 
+<!----->  
 <img src="../images/carina.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
 <img src="../images/steffen.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
 - 15 July 2021, 16:00  

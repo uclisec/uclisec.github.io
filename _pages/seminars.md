@@ -7,18 +7,19 @@ permalink: /seminars/
 
 Upcoming events
 ---
-<img src="../images/andrewlewispye.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 17 June 2021, 16:00  
-**Andrew Lewis-Pye, LSE**  
-Consensus in the Permissionless Setting   
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** In the distributed computing literature, consensus protocols have traditionally been studied in a setting where all participants are known to each other from the start of the protocol execution. In the parlance of the ‘blockchain’ literature, this is referred to as the permissioned setting. What differentiates the most prominent blockchain protocol Bitcoin from these previously studied protocols is that it operates in a permissionless setting, i.e. it is a protocol for establishing consensus over an unknown network of participants that anybody can join, with as many identities as they like in any role.  I’ll talk about recent work with Tim Roughgarden in which we describe a formal framework for the analysis of both permissioned and permissionless systems.<br><br>**Bio**: Andrew Lewis-Pye is a Professor in the Department of Mathematics at the London School of Economics. Prior to coming to LSE, he was a Royal Society University Research Fellow at the University of Leeds, and a Marie-Curie Fellow at the University of Siena. The bulk of his research has been in Computability Theory and Algorithmic Randomness, but he has also worked in fields as diverse as Network Science, Statistical Mechanics and Population Genetics. His most recent research interests are in cryptocurrencies.<br></details> 
-<!----->  
 <img src="../images/carina.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
 <img src="../images/steffen.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
 - 15 July 2021, 16:00  
 **Steffen Becker and Carina Wiesen, Ruhr-Universität Bochum**  
 Towards Cognitive Obfuscation - Understanding Cognitive Processes of Hardware Reverse Engineers  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>  
+<!----->
+- 29 July 2021, 16:00  
+**Dr Aydin Abadi**  
+Multi-instance Publicly Verifiable Time-lock Puzzle and its Applications  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** Time-lock puzzles are elegant protocols that enable a party to lock a message such that no one else can unlock it until a certain time elapses. Nevertheless, existing schemes are not suitable for the case where a server is given multiple instances of a puzzle scheme at once and it must unlock them at different points in time. If the schemes are naively used in this setting, then the server has to start solving all puzzles as soon as it receives them, that ultimately imposes significant computation cost and demands a high level of parallelisation. In this talk, I will discuss a new generic primitive called “multi-instance time-lock puzzle” that tackles the aforementioned issues, by composing a puzzle’s instances. I will also talk about the primitive’s candidate construction called: “chained time-lock puzzle” (C-TLP). It allows the server, given instances’ composition, to solve puzzles sequentially, without having to run parallel computations on them. C-TLP makes black-box use of a standard time-lock puzzle scheme and is accompanied by a lightweight publicly verifiable algorithm. It is the first time-lock puzzle that offers a combination of the above features. Moreover, I will discuss how C-TLP can be used to build the first “outsourced proofs of retrievability” that can support real-time detection and fair payment while having lower overhead than the state of the art. Also, one can substitute a “verifiable delay function” with C-TLP (in certain cases), to gain much better efficiency.<br><br>**Bio**: Aydin Abadi is a research fellow at UCL. Prior to that, he held lectureship and research associate positions at the University of Gloucestershire and Edinburgh respectively. During working at the University of Edinburgh he was a member of blockchain technology lab where he conducted research in blockchain and cryptography as well as developing several (decentralised) applications. He received a Ph.D. in secure multiparty computation (i.e., private set intersection) from the University of Strathclyde, Glasgow.<br></details> 
+<!----->  
+
 
 FAQs
 ---
@@ -43,6 +44,12 @@ Past Events
 ---
 
 ### 2021
+<img src="../images/andrewlewispye.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 17 June 2021, 16:00  
+**Andrew Lewis-Pye, LSE**  
+Consensus in the Permissionless Setting   
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** In the distributed computing literature, consensus protocols have traditionally been studied in a setting where all participants are known to each other from the start of the protocol execution. In the parlance of the ‘blockchain’ literature, this is referred to as the permissioned setting. What differentiates the most prominent blockchain protocol Bitcoin from these previously studied protocols is that it operates in a permissionless setting, i.e. it is a protocol for establishing consensus over an unknown network of participants that anybody can join, with as many identities as they like in any role.  I’ll talk about recent work with Tim Roughgarden in which we describe a formal framework for the analysis of both permissioned and permissionless systems.<br><br>**Bio**: Andrew Lewis-Pye is a Professor in the Department of Mathematics at the London School of Economics. Prior to coming to LSE, he was a Royal Society University Research Fellow at the University of Leeds, and a Marie-Curie Fellow at the University of Siena. The bulk of his research has been in Computability Theory and Algorithmic Randomness, but he has also worked in fields as diverse as Network Science, Statistical Mechanics and Population Genetics. His most recent research interests are in cryptocurrencies.<br></details> 
+<!----->   
 <img src="../images/nicolaschristin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 June 2021, 16:00  
 **Nicolas Christin, Carnegie Mellon University**  

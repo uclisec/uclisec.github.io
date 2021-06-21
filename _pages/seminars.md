@@ -14,6 +14,7 @@ Upcoming events
 Towards Cognitive Obfuscation - Understanding Cognitive Processes of Hardware Reverse Engineers  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>  
 <!----->
+<img src="../images/aydin.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
 - 29 July 2021, 16:00  
 **Dr Aydin Abadi**  
 Multi-instance Publicly Verifiable Time-lock Puzzle and its Applications  

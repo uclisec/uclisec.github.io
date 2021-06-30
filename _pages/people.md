@@ -6,8 +6,13 @@ author_profile: true
 
 ## Academic Staff  
 
+<p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
+<a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong> (from August 2021)</a>  
+Professor of Computer Science</p>
+
+
 <p class="profile"><img src="../images/nicolas.jpg" class="profilephoto" />
-<a href="http://www.cs.ucl.ac.uk/staff/N.Courtois/"><strong>Nicolas Courtois</strong></a>
+<a href="http://www.cs.ucl.ac.uk/staff/N.Courtois/"><strong>Nicolas Courtois</strong></a>  
 Senior Lecturer</p>
 
 <p class="profile"><img src="../images/george.jpg" class="profilephoto" />

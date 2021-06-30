@@ -7,8 +7,8 @@ author_profile: true
 ## Academic Staff  
 
 <p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
-<a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong> (from August 2021)</a>  
-Professor of Computer Science</p>
+<a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong></a>  
+Professor of Computer Science (<i>(starting August 2021)</i></p>
 
 
 <p class="profile"><img src="../images/nicolas.jpg" class="profilephoto" />

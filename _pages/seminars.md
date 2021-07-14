@@ -8,7 +8,7 @@ permalink: /seminars/
 Upcoming events
 ---
 <img src="../images/carina.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
-<img src="../images/Steffen.png" style="float:right;width:100px;height:115px;margin-top:30px">
+<img src="../images/Steffen.png" style="float:right;width:100px;height:115px;margin-top:30px">  
 - 15 July 2021, 16:00  
 **Steffen Becker and Carina Wiesen, Ruhr-Universität Bochum**  
 Towards Cognitive Obfuscation - Understanding Cognitive Processes of Hardware Reverse Engineers  

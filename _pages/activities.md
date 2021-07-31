@@ -21,6 +21,6 @@ Training and Teaching
 Outreach
 ---
 
-- Bentham's Gaze ([Blog](https://benthamsgaze.org/))
+- Blog ([Bentham's Gaze](https://benthamsgaze.org/))
 - Twitter ([@uclisec](https://twitter.com/uclisec))
 - Youtube ([Channel](https://www.youtube.com/channel/UCTbJZUFNtRnx-Qb4IKvSK7w))

@@ -18,7 +18,7 @@ Professor of Computer Science</p>
 <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />
 Professor of Security and Privacy Engineering</p>
 
-<p class="profile"><img src="../images/emiliano.jpg" class="profilephoto" />
+<p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
 <a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />
 Professor of Security and Privacy Enhancing Technologies<br />
 <em>Head of Group</em></p>

@@ -51,9 +51,28 @@ Lecturer</p>
 
 ## Research Staff
 
+
+
+<p class="profile"><img src="../images/anna.jpg" class="profilephoto" />
+<a href="https://www.linkedin.com/in/anna-piazza-a31a4845/?originalSubdomain=uk"><strong>Anna Piazza</strong></a><br />
+Research Fellow </p>
+
+
 <p class="profile"><img src="../images/aydin.jpg" class="profilephoto" />
 <a href="http://www.AydinAbadi.com"><strong>Aydin Abadi</strong></a><br />
-Research Fellow </p>
+Research Fellow</p>
+
+<p class="profile"><img src="../images/jose.jpg" class="profilephoto" />
+<a href="https://www.linkedin.com/in/jose-tomas-llanos-20665935/"><strong>Jose Tomas Llanos</strong></a><br />
+Research Fellow</p>
+
+<p class="profile"><img src="../images/saheli.jpg" class="profilephoto" />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SDATT23"><strong>Saheli Datta Burton</strong></a><br />
+Research Fellow</p>
+
+<p class="profile"><img src="../images/srinidhi.jpg" class="profilephoto" />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Saheli Datta Burton</strong></a><br />
+Research Fellow</p>
 
 <p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
 <a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />

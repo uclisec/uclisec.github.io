@@ -58,7 +58,7 @@ Lecturer</p>
 Research Fellow </p>
 
 
-<p class="profile"><img src="../images/aydin.jpg" class="profilephoto" />
+<p class="profile"><img src="../images/aydin2.jpg" class="profilephoto" />
 <a href="http://www.AydinAbadi.com"><strong>Aydin Abadi</strong></a><br />
 Research Fellow</p>
 

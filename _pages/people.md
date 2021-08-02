@@ -71,7 +71,7 @@ Research Fellow</p>
 Research Fellow</p>
 
 <p class="profile"><img src="../images/srinidhi.jpg" class="profilephoto" />
-<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Saheli Datta Burton</strong></a><br />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Srinidhi Vasudevan</strong></a><br />
 Research Fellow</p>
 
 <p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />

@@ -89,7 +89,6 @@ Senior Research Fellow</p>
 ## Doctoral Researchers
 
 - [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
-- Adrián Bermúdez Villalva
 - Daniel Blackwell
 - Sergi Bray
 - Gerard Buckley
@@ -101,11 +100,9 @@ Senior Research Fellow</p>
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
 - [Georgi Ganev](https://ganevgv.github.io/)
-- [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/)
 - Niamh Healy
 - [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
-- [Colin Ife](https://www.colinife.com/)
 - Marius Ilau
 - [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
 - George Kappos

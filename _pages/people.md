@@ -12,7 +12,8 @@ Professor of Global Politics and Cyber Security</p>
 
 <p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
 <a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong></a><br />
-Professor of Computer Science</p>
+Professor of Computer Science<br />
+Leader of the <a href="https://s2lab.cs.ucl.ac.uk">Systems Security Research Lab</a></p>
 
 <p class="profile"><img src="../images/george.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />

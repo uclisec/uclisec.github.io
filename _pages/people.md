@@ -89,23 +89,28 @@ Senior Research Fellow</p>
 
 ## Doctoral Researchers
 
+- [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Daniel Blackwell
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
+- [Jacopo Cortellazzi](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - Ahana Datta
 - [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
 - Albesa Demjaha
+- [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
 - [Georgi Ganev](https://ganevgv.github.io/)
+- [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - Niamh Healy
 - [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
 - Marius Ilau
 - [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
+- [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - George Kappos
 - Emmanouil Koulas
 - [Vasilios Mavroudis](https://mavroud.is/)
@@ -115,6 +120,7 @@ Senior Research Fellow</p>
 - [Bristena Oprisanu](https://www.bristenaop.com/)
 - Kart Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
+- [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visiting UCL
 - Ilaria Pia Del Torre
 - Dan Ristea
 - [Maria Santos](https://mariascrs.github.io/)

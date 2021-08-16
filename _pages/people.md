@@ -89,38 +89,37 @@ Senior Research Fellow</p>
 
 ## Doctoral Researchers
 
-- [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
 - [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Daniel Blackwell
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
-- [Jacopo Cortellazzi](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Jacopo Cortellazzi](https://s2lab.cs.ucl.ac.uk), Visitor
 - Ahana Datta
 - [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
 - Albesa Demjaha
-- [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visitor
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
 - [Georgi Ganev](https://ganevgv.github.io/)
-- [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visitor
 - Niamh Healy
 - [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
 - Marius Ilau
 - [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
-- [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visitor
 - George Kappos
 - Emmanouil Koulas
-- [Vasilios Mavroudis](https://mavroud.is/)
 - Chizzy Meka
 - Reza Moqadasi
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
 - [Bristena Oprisanu](https://www.bristenaop.com/)
 - Kart Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
-- [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visiting UCL
+- [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor
 - Ilaria Pia Del Torre
 - Dan Ristea
 - [Maria Santos](https://mariascrs.github.io/)

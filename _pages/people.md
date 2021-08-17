@@ -30,19 +30,17 @@ Associate Professor in Information Security</p>
 
 <p class="profile"><img src="../images/sarah.jpg" class="profilephoto" />
 <a href="https://smeiklej.com/"><strong>Sarah Meiklejohn</strong></a><br />
-Professor of Cryptography and Security</p>
+Professor of Cryptography and Security<br>
+Part-time, also Staff Research Scientist at Google UK</p>
 
 <p class="profile"><img src="../images/steven.jpg" class="profilephoto" />
 <a href="https://murdoch.is/"><strong>Steven Murdoch</strong></a><br />
 Professor of Security Engineering</p>
 
-<p class="profile"><img src="../images/david.jpg" class="profilephoto" />
-<a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />
-Professor of Information, Logic, and Security</p>
-
 <p class="profile"><img src="../images/angela.jpg" class="profilephoto" />
 <a href="https://uclisec.github.io/people/m_angela_sasse/"><strong>Angela M. Sasse</strong></a><br />
-Professor of Human-Centred Technology</p>
+Professor of Human-Centred Technology<br />
+Part-time, also Professor at Ruhr-University Bochum</p>
 
 <p class="profile"><img src="../images/marie.jpg" class="profilephoto" />
 <a href="https://mvasek.com/"><strong>Marie Vasek</strong></a><br />

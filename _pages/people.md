@@ -8,12 +8,13 @@ author_profile: true
 
 <p class="profile"><img src="../images/madeline2.jpg" class="profilephoto" />
 <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><strong>Madeline Carr</strong></a><br />
-Professor of Global Politics and Cyber Security</p>
+Professor of Global Politics and Cyber Security<br>
+<em>Director of the Research Institute in Sociotechnical Cyber Security (<a href="https://www.riscs.org.uk">RISCS</a>)</em></p>
 
 <p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
 <a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong></a><br />
 Professor of Computer Science<br />
-Leader of the <a href="https://s2lab.cs.ucl.ac.uk">Systems Security Research Lab</a></p>
+<em>Leader of the <a href="https://s2lab.cs.ucl.ac.uk">Systems Security Research Lab</a></em></p>
 
 <p class="profile"><img src="../images/george.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />

@@ -37,13 +37,11 @@ Past Events
 ---
 
 ### 2021
-<img src="../images/aydin.jpg" style="float:right;width:100px;height:115px;margin-top:30px">
+<img src="../images/aydin2.jpg" style="float:right;width:100px;height:115px;margin-top:30px">
 - 29 July 2021, 16:00  
 **Dr Aydin Abadi**  
 Multi-instance Publicly Verifiable Time-lock Puzzle and its Applications  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** Time-lock puzzles are elegant protocols that enable a party to lock a message such that no one else can unlock it until a certain time elapses. Nevertheless, existing schemes are not suitable for the case where a server is given multiple instances of a puzzle scheme at once and it must unlock them at different points in time. If the schemes are naively used in this setting, then the server has to start solving all puzzles as soon as it receives them, that ultimately imposes significant computation cost and demands a high level of parallelisation. In this talk, I will discuss a new generic primitive called “multi-instance time-lock puzzle” that tackles the aforementioned issues, by composing a puzzle’s instances. I will also talk about the primitive’s candidate construction called: “chained time-lock puzzle” (C-TLP). It allows the server, given instances’ composition, to solve puzzles sequentially, without having to run parallel computations on them. C-TLP makes black-box use of a standard time-lock puzzle scheme and is accompanied by a lightweight publicly verifiable algorithm. It is the first time-lock puzzle that offers a combination of the above features. Moreover, I will discuss how C-TLP can be used to build the first “outsourced proofs of retrievability” that can support real-time detection and fair payment while having lower overhead than the state of the art. Also, one can substitute a “verifiable delay function” with C-TLP (in certain cases), to gain much better efficiency.<br><br>**Bio**: Aydin Abadi is a research fellow at UCL. Prior to that, he held lectureship and research associate positions at the University of Gloucestershire and Edinburgh respectively. During working at the University of Edinburgh he was a member of blockchain technology lab where he conducted research in blockchain and cryptography as well as developing several (decentralised) applications. He received a Ph.D. in secure multiparty computation (i.e., private set intersection) from the University of Strathclyde, Glasgow.<br></details> 
-<img src="../images/carina.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
-<img src="../images/Steffen.png" style="float:right;width:100px;height:100px;margin-top:30px">  
 - 15 July 2021, 16:00  
 **Steffen Becker and Carina Wiesen, Ruhr-Universität Bochum**  
 Towards Cognitive Obfuscation - Understanding Cognitive Processes of Hardware Reverse Engineers  

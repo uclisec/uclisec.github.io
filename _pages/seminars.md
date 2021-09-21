@@ -7,7 +7,7 @@ permalink: /seminars/
 
 Upcoming events
 ---
-<img src="../images/beba.png" style="float:right;width:100px;height:100px;margin-top:30px">
+<img src="../images/beba.png" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 September 2021, 16:00  
 **Beba Cibralic**  
 How do we draw the line between permissible and impermissible online influence?  
@@ -38,7 +38,7 @@ Past Events
 ---
 
 ### 2021
-<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:30px">
+<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 29 July 2021, 16:00  
 **Dr Aydin Abadi**  
 Multi-instance Publicly Verifiable Time-lock Puzzle and its Applications  

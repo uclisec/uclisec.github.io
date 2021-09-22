@@ -18,7 +18,8 @@ Professor of Computer Science<br />
 
 <p class="profile"><img src="../images/george.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />
-Professor of Security and Privacy Engineering</p>
+Professor of Security and Privacy Engineering<br>
+<em>Part-time</em></p>
 
 <p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
 <a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />
@@ -34,9 +35,17 @@ Associate Professor in Information Security</p>
 Professor of Cryptography and Security<br>
 <em>Part-time, also Staff Research Scientist at Google UK</em></p>
 
+<p class="profile"><img src="../images/david.jpg" class="profilephoto" />
+<a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />
+Professor of Information, Logic, and Security<br>
+<em>Head of Programming Principles, Logic, and Verification</em></p>
+
+
 <p class="profile"><img src="../images/steven.jpg" class="profilephoto" />
 <a href="https://murdoch.is/"><strong>Steven Murdoch</strong></a><br />
 Professor of Security Engineering</p>
+
+
 
 <p class="profile"><img src="../images/angela.jpg" class="profilephoto" />
 <a href="https://uclisec.github.io/people/m_angela_sasse/"><strong>Angela M. Sasse</strong></a><br />

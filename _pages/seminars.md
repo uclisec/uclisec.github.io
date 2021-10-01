@@ -7,7 +7,7 @@ permalink: /seminars/
 
 Upcoming events
 ---
-<img src="../images/Jaap-Henk.png" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Jaap-Henk.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 7 October 2021, 16:00  
 **Jaap-Henk Hoepman**  
 Privacy Is Hard and Seven Other Myths. Achieving Privacy through Careful Design

@@ -3,24 +3,20 @@ title: "Seminars"
 permalink: /seminars/
 ---
 
-
-
 Upcoming events
 ---
-<img src="../images/Jaap-Henk.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 7 October 2021, 16:00  
-**Jaap-Henk Hoepman**  
-Privacy Is Hard and Seven Other Myths. Achieving Privacy through Careful Design
-
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Technological developments have made it easier to invade our privacy. Yet technology can also be used to protect privacy. Privacy by design is a methodology that aims to incorporate privacy in the system development cycle from the very start. Careful design makes it possible to make the services that we use in our daily life much more privacy friendly. In this talk I will show how, using concrete examples, thus debunking several privacy myths, like "we are not collecting personal data", "we always need to know who you are" and "privacy is hard". (This is a talk based on my book with the same title that will appear at MIT Press on October 5). <br><br>**Bio**: Jaap-Henk Hoepman (1966) is associate professor at the Digital Security group of the Radboud University, Nijmegen, the Netherlands, working for the iHub, the interdisciplinary research hub on Security, Privacy, and Data Governance. He is also an associate professor in the IT Law section of the Transboundary Legal Studies department of the Faculty of Law of the University of Groningen. Moreover, he is a principal scientist (and former scientific director and co-founder) of the Privacy & Identity Lab. He is a columnist for the Financieele Dagblad (FD, a major Dutch newspaper) and a regular guest on the Dutch national radio news show Nieuws en Co. Jaap-Henk studies privacy by design and privacy friendly protocols for identity management and the Internet of Things. He speaks on these topics at national and international congresses and publishes papers in (inter)national journals. He also appears in the media as security and privacy expert, and writes about his research in the popular press, and he is actively involved in the public debate concerning security and privacy in our society.<br></details> 
-<!----->
-
 <img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 28 October 2021, 16:00  
 **Dr Aydin Abadi**  
 Polynomial Representation Is Tricky: Maliciously Secure Private Set Intersection Revisited  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** Private Set Intersection protocols (PSIs) allow parties to compute the intersection of their private sets, such that nothing about the sets’ elements beyond the intersection is revealed. PSIs have a variety of applications, primarily in efficiently supporting data sharing in a privacy-preserving manner. At Eurocrypt 2019, Ghosh and Nilges proposed three efficient PSIs based on the polynomial representation of sets and proved their security against active adversaries. In this talk, I will discuss that these three PSIs are susceptible to several serious attacks. The attacks let an adversary (1) learn the correct intersection while making its victim believe that the intersection is empty, (2) learn a certain element of its victim’s set beyond the intersection, and (3) delete multiple elements of its victim’s input set. I will explain why the proofs did not identify these attacks and discuss how the issues can be rectified. This is a joint work with Steven Murdoch (UCL) and Thomas Zacharias (University of Edinburgh). <br><br>**Bio**: Aydin Abadi is a research fellow at UCL. His research interests include information security, privacy, cryptography, and blockchain technology. Prior to holding this position, he held lectureship and research associate positions at the University of Gloucestershire and Edinburgh respectively.<br></details> 
 <!----->
+<img src="../images/Elissa.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 18 November 2021, 16:00  
+** Elissa Redmiles**  
+Title: Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Sex workers sit at the intersection of multiple marginalized identities and make up a sizable workforce: the UN estimates that at least 42 million sex workers are conducting business across the globe. Sex workers face a unique and significant set of digital, social, political, legal, and safety risks; yet their digital experiences have received little study in the CS and HCI literature. In this talk we will review findings from a 2-year long study examining how sex workers who work in countries where sex work is legal (Germany, Switzerland, the UK) use technology to conduct business and how they have developed digital strategies for staying safe online and offline. We will then describe how these findings can inform broader conversations around internet governance, digital discrimination, and safety protections for other marginalized and vulnerable users whose experiences bisect the digital and physical. <br><br>**Bio**: Dr. Elissa M. Redmiles is a faculty member and research group leader of the Safety & Society group at the Max Planck Institute for Software Systems. She has additionally served as a consultant and researcher at multiple institutions, including Microsoft Research, Facebook, the World Bank, the Center for Democracy and Technology, and the University of Zurich. Dr. Redmiles uses computational, economic, and social science methods to understand users’ security, privacy, and online safety-related decision-making processes. Her work has been featured in popular press publications such as the New York Times, Scientific American, Rolling Stone, Wired, Business Insider, and CNET and has been recognized with multiple Distinguished Paper Awards at USENIX Security and research awards from Facebook as well as the John Karat Usable Privacy and Security Research Award. Dr. Redmiles received her B.S. (Cum Laude), M.S., and Ph.D. in Computer Science from the University of Maryland.<br></details> 
+<!----->  
 
 FAQs
 ---
@@ -45,6 +41,12 @@ Past Events
 ---
 
 ### 2021
+<img src="../images/Jaap-Henk.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 7 October 2021, 16:00  
+**Jaap-Henk Hoepman**  
+Privacy Is Hard and Seven Other Myths. Achieving Privacy through Careful Design
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Technological developments have made it easier to invade our privacy. Yet technology can also be used to protect privacy. Privacy by design is a methodology that aims to incorporate privacy in the system development cycle from the very start. Careful design makes it possible to make the services that we use in our daily life much more privacy friendly. In this talk I will show how, using concrete examples, thus debunking several privacy myths, like "we are not collecting personal data", "we always need to know who you are" and "privacy is hard". (This is a talk based on my book with the same title that will appear at MIT Press on October 5). <br><br>**Bio**: Jaap-Henk Hoepman (1966) is associate professor at the Digital Security group of the Radboud University, Nijmegen, the Netherlands, working for the iHub, the interdisciplinary research hub on Security, Privacy, and Data Governance. He is also an associate professor in the IT Law section of the Transboundary Legal Studies department of the Faculty of Law of the University of Groningen. Moreover, he is a principal scientist (and former scientific director and co-founder) of the Privacy & Identity Lab. He is a columnist for the Financieele Dagblad (FD, a major Dutch newspaper) and a regular guest on the Dutch national radio news show Nieuws en Co. Jaap-Henk studies privacy by design and privacy friendly protocols for identity management and the Internet of Things. He speaks on these topics at national and international congresses and publishes papers in (inter)national journals. He also appears in the media as security and privacy expert, and writes about his research in the popular press, and he is actively involved in the public debate concerning security and privacy in our society.<br></details> 
+<!----->  
 <img src="../images/beba.png" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 September 2021, 16:00  
 **Beba Cibralic**  

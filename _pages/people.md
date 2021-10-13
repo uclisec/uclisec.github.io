@@ -101,6 +101,7 @@ Senior Research Fellow</p>
 - [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
 - [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Daniel Blackwell
+- Filippo Blancato
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
@@ -110,6 +111,7 @@ Senior Research Fellow</p>
 - Kyriacos Demetriou
 - Albesa Demjaha
 - [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visitor
+- Jennifer Dwyer-Joyce
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Stefanos Evripi
 - [Georgi Ganev](https://ganevgv.github.io/)

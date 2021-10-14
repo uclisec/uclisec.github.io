@@ -113,6 +113,7 @@ Senior Research Fellow</p>
 - [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visitor
 - Jennifer Dwyer-Joyce
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
+- Aliai Eusebi
 - Stefanos Evripi
 - [Georgi Ganev](https://ganevgv.github.io/)
 - [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visitor
@@ -125,19 +126,26 @@ Senior Research Fellow</p>
 - George Kappos
 - Emmanouil Koulas
 - Chizzy Meka
+- Nadine Michaelides
 - Reza Moqadasi
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
+- Jessica Neubauer
 - [Bristena Oprisanu](https://www.bristenaop.com/)
+- Marylyne Ordekian
 - Kart Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
+- Demelza Penaluna
 - [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor
 - Ilaria Pia Del Torre
 - Dan Ristea
 - [Maria Santos](https://mariascrs.github.io/)
 - [Maria Schett](http://www.maria-a-schett.net/)
 - Henry Skeoch
+- Karolina Skrivankova
+- Guy Thompson
 - Arianna Trozze
 - [Antoine Vendeville](https://antoinevendeville.github.io/)
+- Charles Westphal
 - Matthew Wixley
 - [Haaroon Yousaf](http://www.haaroonyousaf.com/)
 

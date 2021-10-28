@@ -137,7 +137,7 @@ Senior Research Fellow</p>
 - Demelza Penaluna
 - [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor
 - Ilaria Pia Del Torre
-- Dan Ristea
+- [Dan Ristea](https://dri.st)
 - [Maria Santos](https://mariascrs.github.io/)
 - [Maria Schett](http://www.maria-a-schett.net/)
 - Henry Skeoch

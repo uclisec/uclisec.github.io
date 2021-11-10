@@ -26,13 +26,13 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 <!----->  
 <img src="../images/kostios.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 2 December 2021, 16:00  
-**Kostantinos Papadamou, UCL  
+**Kostantinos Papadamou, UCL**  
 Characterizing Abhorrent, Misinformative, and Mistargeted Content on YouTube  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 <!----->  
 <img src="../images/defeo.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 16 December 2021, 16:00  
-**Luca De Feo, IBM Research  
+**Luca De Feo, IBM Research**  
 TBD  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 

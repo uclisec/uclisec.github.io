@@ -32,7 +32,7 @@ Characterizing Abhorrent, Misinformative, and Mistargeted Content on YouTube
 <!----->  
 <img src="../images/defeo.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 16 December 2021, 16:00  
-**Luca De Feo, IBM Research*  
+**Luca De Feo, IBM Research**  
 Isogenies as a foundation of time delay cryptography  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 

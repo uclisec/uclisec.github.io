@@ -18,19 +18,19 @@ Polynomial Representation Is Tricky: Maliciously Secure Private Set Intersection
 Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Sex workers sit at the intersection of multiple marginalized identities and make up a sizable workforce: the UN estimates that at least 42 million sex workers are conducting business across the globe. Sex workers face a unique and significant set of digital, social, political, legal, and safety risks; yet their digital experiences have received little study in the CS and HCI literature. In this talk we will review findings from a 2-year long study examining how sex workers who work in countries where sex work is legal (Germany, Switzerland, the UK) use technology to conduct business and how they have developed digital strategies for staying safe online and offline. We will then describe how these findings can inform broader conversations around internet governance, digital discrimination, and safety protections for other marginalized and vulnerable users whose experiences bisect the digital and physical. <br><br>**Bio**: Dr. Elissa M. Redmiles is a faculty member and research group leader of the Safety & Society group at the Max Planck Institute for Software Systems. She has additionally served as a consultant and researcher at multiple institutions, including Microsoft Research, Facebook, the World Bank, the Center for Democracy and Technology, and the University of Zurich. Dr. Redmiles uses computational, economic, and social science methods to understand users’ security, privacy, and online safety-related decision-making processes. Her work has been featured in popular press publications such as the New York Times, Scientific American, Rolling Stone, Wired, Business Insider, and CNET and has been recognized with multiple Distinguished Paper Awards at USENIX Security and research awards from Facebook as well as the John Karat Usable Privacy and Security Research Award. Dr. Redmiles received her B.S. (Cum Laude), M.S., and Ph.D. in Computer Science from the University of Maryland.<br></details> 
 <!----->  
-<img src="../images/bristena.png" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 25 November 2021, 16:00  
 **Bristena Oprisanu, UCL &ndash; Public PhD Talk**  
 Evaluating Methods for Privacy-Preserving Data Sharing in Genomics  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 <!----->  
-<img src="../images/kostios.png" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/kostios.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 2 December 2021, 16:00  
 **Kostantinos Papadamou, UCL  
 Characterizing Abhorrent, Misinformative, and Mistargeted Content on YouTube  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 <!----->  
-<img src="../images/kostios.png" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/defeo.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 16 December 2021, 16:00  
 **Luca De Feo, IBM Research  
 TBD  

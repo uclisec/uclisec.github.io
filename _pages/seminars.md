@@ -6,12 +6,6 @@ layout: single
 
 Upcoming events
 ---
-<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 28 October 2021, 16:00  
-**Aydin Abadi, UCL**  
-Polynomial Representation Is Tricky: Maliciously Secure Private Set Intersection Revisited  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** Private Set Intersection protocols (PSIs) allow parties to compute the intersection of their private sets, such that nothing about the sets’ elements beyond the intersection is revealed. PSIs have a variety of applications, primarily in efficiently supporting data sharing in a privacy-preserving manner. At Eurocrypt 2019, Ghosh and Nilges proposed three efficient PSIs based on the polynomial representation of sets and proved their security against active adversaries. In this talk, I will discuss that these three PSIs are susceptible to several serious attacks. The attacks let an adversary (1) learn the correct intersection while making its victim believe that the intersection is empty, (2) learn a certain element of its victim’s set beyond the intersection, and (3) delete multiple elements of its victim’s input set. I will explain why the proofs did not identify these attacks and discuss how the issues can be rectified. This is a joint work with Steven Murdoch (UCL) and Thomas Zacharias (University of Edinburgh). <br><br>**Bio**: Aydin Abadi is a research fellow at UCL. His research interests include information security, privacy, cryptography, and blockchain technology. Prior to holding this position, he held lectureship and research associate positions at the University of Gloucestershire and Edinburgh respectively.<br></details> 
-<!----->
 <img src="../images/Elissa.png" style="float:right;width:100px;height:100px;margin-top:15px">
 - 18 November 2021, 16:00  
 **Elissa Redmiles, Max Planck Institute**  
@@ -42,7 +36,7 @@ FAQs
 - *In what time zone are the seminars?*  
 All seminars are on London time (typically at 16:00).
 - *Can people not affiliated with UCL attend the seminars?*  
-Yes, seminars are open to everyone! At the moment, we're virtual, so you just need to request the Zoom details or join the YouTube livestream. When we'll restart in-person, we'll post more details.
+Yes, seminars are open to everyone! At the moment, we're virtual, so you just need to register on Zoom or join the YouTube livestream. When we'll restart in-person, we'll post more details.
 - *What's the difference between ACE and InfoSec Seminars?*  
 ACE Seminars were part of our distinguished seminar series, organized with the support of, and funding from, the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
 InfoSec Seminars were informal-in-nature talks given by members of UCL's InfoSec group on very recent/work-in-progress research, but open to everyone nonetheless (unless explicitly noted). 
@@ -59,6 +53,12 @@ Past Events
 ---
 
 ### 2021
+<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 28 October 2021, 16:00  
+**Aydin Abadi, UCL**  
+Polynomial Representation Is Tricky: Maliciously Secure Private Set Intersection Revisited  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/ctF5C-ScG7s)]<details>**Abstract:** Private Set Intersection protocols (PSIs) allow parties to compute the intersection of their private sets, such that nothing about the sets’ elements beyond the intersection is revealed. PSIs have a variety of applications, primarily in efficiently supporting data sharing in a privacy-preserving manner. At Eurocrypt 2019, Ghosh and Nilges proposed three efficient PSIs based on the polynomial representation of sets and proved their security against active adversaries. In this talk, I will discuss that these three PSIs are susceptible to several serious attacks. The attacks let an adversary (1) learn the correct intersection while making its victim believe that the intersection is empty, (2) learn a certain element of its victim’s set beyond the intersection, and (3) delete multiple elements of its victim’s input set. I will explain why the proofs did not identify these attacks and discuss how the issues can be rectified. This is a joint work with Steven Murdoch (UCL) and Thomas Zacharias (University of Edinburgh). <br><br>**Bio**: Aydin Abadi is a research fellow at UCL. His research interests include information security, privacy, cryptography, and blockchain technology. Prior to holding this position, he held lectureship and research associate positions at the University of Gloucestershire and Edinburgh respectively.<br></details> 
+<!----->
 <img src="../images/Jaap-Henk.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 7 October 2021, 16:00  
 **Jaap-Henk Hoepman, Radboud University Nijmegen**  

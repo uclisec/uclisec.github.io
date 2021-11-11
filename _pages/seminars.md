@@ -25,7 +25,7 @@ Isogenies as a foundation of time delay cryptography
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 <!----->  
 <img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 25 November 2021, 16:00  
+- 20 January 2022, 16:00  
 **Bristena Oprisanu, UCL &ndash; Public PhD Talk**  
 Evaluating Methods for Privacy-Preserving Data Sharing in Genomics  
 [[Zoom Registration]()] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 

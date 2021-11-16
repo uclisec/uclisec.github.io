@@ -45,7 +45,7 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 <br>
 - 20 January 2022, 16:30  
 **Ania Piotrowska &ndash; Public PhD Talk**  
-Evaluating Methods for Privacy-Preserving Data Sharing in Genomics  
+TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details> 
 
 

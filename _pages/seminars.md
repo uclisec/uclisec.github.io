@@ -36,7 +36,7 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details>  
 <!----->
-<img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Siby.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 January 2022, 16:00  
 **Siby Sandra Deepthy**  
 WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  

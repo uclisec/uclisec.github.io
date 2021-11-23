@@ -34,6 +34,17 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 - 20 January 2022, 16:30  
 **Ania Piotrowska &ndash; Public PhD Talk**  
 TBA  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details>  
+<!----->
+<img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 27 January 2022, 16:00  
+**Siby Sandra Deepthy**  
+WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://www.bristenaop.com](https://www.bristenaop.com)<br></details>  
+<!---<img src="../images/ania.jpg" style="float:right;width:100px;height:100px;margin-top:15px">-->
+- 10 February 2022, 16:00  
+**Kulynych Bogdan**  
+Disparate Vulnerability to Membership Inference Attacks  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details> 
 
 

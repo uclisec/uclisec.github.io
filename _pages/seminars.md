@@ -36,14 +36,15 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details>  
 <!----->
-<img src="../images/Siby.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/sandra.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 January 2022, 16:00  
-**Siby Sandra Deepthy**  
+**Sandra Deepthy Siby**  
 WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:.<br></details>  
-<!---<img src="../images/Kulynych.jpg" style="float:right;width:100px;height:100px;margin-top:15px">-->
+<!----->
+<img src="../images/bogdan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 February 2022, 16:00  
-**Kulynych Bogdan**  
+**Bogdan Kulynych**  
 Disparate Vulnerability to Membership Inference Attacks  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:<br></details> 
 

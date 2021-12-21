@@ -36,7 +36,7 @@ WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocki
 **Amir Naseredini**  
 Title: TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** TBA.  
-<br><br>**Bio**: Amir Naseredini is a Ph.D. candidate and an Associate Tutor at FoSS group at the University of Sussex. After obtaining his Doctoral degree, his ultimate goal was to pursue a career inline with his research interest in a dynamic research environment including pioneer companies and/or academia. https://sahnaseredini.github.io/<br></details>  
+<br><br>**Bio**: Amir Naseredini is a Ph.D. candidate and an Associate Tutor at FoSS group at the University of Sussex. After obtaining his Doctoral degree, his ultimate goal was to pursue a career inline with his research interest in a dynamic research environment including pioneer companies and/or academia. https://sahnaseredini.github.io/.<br></details>  
 <!----->
 <img src="../images/bogdan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 February 2022, 16:00  

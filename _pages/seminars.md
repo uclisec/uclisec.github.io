@@ -23,7 +23,7 @@ Evaluating Methods for Privacy-Preserving Data Sharing in Genomics
 - 20 January 2022, 16:30  
 **Ania Piotrowska &ndash; Public PhD Talk**  
 TBA  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://aniampio.github.io](https://aniampio.github.io)<br></details>  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Ania Piotrowska is a co-founder and Head of Research at Nym Technologies, where she contributes to the R&D of the Nym infrastructure. Her research interests span several aspects of security, privacy-enhancing technologies, distributed systems, and anonymous communication (onion routing, mix networks, p2p). She is also interested in blockchain technologies, particularly in the context of the privacy of cryptocurrencies. Ania received her Ph.D. in Computer Science from the University College London (Information Security Group) in 2020. Her doctoral thesis entitled “Low-latency mix networks for anonymous communication” was completed under the supervision of Prof. George Danezis and Prof. Sarah Meiklejohn. During her Ph.D., she spent a few months as an intern at DeepMind and Chainalysis. Ania obtained her BSc and MSc from Wroclaw University of Technology (Faculty of Fundamental Problems of Technology). She is based in London (GMT). [https://aniampio.github.io](https://aniampio.github.io)<br></details>  
 <!----->
 <img src="../images/sandra.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 January 2022, 16:00  

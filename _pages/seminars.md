@@ -29,11 +29,11 @@ TBA
 - 27 January 2022, 16:00  
 **Sandra Deepthy Siby**  
 WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**:.<br></details>  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Sandra Siby is a third year PhD student in the Security and Privacy Engineering (SPRING) lab at EPFL, advised by Carmela Troncoso. Her research interests are mainly in the areas of network security, web security, and privacy. The overarching theme of her research is to understand what we can learn from analysing meta-data, in the context of security and privacy. Her current focus is on two scenarios: network traffic analysis of encrypted DNS communication, and automated tracking detection on websites. Prior to EPFL, Sandra worked on various projects, in the areas of IoT network security, sensor networks, and delay-tolerant networks. She obtained her MS in Electrical Engineering from ETH Zurich (2014), and BEng in Electrical Engineering from the National University of Singapore (2011).<br></details>  
 <!----->
 <img src="../images/ Amir.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 February 2022, 16:00  
-** Amir Naseredini **  
+**Amir Naseredini**  
 Title: TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** TBA.  
 <br><br>**Bio**: Amir Naseredini is a Ph.D. candidate and an Associate Tutor at FoSS group at the University of Sussex. After obtaining his Doctoral degree, his ultimate goal was to pursue a career inline with his research interest in a dynamic research environment including pioneer companies and/or academia. https://sahnaseredini.github.io/<br></details> 

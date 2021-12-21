@@ -17,8 +17,9 @@ Security and Privacy in the Age of Ubiquitous Computing
 - 20 January 2022, 16:00  
 **Bristena Oprisanu &ndash; Public PhD Talk**  
 Evaluating Methods for Privacy-Preserving Data Sharing in Genomics  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: [https://www.bristenaop.com](https://www.bristenaop.com)<br></details>  
-<!---<img src="../images/ania.jpg" style="float:right;width:100px;height:100px;margin-top:15px">-->
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Bristena Oprisanu is a PhD Candidate within the Information Security Research Group at UCL. Her research focuses on Enabling Progress in Genomic Research Via Privacy-Preserving Data Sharing, and it is currently sponsored by Google Inc. She is supervised by Dr. Emiliano De Cristofaro and Dr. Christophe Dessimoz. Previous to this she did an MSc in Information Security at UCL, and an MSci in Mathematics with Economics at UCL as well. Bristena’s research interests include privacy enhancing technologies, applied cryptography and cryptanalysis [https://www.bristenaop.com](https://www.bristenaop.com)<br></details>  
+<!----->
+<img src="../images/ania.jpg" style="float:right;width:100px;height:100px;margin-top:15px">-->
 - 20 January 2022, 16:30  
 **Ania Piotrowska &ndash; Public PhD Talk**  
 TBA  

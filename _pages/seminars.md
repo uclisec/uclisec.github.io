@@ -27,20 +27,20 @@ TBA
 <!----->
 <img src="../images/sandra.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 January 2022, 16:00  
-**Sandra Deepthy Siby**  
+**Sandra Deepthy Siby, EPFL**  
 WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Sandra Siby is a third year PhD student in the Security and Privacy Engineering (SPRING) lab at EPFL, advised by Carmela Troncoso. Her research interests are mainly in the areas of network security, web security, and privacy. The overarching theme of her research is to understand what we can learn from analysing meta-data, in the context of security and privacy. Her current focus is on two scenarios: network traffic analysis of encrypted DNS communication, and automated tracking detection on websites. Prior to EPFL, Sandra worked on various projects, in the areas of IoT network security, sensor networks, and delay-tolerant networks. She obtained her MS in Electrical Engineering from ETH Zurich (2014), and BEng in Electrical Engineering from the National University of Singapore (2011).<br></details>  
 <!----->
 <img src="../images/amir.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 February 2022, 16:00  
-**Amir Naseredini**  
+**Amir Naseredini, University of Sussex**  
 Title: TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream](https://youtu.be/vvluE5JOFds)]<details>**Abstract:** TBA.  
 <br><br>**Bio**: Amir Naseredini is a Ph.D. candidate and an Associate Tutor at FoSS group at the University of Sussex. After obtaining his Doctoral degree, his ultimate goal was to pursue a career inline with his research interest in a dynamic research environment including pioneer companies and/or academia. https://sahnaseredini.github.io/.<br></details>  
 <!----->
 <img src="../images/bogdan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 February 2022, 16:00  
-**Bogdan Kulynych**  
+**Bogdan Kulynych, EPFL**  
 Disparate Vulnerability to Membership Inference Attacks  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** A membership inference attack (MIA) against a machine-learning model enables an attacker to determine whether a given data record was part of the model's training data or not. This talk will present an in-depth theoretical and empirical study of the phenomenon of disparate vulnerability against MIAs: unequal success rate of MIAs against different population subgroups. On the theoretical side, I will present necessary and sufficient conditions for preventing MIAs, both on average and for population subgroups, using a new notion of distributional generalization. I will also show the connections of disparate vulnerability to algorithmic fairness and to differential privacy. On the practical side, I will show that estimating disparate vulnerability to MIAs by naïvely applying existing attacks can lead to overestimation. I will show which attacks are suitable for estimating disparate vulnerability and provide a statistical framework for doing so reliably. I will present experiments finding statistically significant evidence of disparate vulnerability in realistic settings. More details are in the paper: https://arxiv.org/abs/1906.00389. This is a joint work with Mohammad Yaghini (University of Toronto), Giovanni Cherubin (Alan Turing Institute), Michael Veale (University College London), and Carmela Troncoso (EPFL).<br><br>**Bio**: Bogdan Kulynych is a PhD student at EPFL SPRING Lab. His interest is in studying harmful effects of machine-learning, algorithmic, and optimization systems, and, leveraging security and privacy techniques and principles, developing mitigations against these harmful effects.<br></details>  
 <!----->

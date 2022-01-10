@@ -19,7 +19,7 @@ Security and Privacy in the Age of Ubiquitous Computing
 Evaluating Methods for Privacy-Preserving Data Sharing in Genomics  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Bristena Oprisanu is a PhD Candidate within the Information Security Research Group at UCL. Her research focuses on Enabling Progress in Genomic Research Via Privacy-Preserving Data Sharing, and it is currently sponsored by Google Inc. She is supervised by Dr. Emiliano De Cristofaro and Dr. Christophe Dessimoz. Previous to this she did an MSc in Information Security at UCL, and an MSci in Mathematics with Economics at UCL as well. Bristena’s research interests include privacy enhancing technologies, applied cryptography and cryptanalysis [https://www.bristenaop.com](https://www.bristenaop.com)<br></details>  
 <!----->
-<img src="../images/ania.jpg" style="float:right;width:100px;height:100px;margin-top:15px">-->
+<img src="../images/ania.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 January 2022, 16:30  
 **Ania Piotrowska &ndash; Public PhD Talk**  
 TBA  
@@ -31,7 +31,7 @@ TBA
 WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**<br><br>**Bio**: Sandra Siby is a third year PhD student in the Security and Privacy Engineering (SPRING) lab at EPFL, advised by Carmela Troncoso. Her research interests are mainly in the areas of network security, web security, and privacy. The overarching theme of her research is to understand what we can learn from analysing meta-data, in the context of security and privacy. Her current focus is on two scenarios: network traffic analysis of encrypted DNS communication, and automated tracking detection on websites. Prior to EPFL, Sandra worked on various projects, in the areas of IoT network security, sensor networks, and delay-tolerant networks. She obtained her MS in Electrical Engineering from ETH Zurich (2014), and BEng in Electrical Engineering from the National University of Singapore (2011).<br></details>  
 <!----->
-<img src="../images/ Amir.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/amir.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 February 2022, 16:00  
 **Amir Naseredini**  
 Title: TBA  

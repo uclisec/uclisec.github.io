@@ -17,7 +17,8 @@ Measuring and managing cyber risk
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 10:30  
 **Mark Warner, Northumbria University**  
-Title TBA <details><br>**Abstract:**   
+Title TBA  
+  <details><br>**Abstract:**   
 <br>**Bio:** <br>
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
@@ -27,7 +28,8 @@ Title TBA <details><br>**Abstract:**
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  
 **Martin Kleppman, Cambridge University**  
-Title TBA <details><br>**Abstract:**   
+Title TBA  
+  <details><br>**Abstract:**   
 <br>**Bio:** <br>
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
@@ -37,7 +39,8 @@ Title TBA <details><br>**Abstract:**
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 10:30  
 **Ilia Shumailov, Cambridge University**  
-Title TBA <details><br>**Abstract:**   
+Title TBA  
+  <details><br>**Abstract:**   
 <br>**Bio:** <br>
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
@@ -59,7 +62,8 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2022, 10:30  
 **Matthew Mirman, ETH Zurich**  
-Title TBA <details><br>**Abstract:**   
+Title TBA  
+  <details><br>**Abstract:**   
 <br>**Bio:** <br>
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
@@ -69,7 +73,8 @@ Title TBA <details><br>**Abstract:**
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 13:30 (*TBC*)  
 **Yixin Zou, University of Michigan**  
-Improving People's Adoption of Security and Privacy Behaviors <details><br>**Abstract:** Experts recommend a plethora of advice for staying safe online, yet people still use weak passwords, fall for scams, or ignore software updates. Such inconsistent adoption of protective behaviors is understandable given the need to navigate other priorities and constraints in everyday life. Yet when the actions taken are insufficient to mitigate potential risks, it leaves people – especially those already marginalized – vulnerable to dire consequences from financial loss to abuse and harassment. In this talk, I share findings from my research on hurdles that prevent people from adopting secure behaviors and solutions that encourage adoption in three domains: designing data breach notifications, informing privacy interface guidelines in regulations, and supporting survivors of tech-enabled abuse. (1) Even small changes in system design can make a big difference. I empirically show consumers’ low awareness of data breaches, rational justifications and biases behind inaction, and how to motivate consumers to change breached passwords through nudges in breach notifications. (2) Public policy is essential in incentivizing companies to implement better data practices, but policymaking needs to be informed by evidence from research. I present a series of user studies that led to a user-tested icon for conveying the “do not sell my personal information” opt-out, now part of the California Consumer Privacy Act (CCPA). (3) Different user groups have different threat models and safety needs, requiring special considerations in developing and deploying interventions. Drawing on findings from focus groups, I discuss how computer security support agents can help survivors of tech-enabled abuse using a trauma-informed approach. Altogether, I highlight the impact of my research on technology design, public policy, and educational efforts. I end the talk by discussing how my interdisciplinary, human-centered approach in solving security and privacy challenges can apply to future work such as improving expert advice and developing trauma-informed computing systems.  
+Improving People's Adoption of Security and Privacy Behaviors  
+  <details><br>**Abstract:** Experts recommend a plethora of advice for staying safe online, yet people still use weak passwords, fall for scams, or ignore software updates. Such inconsistent adoption of protective behaviors is understandable given the need to navigate other priorities and constraints in everyday life. Yet when the actions taken are insufficient to mitigate potential risks, it leaves people – especially those already marginalized – vulnerable to dire consequences from financial loss to abuse and harassment. In this talk, I share findings from my research on hurdles that prevent people from adopting secure behaviors and solutions that encourage adoption in three domains: designing data breach notifications, informing privacy interface guidelines in regulations, and supporting survivors of tech-enabled abuse. (1) Even small changes in system design can make a big difference. I empirically show consumers’ low awareness of data breaches, rational justifications and biases behind inaction, and how to motivate consumers to change breached passwords through nudges in breach notifications. (2) Public policy is essential in incentivizing companies to implement better data practices, but policymaking needs to be informed by evidence from research. I present a series of user studies that led to a user-tested icon for conveying the “do not sell my personal information” opt-out, now part of the California Consumer Privacy Act (CCPA). (3) Different user groups have different threat models and safety needs, requiring special considerations in developing and deploying interventions. Drawing on findings from focus groups, I discuss how computer security support agents can help survivors of tech-enabled abuse using a trauma-informed approach. Altogether, I highlight the impact of my research on technology design, public policy, and educational efforts. I end the talk by discussing how my interdisciplinary, human-centered approach in solving security and privacy challenges can apply to future work such as improving expert advice and developing trauma-informed computing systems.  
 <br>**Bio:** Yixin Zou (she/her) is a Ph.D. Candidate at the University of Michigan School of Information. Her research interests span cybersecurity, privacy, and human-computer interaction, with an emphasis on improving people’s adoption of protective behaviors and supporting vulnerable populations (e.g., survivors of intimate partner violence and older adults) in protecting their digital safety. Her research has received a Best Paper Award at the Symposium on Usable Privacy and Security (SOUPS) and two Honorable Mentions at the ACM Conference on Human Factors in Computing Systems (CHI). She has been an invited speaker at the US Federal Trade Commission's PrivacyCon, and she co-led the research effort that produced the opt-out icon in the California Consumer Privacy Act (CCPA). She has also collaborated with industry partners at NortonLifeLock and Mozilla, and her research at Mozilla has directly influenced the product development of Firefox Monitor. Before joining the University of Michigan, she received a Bachelor’s degree in Advertising from the University of Illinois at Urbana-Champaign.<br>
 <br>**Home Page:** [https://yixinzou.github.io](https://yixinzou.github.io)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en](https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en)<br>
@@ -79,7 +84,8 @@ Improving People's Adoption of Security and Privacy Behaviors <details><br>**Abs
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 15:00 (*TBC*)  
 **Pratyush Mishra, UC Berkeley**  
-Title TBA <details><br>**Abstract:**   
+Title TBA  
+  <details><br>**Abstract:**   
 <br>**Bio:** <br>
 <br>**Home Page:** [https://people.eecs.berkeley.edu/~pratyushmishra/](https://people.eecs.berkeley.edu/~pratyushmishra/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en](https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en)<br>

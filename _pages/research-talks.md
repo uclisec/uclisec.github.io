@@ -1,6 +1,6 @@
 ---
 title: "Research Talks"
-permalink: /facrestalks22/
+permalink: /xyz/facrestalks22/
 layout: single
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: "Research Talks"
-permalink: /research-talks/
+permalink: /facrestalks22/
 layout: single
 ---
-
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 09:00  

@@ -4,7 +4,7 @@ permalink: /xyz/facrestalks22/
 layout: single
 ---
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 09:00  
 **Daniel Woods, Innsbruck University**  
 Measuring and managing cyber risk  
@@ -14,7 +14,7 @@ Measuring and managing cyber risk
 <br>**Google Scholar**: [https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en](https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09](https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09)<br></details><br>
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 10:30  
 **Mark Warner, Northumbria University**  
 Title TBA  
@@ -24,7 +24,7 @@ Title TBA
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details><br>
 
-<img src="../../images/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  
 **Martin Kleppman, Cambridge University**  
 Confidentiality, Integrity, and Availability of Collaboration Software  
@@ -35,7 +35,7 @@ Confidentiality, Integrity, and Availability of Collaboration Software
 <br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details><br>
 
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 10:30  
 **Ilia Shumailov, Cambridge University**  
 Title TBA  
@@ -46,7 +46,7 @@ Title TBA
 <br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details><br>
 
 
-<img src="../../images/arthur.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/arthur.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2022, 09:00  
 **Arthur Gervais, Imperial College**  
 How Dark is the Forest? On Blockchain Extractable Value and High-Frequency Trading in Decentralized Finance <details><br>**Abstract:** Permissionless blockchains such as Bitcoin have excelled at financial services. Yet, opportunistic traders extract monetary value from the mesh of decentralized finance (DeFi) smart contracts through so-called blockchain extractable value (BEV). The recent emergence of centralized BEV relayer portrays BEV as a positive additional revenue source. Because BEV, however, was quantitatively shown to deteriorate the blockchain’s consensus security, BEV relayers endanger the ledger security by incentivizing rational miners to fork the chain. For example, a rational miner with a 10% hashrate will fork Ethereum if a BEV opportunity exceeds 4× the block reward.
@@ -58,7 +58,7 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 
 
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2022, 10:30  
 **Matthew Mirman, ETH Zurich**  
 Title TBA  
@@ -69,7 +69,7 @@ Title TBA
 <br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details><br>
 
 
-<img src="../../images/yixin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/yixin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 13:30 (*TBC*)  
 **Yixin Zou, University of Michigan**  
 Improving People's Adoption of Security and Privacy Behaviors  
@@ -80,7 +80,7 @@ Improving People's Adoption of Security and Privacy Behaviors
 <br>**Join:** <br></details><br>
 
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 15:00 (*TBC*)  
 **Pratyush Mishra, UC Berkeley**  
 Title TBA  

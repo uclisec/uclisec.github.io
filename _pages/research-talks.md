@@ -12,7 +12,6 @@ Measuring and managing cyber risk <details><br>**Abstract:** Improving cybersecu
 <br>**Home Page**: [https://informationsecurity.uibk.ac.at/people/daniel-woods/](https://informationsecurity.uibk.ac.at/people/daniel-woods/)<br>
 <br>**Google Scholar**: [https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en](https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09](https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09)<br></details>  
-<br>
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
 - 4 February 2022, 10:30  
@@ -22,7 +21,6 @@ Title TBA <details><br>**Abstract:**
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details>  
-<br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
@@ -33,7 +31,6 @@ Title TBA <details><br>**Abstract:**
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details>  
-<br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
@@ -44,7 +41,6 @@ Title TBA <details><br>**Abstract:**
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details>  
-<br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
@@ -67,7 +63,6 @@ Title TBA <details><br>**Abstract:**
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details>  
-<br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
@@ -78,7 +73,6 @@ Improving People's Adoption of Security and Privacy Behaviors <details><br>**Abs
 <br>**Home Page:** [https://yixinzou.github.io](https://yixinzou.github.io)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en](https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en)<br>
 <br>**Join:** <br></details>  
-<br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px;margin-bottom:15px">
@@ -89,4 +83,3 @@ Title TBA <details><br>**Abstract:**
 <br>**Home Page:** [https://people.eecs.berkeley.edu/~pratyushmishra/](https://people.eecs.berkeley.edu/~pratyushmishra/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en](https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en)<br>
 <br>**Join:** <br></details>  
-<br>

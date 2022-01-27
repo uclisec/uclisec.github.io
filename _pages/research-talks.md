@@ -24,12 +24,12 @@ Title TBA
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details><br>
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  
 **Martin Kleppman, Cambridge University**  
-Title TBA  
-  <details><br>**Abstract:**   
-<br>**Bio:** <br>
+Confidentiality, Integrity, and Availability of Collaboration Software  
+  <details><br>**Abstract:** Signal, WhatsApp, and other secure messaging apps have brought end-to-end encryption to billions of users. Unfortunately, many other applications still lack end-to-end security guarantees: in particular, with real-time collaboration software such as Google Docs, Overleaf, Figma, or Trello, we still have to blindly trust cloud services to process the users’ unencrypted data. This is particularly problematic for use cases such as journalistic investigations, medical records, or sensitive negotiations. This talk introduces our group's research on improving the security characteristics of collaboration software, while retaining the convenience of real-time collaboration. To improve confidentiality, we are applying end-to-end encryption, and using anonymity protocols to provide metadata privacy. To improve integrity, we aim to cryptographically verify that collaborators have consistent views of the shared document. To improve availability, our “local-first” approach ensures that even if the cloud service shuts down or suspends user accounts, users do not lose any data. Our approach is both principled and practical. We are using a wide variety of techniques, including cryptographic protocol design, formal verification of algorithms, carefully optimised data structures, and open source application prototypes, with the goal of making secure collaboration software a practical reality.  
+<br>**Bio:** Dr. Martin Kleppmann is a research fellow and affiliated lecturer at the University of Cambridge, and author of the bestselling book “Designing Data-Intensive Applications” (O'Reilly Media). He works on distributed systems security and collaboration software. Previously he was a software engineer and entrepreneur, co-founding and selling two startups, and working on large-scale data infrastructure at LinkedIn.<br>
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details><br>
@@ -46,7 +46,7 @@ Title TBA
 <br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details><br>
 
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images/arthur.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2022, 09:00  
 **Arthur Gervais, Imperial College**  
 How Dark is the Forest? On Blockchain Extractable Value and High-Frequency Trading in Decentralized Finance <details><br>**Abstract:** Permissionless blockchains such as Bitcoin have excelled at financial services. Yet, opportunistic traders extract monetary value from the mesh of decentralized finance (DeFi) smart contracts through so-called blockchain extractable value (BEV). The recent emergence of centralized BEV relayer portrays BEV as a positive additional revenue source. Because BEV, however, was quantitatively shown to deteriorate the blockchain’s consensus security, BEV relayers endanger the ledger security by incentivizing rational miners to fork the chain. For example, a rational miner with a 10% hashrate will fork Ethereum if a BEV opportunity exceeds 4× the block reward.
@@ -69,7 +69,7 @@ Title TBA
 <br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details><br>
 
 
-<img src="../../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images/yixin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 13:30 (*TBC*)  
 **Yixin Zou, University of Michigan**  
 Improving People's Adoption of Security and Privacy Behaviors  

@@ -12,7 +12,7 @@ Measuring and managing cyber risk
 <br>**Bio:** Daniel Woods is currently a Marie Curie Fellow at the University of Innsbruck in the Austrian Alps.  He received his PhD from the University of Oxford's computer science department, during which he visited the University of Tulsa as a Fulbright scholar.  He received an MSci in mathematics from the University of Bristol.<br>
 <br>**Home Page**: [https://informationsecurity.uibk.ac.at/people/daniel-woods/](https://informationsecurity.uibk.ac.at/people/daniel-woods/)<br>
 <br>**Google Scholar**: [https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en](https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09](https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09)<br></details>  
+<br>**Join:** [https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09](https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09)<br></details><br>
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 10:30  
@@ -32,7 +32,7 @@ Title TBA
 <br>**Bio:** <br>
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details>  
+<br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details><br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -43,7 +43,7 @@ Title TBA
 <br>**Bio:** <br>
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
-<br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details>  
+<br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details><br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -54,7 +54,7 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 <br>**Bio:** Arthur Gervais is a Lecturer (equivalent Assistant Professor) at Imperial College London. He's passionate about information security and worked since 2012 on blockchain related topics, with a recent focus on Decentralized Finance (DeFi). He is co-instructor in the first DeFi MOOC attracting over 2800 students in the Fall 2021 ([https://defi-learning.org/](https://defi-learning.org/)).<br>
 <br>**Home Page:** [http://arthurgervais.com](http://arthurgervais.com)<br>
 <br>**Google Scholar:** [https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en](https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09](https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09)<br></details>  
+<br>**Join:** [https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09](https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09)<br></details>
 
 
 
@@ -66,7 +66,7 @@ Title TBA
 <br>**Bio:** <br>
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
-<br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details>  
+<br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details><br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -77,7 +77,7 @@ Improving People's Adoption of Security and Privacy Behaviors
 <br>**Bio:** Yixin Zou (she/her) is a Ph.D. Candidate at the University of Michigan School of Information. Her research interests span cybersecurity, privacy, and human-computer interaction, with an emphasis on improving people’s adoption of protective behaviors and supporting vulnerable populations (e.g., survivors of intimate partner violence and older adults) in protecting their digital safety. Her research has received a Best Paper Award at the Symposium on Usable Privacy and Security (SOUPS) and two Honorable Mentions at the ACM Conference on Human Factors in Computing Systems (CHI). She has been an invited speaker at the US Federal Trade Commission's PrivacyCon, and she co-led the research effort that produced the opt-out icon in the California Consumer Privacy Act (CCPA). She has also collaborated with industry partners at NortonLifeLock and Mozilla, and her research at Mozilla has directly influenced the product development of Firefox Monitor. Before joining the University of Michigan, she received a Bachelor’s degree in Advertising from the University of Illinois at Urbana-Champaign.<br>
 <br>**Home Page:** [https://yixinzou.github.io](https://yixinzou.github.io)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en](https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en)<br>
-<br>**Join:** <br></details>  
+<br>**Join:** <br></details><br>
 
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -88,4 +88,4 @@ Title TBA
 <br>**Bio:** <br>
 <br>**Home Page:** [https://people.eecs.berkeley.edu/~pratyushmishra/](https://people.eecs.berkeley.edu/~pratyushmishra/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en](https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en)<br>
-<br>**Join:** <br></details>  
+<br>**Join:** <br></details><br>

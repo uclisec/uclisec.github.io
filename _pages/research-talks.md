@@ -23,8 +23,7 @@ Title TBA
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details>  
-
-<br>
+  
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  

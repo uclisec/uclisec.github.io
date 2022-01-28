@@ -4,7 +4,7 @@ permalink: /xyz/facrestalks22/
 layout: single
 ---
 
-<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/daniel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 09:00  
 **Daniel Woods, Innsbruck University**  
 Measuring and managing cyber risk <details>**Abstract:** Improving cybersecurity across society requires more than just designing secure systems, we must also understand the evidence base and incentive structure that leads firms to adopt secure solutions. This talk begins with a systematisation of 30 years of quantitative cyber risk research.  I then present an approach to estimating the risk and size of cyber losses that involves reverse engineering insurance prices.  I also present ongoing work trying to quantify software security via 0-day exploit prices.  The second part of the talk presents evidence about how insurers and lawyers are fundamentally changing how firms respond to cyber incidents.   

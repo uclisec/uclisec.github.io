@@ -54,11 +54,11 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 
 
 
-<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/matthew.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2022, 10:30  
 **Matthew Mirman, ETH Zurich**  
-Title TBA <details>**Abstract:**   
-<br>**Bio:** <br>
+Trustworthy Deep Learning: Methods, Systems and Theory <details>**Abstract:** Deep learning models are quickly becoming an integral part of a plethora of high stakes applications, including autonomous driving and health care.  As the discovery of vulnerabilities and flaws in these models has become frequent, so has the interest in ensuring their safety, robustness and reliability.  My research addresses this need by introducing new core methods and systems that can establish desirable mathematical guarantees of deep learning models. In the first part of my talk I will describe how we leverage abstract interpretation to scale verification to orders of magnitude larger deep neural networks than prior work, at the same time demonstrating the correctness of significantly more properties.  I will then show how these techniques can be extended to ensure, for the first time, formal guarantees of probabilistic semantic specifications using generative models. In the second part, I will show how to fuse abstract interpretation with the training phase so as to improve a model’s amenability to certification, allowing us to guarantee orders of magnitude more properties than possible with prior work.  Finally, I will discuss exciting theoretical advances which address fundamental questions on the very existence of certified deep learning.  
+<br>**Bio:** Matthew Mirman is a final-year PhD student at ETH Zürich, supervised by Martin Vechev. His main research interests sit at the intersection of programming languages, machine learning, and theory with applications to creating safe and reliable artificial intelligence systems. Prior to ETH, he completed his B.Sc. and M.Sc. at Carnegie-Mellon University supervised by Frank Pfenning.<br>
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details><br>

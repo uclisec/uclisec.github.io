@@ -13,7 +13,7 @@ Measuring and managing cyber risk <details>**Abstract:** Improving cybersecurity
 <br>**Google Scholar**: [https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en](https://scholar.google.com/citations?user=Vbr7JG4AAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09](https://ucl.zoom.us/j/91500185309?pwd=cEdaM3pLbkl0NkhXR25uUWxBSG92QT09)<br></details><br>
 
-<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/mark.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 10:30  
 **Mark Warner, Northumbria University**  
 I’d prefer not to say: Investigating the effects of

@@ -16,11 +16,13 @@ Measuring and managing cyber risk <details>**Abstract:** Improving cybersecurity
 <img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 4 February 2022, 10:30  
 **Mark Warner, Northumbria University**  
-Title TBA <details>**Abstract:**   
+I’d prefer not to say: Investigating the effects of
+information control mechanisms in different online social
+environments<details>**Abstract:** When signing up to social networking sites, completing online profiles, or after sending messages to friends on WhatsApp, people may choose to withhold certain information about themselves or even delete information previously disclosed. Whilst providing users with control over their personal information is clearly important, little is known about the impact these control mechanisms have on users. In this talk, we will explore work conducted as part of my PhD which investigated the effect of HIV status non-disclosures in dating apps used by gay and bisexual men. This work highlights the potential negative effect non-disclosures can have on user desirability, and how this differs depending on other disclosed characteristics of the user. I will then share findings from a study I recently conducted on message deletion in mobile messaging apps, and highlight similarities in the findings across these two very different online environments  
 <br>**Bio:** <br>
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details><br>
+<br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details>
 
 <img src="../../images2/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  

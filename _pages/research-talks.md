@@ -22,7 +22,8 @@ environments<details>**Abstract:** When signing up to social networking sites, c
 <br>**Bio:** Mark Warner is a Senior Lecturer in Computing and Information Sciences and is part of the social computing research group. He conducts interdisciplinary research at the intersection of human-computer interaction, information security, and crime and policing. Mark was the computer science lead for OMDDAC, a UKRI funded observatory for monitoring data driven approaches to COVID-19 and is currently leading a REPHRAIN funded project developing a proactive online harms intervention tool. In addition to this research, he is an expert advisor for the National Police Chiefs Council (NPCC) Vulnerability Knowledge and Practice Programme (VKPP), providing expert advice, consultation, and scrutiny of the programmes research. He also acts as an expert advisor on the Thames Valley Police data ethics committee providing guidance on the use of data-driven systems in policing. In 2020 he completed his PhD at UCL's Interaction Centre, prior to which he gained an MSc in Security Management whilst working as a digital forensics engineer, a career he held for over 10 years.<br>
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br></details>
+<br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/mark.ics)</details><br>
 
 <img src="../../images2/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  
@@ -31,7 +32,8 @@ Confidentiality, Integrity, and Availability of Collaboration Software <details>
 <br>**Bio:** Dr. Martin Kleppmann is a research fellow and affiliated lecturer at the University of Cambridge, and author of the bestselling book “Designing Data-Intensive Applications” (O'Reilly Media). He works on distributed systems security and collaboration software. Previously he was a software engineer and entrepreneur, co-founding and selling two startups, and working on large-scale data infrastructure at LinkedIn.<br>
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details><br>
+<br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/martin.ics)</details><br><br>
 
 
 <img src="../../images2/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -41,7 +43,8 @@ Machine Learning in context of Computer Security <details>**Abstract:** Machine 
 <br>**Bio:** Ilia Shumailov holds a BSc in Computer Science from University of St Andrews and MPhil in Advanced Computer Science from the University of Cambridge. Since 2017 Ilia has been reading for a PhD in Computer Science under the supervision of Prof Ross Anderson. During his PhD, Ilia has worked on a number of projects spanning the fields of machine learning security, cybercrime analysis and signal processing.<br>
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
-<br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details><br>
+<br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/ilia.ics)</details><br><br>
 
 
 <img src="../../images2/arthur.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -52,7 +55,8 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 <br>**Bio:** Arthur Gervais is a Lecturer (equivalent Assistant Professor) at Imperial College London. He's passionate about information security and worked since 2012 on blockchain related topics, with a recent focus on Decentralized Finance (DeFi). He is co-instructor in the first DeFi MOOC attracting over 2800 students in the Fall 2021 ([https://defi-learning.org/](https://defi-learning.org/)).<br>
 <br>**Home Page:** [http://arthurgervais.com](http://arthurgervais.com)<br>
 <br>**Google Scholar:** [https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en](https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09](https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09)<br></details>
+<br>**Join:** [https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09](https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/arthur.ics)</details><br>
 
 
 
@@ -63,7 +67,8 @@ Trustworthy Deep Learning: Methods, Systems and Theory <details>**Abstract:** De
 <br>**Bio:** Matthew Mirman is a final-year PhD student at ETH Zürich, supervised by Martin Vechev. His main research interests sit at the intersection of programming languages, machine learning, and theory with applications to creating safe and reliable artificial intelligence systems. Prior to ETH, he completed his B.Sc. and M.Sc. at Carnegie-Mellon University supervised by Frank Pfenning.<br>
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
-<br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br></details><br>
+<br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/matthew.ics)</details><br><br>
 
 
 <img src="../../images2/yixin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -73,7 +78,8 @@ Improving People's Adoption of Security and Privacy Behaviors <details>**Abstrac
 <br>**Bio:** Yixin Zou (she/her) is a Ph.D. Candidate at the University of Michigan School of Information. Her research interests span cybersecurity, privacy, and human-computer interaction, with an emphasis on improving people’s adoption of protective behaviors and supporting vulnerable populations (e.g., survivors of intimate partner violence and older adults) in protecting their digital safety. Her research has received a Best Paper Award at the Symposium on Usable Privacy and Security (SOUPS) and two Honorable Mentions at the ACM Conference on Human Factors in Computing Systems (CHI). She has been an invited speaker at the US Federal Trade Commission's PrivacyCon, and she co-led the research effort that produced the opt-out icon in the California Consumer Privacy Act (CCPA). She has also collaborated with industry partners at NortonLifeLock and Mozilla, and her research at Mozilla has directly influenced the product development of Firefox Monitor. Before joining the University of Michigan, she received a Bachelor’s degree in Advertising from the University of Illinois at Urbana-Champaign.<br>
 <br>**Home Page:** [https://yixinzou.github.io](https://yixinzou.github.io)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en](https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en)<br>
-<br>**Join:** [https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09](https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09)<br></details><br>
+<br>**Join:** [https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09](https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/yixin.ics)</details><br><br>
 
 
 <img src="../../images2/pratyush.png" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -85,4 +91,5 @@ Title TBA <details>**Abstract:**
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en](https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91710786002?pwd=eHg5b2VGTWMyTXFJRHUyK2FpZU9mdz09
 ](https://ucl.zoom.us/j/91710786002?pwd=eHg5b2VGTWMyTXFJRHUyK2FpZU9mdz09
-)<br></details><br>
+)<br>
+<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/pratyush.ics)</details><br><br>

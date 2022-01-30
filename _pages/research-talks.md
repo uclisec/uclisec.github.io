@@ -34,11 +34,11 @@ Confidentiality, Integrity, and Availability of Collaboration Software <details>
 <br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br></details><br>
 
 
-<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 10:30  
 **Ilia Shumailov, Cambridge University**  
-Title TBA <details>**Abstract:**   
-<br>**Bio:** <br>
+Machine Learning in context of Computer Security <details>**Abstract:** Machine learning (ML) has proven to be more fragile than previously thought, especially in adversarial settings. A capable adversary can cause ML systems to break at training, inference, and deployment stages. In this talk, I will cover my recent work on attacking and defending machine learning pipelines; I will describe how, otherwise correct, ML components end up being vulnerable because an attacker can break their underlying assumptions. First, with an example of attacks against text preprocessing, I will discuss why a holistic view of the ML deployment is a key requirement for ML security. Second, I will describe how an adversary can exploit the computer systems, underlying the ML pipeline, to develop availability attacks at both training and inference stages. At the training stage, I will present data ordering attacks that break stochastic optimisation routines. At the inference stage, I will describe sponge examples that soak up a large amount of energy and take a long time to process. Finally, building on my experience attacking ML systems, I will discuss developing robust defenses against ML attacks, which consider an end-to-end view of the ML pipeline.  
+<br>**Bio:** Ilia Shumailov holds a BSc in Computer Science from University of St Andrews and MPhil in Advanced Computer Science from the University of Cambridge. Since 2017 Ilia has been reading for a PhD in Computer Science under the supervision of Prof Ross Anderson. During his PhD, Ilia has worked on a number of projects spanning the fields of machine learning security, cybercrime analysis and signal processing.<br>
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br></details><br>
@@ -76,7 +76,7 @@ Improving People's Adoption of Security and Privacy Behaviors <details>**Abstrac
 <br>**Join:** [https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09](https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09)<br></details><br>
 
 
-<img src="../../images2/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/pratyush.png" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 15:00  
 **Pratyush Mishra, UC Berkeley**  
 Title TBA <details>**Abstract:**   

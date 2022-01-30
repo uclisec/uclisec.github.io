@@ -23,7 +23,7 @@ environments<details>**Abstract:** When signing up to social networking sites, c
 <br>**Home Page:** [https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/](https://www.northumbria.ac.uk/about-us/our-staff/w/mark-warner/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=B2MxYPYAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09](https://ucl.zoom.us/j/91456071327?pwd=dkRzYU9DNkdDQlBOT1daelk4TEtrUT09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/mark.ics)</details><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/mark.ics)]</details><br>
 
 <img src="../../images2/martin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 February 2022, 09:00  
@@ -33,7 +33,7 @@ Confidentiality, Integrity, and Availability of Collaboration Software <details>
 <br>**Home Page:** [https://martin.kleppmann.com/](https://martin.kleppmann.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en](https://scholar.google.com/citations?user=TbyvU7oAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09](https://ucl.zoom.us/j/95784644175?pwd=NHU3Y3IyUHd2emFnUmR5QXRNb1pXUT09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/martin.ics)</details><br><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/martin.ics)]</details><br><br>
 
 
 <img src="../../images2/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -44,7 +44,7 @@ Machine Learning in context of Computer Security <details>**Abstract:** Machine 
 <br>**Home Page:** [https://www.cl.cam.ac.uk/~is410/](https://www.cl.cam.ac.uk/~is410/)<br>
 <br>**Google Scholar:** [https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ](https://scholar.google.co.uk/citations?user=e-YbZyEAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09](https://ucl.zoom.us/j/93729429419?pwd=dG9hMkY4L05lM1dNZnRtTGxOc2FEZz09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/ilia.ics)</details><br><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/ilia.ics)]</details><br><br>
 
 
 <img src="../../images2/arthur.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -56,7 +56,7 @@ In this talk, we quantify the BEV danger by deriving the USD extracted from sand
 <br>**Home Page:** [http://arthurgervais.com](http://arthurgervais.com)<br>
 <br>**Google Scholar:** [https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en](https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09](https://ucl.zoom.us/j/96139024855?pwd=YVhIaktmcmpIRUVrVVdhQlVSSCtJZz09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/arthur.ics)</details><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/arthur.ics)]</details><br>
 
 
 
@@ -68,7 +68,7 @@ Trustworthy Deep Learning: Methods, Systems and Theory <details>**Abstract:** De
 <br>**Home Page:** [http://www.mirman.com/](http://www.mirman.com/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ](https://scholar.google.com/citations?hl=en&user=ovm4iLwAAAAJ)<br>
 <br>**Join:** [https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09](https://ucl.zoom.us/j/93903168541?pwd=UEtYcE9tNzlENHJoSXREK3NzUWxSdz09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/matthew.ics)</details><br><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/matthew.ics)]</details><br><br>
 
 
 <img src="../../images2/yixin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -79,7 +79,7 @@ Improving People's Adoption of Security and Privacy Behaviors <details>**Abstrac
 <br>**Home Page:** [https://yixinzou.github.io](https://yixinzou.github.io)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en](https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09](https://ucl.zoom.us/j/96802863445?pwd=UUpXSDZCb1Awcnc4R2lvQnpBNmxxUT09)<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/yixin.ics)</details><br><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/yixin.ics)]</details><br><br>
 
 
 <img src="../../images2/pratyush.png" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -92,4 +92,4 @@ Title TBA <details>**Abstract:**
 <br>**Join:** [https://ucl.zoom.us/j/91710786002?pwd=eHg5b2VGTWMyTXFJRHUyK2FpZU9mdz09
 ](https://ucl.zoom.us/j/91710786002?pwd=eHg5b2VGTWMyTXFJRHUyK2FpZU9mdz09
 )<br>
-<br>**[[Import to Outlook]]**(https://sec.cs.ucl.ac.uk/xyz/pratyush.ics)</details><br><br>
+<br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/pratyush.ics)]</details><br><br>

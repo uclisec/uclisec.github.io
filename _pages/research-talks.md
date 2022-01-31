@@ -82,11 +82,11 @@ Improving People's Adoption of Security and Privacy Behaviors <details>**Abstrac
 <br>[[Import to Outlook](https://sec.cs.ucl.ac.uk/xyz/yixin.ics)]</details><br><br>
 
 
-<img src="../../images2/pratyush.png" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../../images2/pratyush.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 24 February 2022, 15:00  
 **Pratyush Mishra, UC Berkeley**  
-Title TBA <details>**Abstract:**   
-<br>**Bio:** <br>
+Privacy and Scalability for Decentralized Systems <details>**Abstract:**   
+<br>**Bio:** Pratyush Mishra is a cryptographer at Aleo. He recently completed his Ph.D. in Computer Science at UC Berkeley. His research interests include computer security and cryptography, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects.<br>
 <br>**Home Page:** [https://people.eecs.berkeley.edu/~pratyushmishra/](https://people.eecs.berkeley.edu/~pratyushmishra/)<br>
 <br>**Google Scholar:** [https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en](https://scholar.google.com/citations?user=URyAEqUAAAAJ&hl=en)<br>
 <br>**Join:** [https://ucl.zoom.us/j/91710786002?pwd=eHg5b2VGTWMyTXFJRHUyK2FpZU9mdz09

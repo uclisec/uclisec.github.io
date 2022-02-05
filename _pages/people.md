@@ -29,7 +29,7 @@ Professor of Security and Privacy Enhancing Technologies<br />
 <p class="profile"><img src="../images/philipp.jpg" class="profilephoto" />
 <a href="https://philipp.jovanovic.io/"><strong>Philipp Jovanovic</strong></a><br />
 Associate Professor in Information Security<br>
-<em>MSc Information Security Programme Director</p>
+<em>MSc Information Security Programme Director</em></p>
 
 <p class="profile"><img src="../images/sarah.jpg" class="profilephoto" />
 <a href="https://smeiklej.com/"><strong>Sarah Meiklejohn</strong></a><br />

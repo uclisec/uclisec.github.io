@@ -50,7 +50,7 @@ Professor of Security Engineering<br>
 
 
 <p class="profile"><img src="../images/angela.jpg" class="profilephoto" />
-<a href="https://uclisec.github.io/people/m_angela_sasse/"><strong>Angela M. Sasse</strong></a><br />
+<a href="https://uclisec.github.io/people/m_angela_sasse/"><strong>M. Angela Sasse</strong></a><br />
 Professor of Human-Centred Technology<br />
 <em>Part-time, also Professor at Ruhr-University Bochum</em></p>
 

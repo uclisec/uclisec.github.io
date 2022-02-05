@@ -19,7 +19,7 @@ Professor of Computer Science<br />
 <p class="profile"><img src="../images/george.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><strong>George Danezis</strong></a><br />
 Professor of Security and Privacy Engineering<br>
-<em>Part-time</em></p>
+<em>Part-time, also Chief Scientist at Mysten Labs</em></p>
 
 <p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
 <a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />

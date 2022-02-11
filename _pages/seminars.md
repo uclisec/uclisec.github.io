@@ -7,14 +7,8 @@ layout: single
 Upcoming events
 ---
 
-<!----->
-<img src="../images/bogdan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 10 February 2022, 16:00  
-**Bogdan Kulynych, EPFL**  
-Disparate Vulnerability to Membership Inference Attacks  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** A membership inference attack (MIA) against a machine-learning model enables an attacker to determine whether a given data record was part of the model's training data or not. This talk will present an in-depth theoretical and empirical study of the phenomenon of disparate vulnerability against MIAs: unequal success rate of MIAs against different population subgroups. On the theoretical side, I will present necessary and sufficient conditions for preventing MIAs, both on average and for population subgroups, using a new notion of distributional generalization. I will also show the connections of disparate vulnerability to algorithmic fairness and to differential privacy. On the practical side, I will show that estimating disparate vulnerability to MIAs by naïvely applying existing attacks can lead to overestimation. I will show which attacks are suitable for estimating disparate vulnerability and provide a statistical framework for doing so reliably. I will present experiments finding statistically significant evidence of disparate vulnerability in realistic settings. More details are in the paper: [https://arxiv.org/abs/1906.00389](https://arxiv.org/abs/1906.00389). This is a joint work with Mohammad Yaghini (University of Toronto), Giovanni Cherubin (Alan Turing Institute), Michael Veale (University College London), and Carmela Troncoso (EPFL).<br><br>**Bio**: Bogdan Kulynych is a PhD student at EPFL SPRING Lab. His interest is in studying harmful effects of machine-learning, algorithmic, and optimization systems, and, leveraging security and privacy techniques and principles, developing mitigations against these harmful effects.<br></details>  
-<!----->
 
+<!----->
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 March 2022, 16:00  
 **Sahar Abdelnabi, CISPA**  
@@ -45,6 +39,12 @@ Past Events
 ---
 
 ### 2022
+<!----->
+<img src="../images/bogdan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 10 February 2022, 16:00  
+**Bogdan Kulynych, EPFL**  
+Disparate Vulnerability to Membership Inference Attacks  
+[[Recording](https://youtu.be/qf-L99WYZwc)]<details>**Abstract:** A membership inference attack (MIA) against a machine-learning model enables an attacker to determine whether a given data record was part of the model's training data or not. This talk will present an in-depth theoretical and empirical study of the phenomenon of disparate vulnerability against MIAs: unequal success rate of MIAs against different population subgroups. On the theoretical side, I will present necessary and sufficient conditions for preventing MIAs, both on average and for population subgroups, using a new notion of distributional generalization. I will also show the connections of disparate vulnerability to algorithmic fairness and to differential privacy. On the practical side, I will show that estimating disparate vulnerability to MIAs by naïvely applying existing attacks can lead to overestimation. I will show which attacks are suitable for estimating disparate vulnerability and provide a statistical framework for doing so reliably. I will present experiments finding statistically significant evidence of disparate vulnerability in realistic settings. More details are in the paper: [https://arxiv.org/abs/1906.00389](https://arxiv.org/abs/1906.00389). This is a joint work with Mohammad Yaghini (University of Toronto), Giovanni Cherubin (Alan Turing Institute), Michael Veale (University College London), and Carmela Troncoso (EPFL).<br><br>**Bio**: Bogdan Kulynych is a PhD student at EPFL SPRING Lab. His interest is in studying harmful effects of machine-learning, algorithmic, and optimization systems, and, leveraging security and privacy techniques and principles, developing mitigations against these harmful effects.<br></details>  
 <!----->
 <img src="../images/amir.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 3 February 2022, 16:00  

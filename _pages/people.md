@@ -105,7 +105,6 @@ Research Fellow</p>
 ## Doctoral Researchers
 
 - [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
-- [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 - Daniel Blackwell
 - Filippo Blancato
 - Sergi Bray
@@ -115,7 +114,6 @@ Research Fellow</p>
 - Ahana Datta
 - [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
-- Albesa Demjaha
 - [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visitor
 - Jennifer Dwyer-Joyce
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
@@ -137,9 +135,8 @@ Research Fellow</p>
 - Reza Moqadasi
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
 - Jessica Neubauer
-- [Bristena Oprisanu](https://www.bristenaop.com/)
 - Marylyne Ordekian
-- Kart Padur
+- Kärt Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
 - Demelza Penaluna
 - [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor

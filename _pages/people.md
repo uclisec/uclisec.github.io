@@ -130,6 +130,7 @@ Research Fellow</p>
 - [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
 - [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visitor
 - George Kappos
+- Alireza Kavousi
 - Emmanouil Koulas
 - Chizzy Meka
 - Nadine Michaelides

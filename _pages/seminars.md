@@ -11,7 +11,7 @@ Upcoming events
 <!----->
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 12 May 2022, 16:00  
-**Harel Berger, Arel University**  
+**Harel Berger, Ariel University**  
 Advanced Android malware attacks against ML detection systems  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**.<br><br>**Bio**:Harel Berger received the B.Sc. degree in computer science from Bar-Ilan University, Ramat Gan, Israel, in 2016, and the M.Sc. degree in computer science and mathematics from Ariel University, Ariel, Israel, in 2018, where he is currently pursuing the Ph.D. degree in mobile security and network security with the Department of Computer Science.<br></details>  
 <!----->

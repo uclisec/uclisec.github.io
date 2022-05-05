@@ -9,13 +9,13 @@ Upcoming events
 
 
 <!----->
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Harel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 12 May 2022, 16:00  
 **Harel Berger**  
 Advanced Android malware attacks against ML detection systems  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:**.<br><br>**Bio**:.<br></details>  
 <!----->
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Karl.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 19 May 2022, 16:00  
 **Karl Wust, CISPA**  
 Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation  

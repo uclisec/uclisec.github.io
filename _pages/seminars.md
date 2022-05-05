@@ -9,7 +9,7 @@ Upcoming events
 
 
 <!----->
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/harel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 12 May 2022, 16:00  
 **Harel Berger, Ariel University**  
 Advanced Android malware attacks against ML detection systems  

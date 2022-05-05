@@ -26,7 +26,7 @@ His research interests are broadly in information security with a particular foc
 - 26 May 2022, 16:00  
 **Megan Knittel, Michigan State University**  
 The Internet of Things and Intimate Partner Abuse: Examining Prevalence, Risks, and Outcomes   
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**: <br></details>  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**:Megan Knittel is a doctoral student in the department of Media and Information. Her interests include the development of online communities and how technology facilitates creativity, identity, and relationship-building. Her research direction centers on understanding how psychological and social processes influence the experience of community online. She received a Bachelor's of Science from the University of Michigan Ann Arbor in Anthropology and Bisopsychology, Cognition, & Neuroscience. <br></details>  
 <!----->
 
 FAQs

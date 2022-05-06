@@ -25,9 +25,16 @@ His research interests are broadly in information security with a particular foc
 <img src="../images/megan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 26 May 2022, 16:00  
 **Megan Knittel, Michigan State University**  
-The Internet of Things and Intimate Partner Abuse: Examining Prevalence, Risks, and Outcomes   
+The Internet of Things and Intimate Partner Abuse: Examining Prevalence, Risks, and Outcomes  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**:Megan Knittel is a third-year Ph.D. student in the Department of Media & Information. She joined the Quello Center in August 2020. She holds a Bachelor’s of Science in Biopsychology, Cognition, & Neuroscience and Anthropology from the University of Michigan. Her research interests are focused on how using smart devices in the home and other environments affect people’s close relationships. She researches how the use of these technologies to record and share personal information influence intimate relationships, family dynamics, and individual’s connections to their broader communities. She also investigates how these technologies raise issues with consent, privacy, and current models of device usership. Megan is also interested in understanding how people seek out support for challenging experiences with emerging technologies using informal support networks, such as in online communities. <br></details>  
 <!----->
+<img src="../images/tom.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 23 June 2022, 16:00  
+**Thomas Ristenpart (Cornell Tech)**  
+IPV and tech abuse  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**:[https://tech.cornell.edu/people/thomas-ristenpart/](https://tech.cornell.edu/people/thomas-ristenpart/)<br></details>  
+<!----->
+
 
 FAQs
 ---

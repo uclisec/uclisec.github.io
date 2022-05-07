@@ -31,7 +31,7 @@ The Internet of Things and Intimate Partner Abuse: Examining Prevalence, Risks, 
 <img src="../images/tom.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 June 2022, 16:00  
 **Thomas Ristenpart (Cornell Tech)**  
-IPV and tech abuse  
+Intimate Partner Violence and Technology Abuse  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**: Thomas Ristenpart is an Associate Professor at Cornell Tech and in the Computer Science Department at Cornell University. Before joining Cornell Tech in May 2015, he spent four years as an Assistant Professor at the University of Wisconsin-Madison. His research spans a wide range of computer security topics, with a recent focus on cloud computing security, as well as topics in applied and theoretical cryptography. His work has been featured in numerous publications including the New York Times, The MIT Technology Review, ABC News, and U.S. News and World Report. He completed his Ph.D. at UC San Diego in 2010. His awards include the UC San Diego Computer Science and Engineering Department Dissertation Award, an NSF CAREER Award, the Best Paper Award at USENIX Security 2014, and a Sloan Research Fellowship.[https://tech.cornell.edu/people/thomas-ristenpart/](https://tech.cornell.edu/people/thomas-ristenpart/)<br></details>  
 <!----->
 

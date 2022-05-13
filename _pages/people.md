@@ -43,7 +43,7 @@ Professor of Information, Logic, and Security</p>
 
 <p class="profile"><img src="../images/steven.jpg" class="profilephoto" />
 <a href="https://murdoch.is/"><strong>Steven Murdoch</strong></a><br />
-Professor of Security Engineering, <em>Head of Group<br>
+Professor of Security Engineering, <em>Head of Group</em><br>
 <em>Royal Society University Research Fellow</em></p>
 
 

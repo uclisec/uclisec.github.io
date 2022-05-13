@@ -34,10 +34,10 @@ The Internet of Things and Intimate Partner Abuse: Examining Prevalence, Risks, 
 Intimate Partner Violence and Technology Abuse  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** <br><br>**Bio**: Thomas Ristenpart is an Associate Professor at Cornell Tech and in the Computer Science Department at Cornell University. Before joining Cornell Tech in May 2015, he spent four years as an Assistant Professor at the University of Wisconsin-Madison. His research spans a wide range of computer security topics, with a recent focus on cloud computing security, as well as topics in applied and theoretical cryptography. His work has been featured in numerous publications including the New York Times, The MIT Technology Review, ABC News, and U.S. News and World Report. He completed his Ph.D. at UC San Diego in 2010. His awards include the UC San Diego Computer Science and Engineering Department Dissertation Award, an NSF CAREER Award, the Best Paper Award at USENIX Security 2014, and a Sloan Research Fellowship.[https://tech.cornell.edu/people/thomas-ristenpart/](https://tech.cornell.edu/people/thomas-ristenpart/)<br></details>  
 <!----->
-<img src="../images/tom.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 23 June 2022, 16:00  
+<img src="../images/Yvo.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 23 June 2022, 14:00  
 **Yvo Desmedt (University of Texas at Dallas)**  
-TBA  
+Framing and Realistic Secret Sharing  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details>**Abstract:** The use of Game Theory to Secret Sharing has lead to Rational Secret Sharing (RSS).  It claims that from an economic viewpoint it would be irrational for parties to reveal their shares, and so the secret will never be reconstructed! In this presentation we present Realistic Secret Sharing, which we contrast with Rational Secret Sharing (RSS). We do not claim that RSS is wrong, but that it is restricted to a limited number of settings. In the presentation we explain when these settings occur and when not. In the last case we have realistic secret sharing, and the secret will be reconstructed!
 
 In the 2nd part of this talk, we introduce forensics aspects of secret sharing. Suppose that a dealer makes a legal will and distributes shares to family members using Shamir Secret Sharing scheme. Obviously, some of these parties are interested in having a preliminary (i.e., before the death of the

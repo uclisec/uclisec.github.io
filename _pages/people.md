@@ -8,8 +8,7 @@ author_profile: true
 
 <p class="profile"><img src="../images/madeline2.jpg" class="profilephoto" />
 <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><strong>Madeline Carr</strong></a><br />
-Professor of Global Politics and Cyber Security<br>
-<em>Director of the Research Institute in Sociotechnical Cyber Security (<a href="https://www.riscs.org.uk">RISCS</a>)</em></p>
+Professor of Global Politics and Cyber Security</p>
 
 <p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
 <a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong></a><br />
@@ -69,7 +68,8 @@ REPHRAIN Research Fellow</p>
 
 <p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
 <a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />
-Senior Research Fellow</p>
+Senior Research Fellow<br>
+<em>Director of the Research Institute in Sociotechnical Cyber Security (<a href="https://www.riscs.org.uk">RISCS</a>)</em></p>
 
 <p class="profile"><img src="../images/saheli.jpg" class="profilephoto" />
 <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SDATT23"><strong>Saheli Datta Burton</strong></a><br />

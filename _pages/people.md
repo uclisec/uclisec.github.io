@@ -24,7 +24,7 @@ Professor of Security and Privacy Engineering<br>
 <p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
 <a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />
 Professor of Security and Privacy Enhancing Technologies<br />
-<em>Head of Research Group</em></p>
+<em>Director of the Academic Centre of Excellence in Cyber Security Research (<a href="https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/">ACE-CSR</a>) </em></p>
 
 <p class="profile"><img src="../images/philipp.jpg" class="profilephoto" />
 <a href="https://philipp.jovanovic.io/"><strong>Philipp Jovanovic</strong></a><br />
@@ -38,13 +38,12 @@ Professor of Cryptography and Security<br>
 
 <p class="profile"><img src="../images/david.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />
-Professor of Information, Logic, and Security<br>
-<em>Head of Programming Principles, Logic, and Verification</em></p>
+Professor of Information, Logic, and Security</p>
 
 
 <p class="profile"><img src="../images/steven.jpg" class="profilephoto" />
 <a href="https://murdoch.is/"><strong>Steven Murdoch</strong></a><br />
-Professor of Security Engineering<br>
+Professor of Security Engineering, <em>Head of Group<br>
 <em>Royal Society University Research Fellow</em></p>
 
 

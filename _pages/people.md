@@ -104,6 +104,7 @@ Research Fellow</p>
 ## Doctoral Researchers
 
 - [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
+- [Sharad Agarwal](https://sharad1126.github.io/)
 - Daniel Blackwell
 - Filippo Blancato
 - Sergi Bray

@@ -66,9 +66,9 @@ Past Events
 - 19 May 2022, 16:00  
 **Karl Wüst, CISPA**  
 Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation  
+[[Recording](https://www.youtube.com/watch?v=3RttG2euMZM)]
 <details><br>**Abstract:** Due to the popularity of blockchain-based cryptocurrencies, the increasing digitalization of payments, and the constantly reducing role of cash in society, central banks have shown an increased interest in deploying central bank digital currencies (CBDCs) that could serve as a digital equivalent of cash. While most recent research on CBDCs focuses on blockchain technology, it is not clear that this choice of technology provides the optimal solution. In particular, the centralized trust model of a CBDC offers opportunities for different designs. This talk presents a design for retail CBDCs that builds on ideas from traditional (centralized) e-cash schemes instead of using a blockchain-based system. This CBDC design, called Platypus, provides strong privacy, high scalability, and an expressive but simple regulation mechanism, which are all critical features for a CBDC. Platypus achieves these properties by adapting techniques similar to those used in anonymous blockchain cryptocurrencies like Zcash, applying them to the e-cash context, and combining them with a novel privacy-preserving regulation mechanism.<br><br>**Bio**: Karl Wüst is a tenure-track faculty member at the CISPA Helmholtz Center for Information Security since October 2021. Previously, he completed his PhD at ETH Zurich in the System Security Group.
 His research interests are broadly in information security with a particular focus on security and privacy aspects of digital currency and smart contract systems as well as some aspects of trustworthy computing. His research combines techniques from cryptography, distributed systems, and trusted hardware to build systems that are practical and balance the trade-off between reducing trust assumptions and high performance.<br><br></details>
-
 <!----->
 <img src="../images/harel2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 12 May 2022, 16:00  

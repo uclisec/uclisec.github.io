@@ -12,8 +12,9 @@ Upcoming events
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 June 2022, 14:00 &ndash; *The Goodenough College* ([map](https://goo.gl/maps/dzcm5BVNA1qy9Ka9A))  
 **Academic Centre of Excellence in Cybersecurity Research &ndash; Open Day**  
-Talks by Lorenzo Cavallaro, Brendan Dolan-Gavitt, Panel on the Online Safety Bill
-[[Register](https://www.eventbrite.co.uk/e/ucl-ace-csr-open-day-2022-registration-338186654387)]<br>  
+With talks by Prof. Lorenzo Cavallaro and Prof. Brendan Dolan-Gavitt,  
+Panel on the Online Safety Bill: Challenges and Opportunities  
+[[Register](https://www.eventbrite.co.uk/e/ucl-ace-csr-open-day-2022-registration-338186654387)]  
 <!-----[[Live Stream](https://youtu.be/F5N7MFlnG4Y)]-->
 
 <!----->

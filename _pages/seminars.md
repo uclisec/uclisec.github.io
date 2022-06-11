@@ -9,20 +9,11 @@ Upcoming events
 
 
 <!----->
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 10 June 2022, 14:00 &ndash; *The Goodenough College* ([map](https://goo.gl/maps/dzcm5BVNA1qy9Ka9A))  
-**Academic Centre of Excellence in Cybersecurity Research &ndash; Open Day**  
-With talks by Prof. Lorenzo Cavallaro and Prof. Brendan Dolan-Gavitt,  
-Panel on the Online Safety Bill: Challenges and Opportunities  
-[[Register](https://www.eventbrite.co.uk/e/ucl-ace-csr-open-day-2022-registration-338186654387)]  
-<!-----[[Live Stream](https://youtu.be/F5N7MFlnG4Y)]-->
-
-<!----->
 <img src="../images/savvas.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 14 June 2022, 11:00 &ndash; *169 Euston Road, Ground Floor Room*  
 **Savvas Zannettou (TU Delft)**  
 Towards Understanding Soft Moderation Interventions on the Web  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJwuf-ispjIjHNK2CYrbK3tpiCNt4sFEXk35)] [[Live Stream](https://youtu.be/YeCaYUz-yh4)]<details><br>**Abstract:** The spread of misinformation online is a challenging problem with a substantial societal impact. Motivated by this, social media platforms implement and have in-place content moderation systems that usually use a combination of AI and human moderators to mitigate the spread of harmful content like misinformation. In this talk, I will provide an overview of content moderation interventions that are applied online by social media platforms and present some of my work that focuses on understanding the use and effectiveness of soft moderation interventions (e.g., the addition of a warning label that is attached along with potentially harmful content) on two social media platforms (Twitter and TikTok). <br><br>**Bio**: Savvas Zannettou is an Assistant Professor in the Technology, Policy, and Management (TPM) faculty at TU Delft and an associated researcher with the Max Planck Institute for Informatics. Before joining TU Delft, he was a Postdoctoral Researcher at Max Planck Institute for Informatics. Savvas’ research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web, such as the spread of false information and hateful rhetoric. Also, he is interested in understanding algorithmic recommendations on the Web, their effect on end-users, and to what extent algorithms recommend extreme content. Finally, he is interested in analyzing content moderation systems to understand the effectiveness of moderation interventions on the Web.<br></details>  
+[[Join on Zoom]( https://ucl.zoom.us/j/98381489966?pwd=N3BxTE1reTc3NW5XbngrcVhReVdYUT09)] [[Live Stream](https://youtu.be/YeCaYUz-yh4)]<details><br>**Abstract:** The spread of misinformation online is a challenging problem with a substantial societal impact. Motivated by this, social media platforms implement and have in-place content moderation systems that usually use a combination of AI and human moderators to mitigate the spread of harmful content like misinformation. In this talk, I will provide an overview of content moderation interventions that are applied online by social media platforms and present some of my work that focuses on understanding the use and effectiveness of soft moderation interventions (e.g., the addition of a warning label that is attached along with potentially harmful content) on two social media platforms (Twitter and TikTok). <br><br>**Bio**: Savvas Zannettou is an Assistant Professor in the Technology, Policy, and Management (TPM) faculty at TU Delft and an associated researcher with the Max Planck Institute for Informatics. Before joining TU Delft, he was a Postdoctoral Researcher at Max Planck Institute for Informatics. Savvas’ research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web, such as the spread of false information and hateful rhetoric. Also, he is interested in understanding algorithmic recommendations on the Web, their effect on end-users, and to what extent algorithms recommend extreme content. Finally, he is interested in analyzing content moderation systems to understand the effectiveness of moderation interventions on the Web.<br></details>  
 <!----->
 <img src="../images/Yvo.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 June 2022, 14:00 &ndash; *Also in person, email for details*  
@@ -60,6 +51,14 @@ Past Events
 ---
 
 ### 2022
+
+<!----->
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 10 June 2022, 14:00 &ndash; *The Goodenough College*  
+**Academic Centre of Excellence in Cybersecurity Research &ndash; Open Day**  
+With talks by Prof. Lorenzo Cavallaro and Prof. Brendan Dolan-Gavitt,  
+Panel on the Online Safety Bill: Challenges and Opportunities  
+[[Recording](https://youtu.be/F5N7MFlnG4Y)]  
 
 <!----->
 <img src="../images/megan.jpg" style="float:right;width:100px;height:100px;margin-top:15px">

@@ -52,6 +52,11 @@ Professor of Security Engineering, <em>Head of Group</em><br>
 Professor of Human-Centred Technology<br />
 <em>Part-time, also Professor at Ruhr-University Bochum</em></p>
 
+<p class="profile"><img src="../images/leonie.jpg" class="profilephoto" />
+<a href="https://www.leonietanczer.net/"><strong>Leonie Tanczer</strong></a><br />
+Associate Professor<br>
+<em>UKRI Future Leaders Fellow</em></p>
+
 <p class="profile"><img src="../images/marie.jpg" class="profilephoto" />
 <a href="https://mvasek.com/"><strong>Marie Vasek</strong></a><br />
 Lecturer</p>
@@ -130,11 +135,13 @@ Research Fellow</p>
 - George Kappos
 - Alireza Kavousi
 - Emmanouil Koulas
+- Demelza Luna Reaver
 - Chizzy Meka
 - Nadine Michaelides
 - Reza Moqadasi
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
 - Jessica Neubauer
+- Lilly Neubauer
 - Marylyne Ordekian
 - Kärt Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)

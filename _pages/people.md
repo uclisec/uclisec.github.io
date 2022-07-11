@@ -135,7 +135,7 @@ Research Fellow</p>
 - George Kappos
 - Alireza Kavousi
 - Emmanouil Koulas
-- Demelza Luna Reaver
+- [Demelza Luna Reaver](https://twitter.com/demelza_r)
 - Chizzy Meka
 - Nadine Michaelides
 - Reza Moqadasi

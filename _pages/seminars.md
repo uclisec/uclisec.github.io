@@ -8,18 +8,6 @@ Upcoming events
 ---
 
 
-
-<!----->
-<img src="../images/gianluca.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 19 July 2022, 11:00, *169 Euston Road, Ground Floor*  
-**Gianluca Stringhini (Boston University)**  
-Computational Methods to Measure and Mitigate Weaponized Online Information  
-[[Join on Zoom](https://ucl.zoom.us/j/94436026534)] [[Live Stream](https://youtu.be/3uP9U64f54g)]<details><br>**Abstract:** The Web has redefined the way in which malicious activities such as fraud, harassment, and disinformation are carried out. To be able to fully understand these phenomena, we need computational tools able to trace malicious activity as it happens, monitoring a plethora of online platforms and analyzing not only textual content but also images and videos. In this talk, I will present my efforts in developing tools to automatically monitor and model malicious online activities like coordinated harassment and disinformation. I will then discuss my work in developing better moderation systems against them, keeping in mind the potential unintended consequences that might arise from suspending offending users.
-<br><br>**Bio**: Gianluca Stringhini is an Assistant Professor in the ECE Department at Boston University, holding affiliate appointments in the Computer Science Department, in the Faculty of Computing and Data Sciences, in the BU Center for Antiracist Research, and in the Center for Emerging Infectious Diseases Policy & Research. In his research Gianluca applies a data-driven approach to better understand malicious activity on the Internet. Through the collection and analysis of large-scale datasets, he develops novel and robust mitigation techniques to make the Internet a safer place. His research involves a mix of quantitative analysis, (some) qualitative analysis, machine learning, crime science, and systems design. Over the years, Gianluca has worked on understanding and mitigating malicious activities like malware, online fraud, influence operations, and coordinated online harassment. He received multiple prizes including an NSF CAREER Award in 2020, and his research won multiple Best Paper Awards. Gianluca has published over 100 peer reviewed papers including several in top computer security conferences like IEEE Security and Privacy, CCS, NDSS, and USENIX Security, as well as top measurement, HCI, and Web conferences such as IMC, ICWSM, CHI, CSCW, and WWW.<br></details>  
-<!----->
-
-
-
 <!----->
 <img src="../images/colin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 21 July 2022, 16:00, *169 Euston Road, Ground Floor*  

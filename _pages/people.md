@@ -69,7 +69,7 @@ Lecturer</p>
 
 <p class="profile"><img src="../images/aydin2.jpg" class="profilephoto" />
 <a href="http://www.AydinAbadi.com"><strong>Aydin Abadi</strong></a><br />
-REPHRAIN Research Fellow</p>
+REPHRAIN Senior Research Fellow</p>
 
 <p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
 <a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />

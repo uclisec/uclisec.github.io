@@ -59,6 +59,10 @@ Associate Professor<br>
 
 <p class="profile"><img src="../images/marie.jpg" class="profilephoto" />
 <a href="https://mvasek.com/"><strong>Marie Vasek</strong></a><br />
+Lecturer</p>  
+
+<p class="profile"><img src="../images/mark.jpg" class="profilephoto" />
+<a href="https://www.privacurity.com/"><strong>Mark Warner</strong></a><br />
 Lecturer</p>
 
 <div class="cf"></div>

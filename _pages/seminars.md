@@ -9,12 +9,7 @@ Upcoming events
 
 
 <!----->
-<img src="../images/colin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 21 July 2022, 16:00, *169 Euston Road, Ground Floor*  
-**Colin Ife (UCL Alumnus)**  
-*Public PhD Viva:* Measuring and Disrupting Malware Distribution Networks: An Interdisciplinary Approach  
-[[Join on Zoom](https://ucl.zoom.us/j/93998129899)] [[Live Stream](https://youtu.be/sOqpY106eN4)]<details><br>**Abstract:** Malware Delivery Networks (MDNs) are networks of webpages, servers, devices, and computer files that are used by cybercriminals to proliferate malicious software (or malware) onto victim machines. The business of malware delivery is a complex and multifaceted one that has become increasingly profitable over the last few years. Up until very recently, the research community had conducted insightful but isolated studies into the different facets of malicious file distribution, giving a limited picture of the malicious file delivery ecosystem.
-Using a data-driven and interdisciplinary approach, this research pursues two goals. One, measure the malicious file delivery ecosystem, bringing prior research into context, and to understand precisely how these malware operations respond to security and law enforcement intervention. And two, taking into account the overlapping research efforts of the information security and crime science communities towards preventing cybercrime, identify mitigation strategies and intervention points to disrupt this criminal economy more effectively.<br><br>**Bio**: As a member of UCL's Information Security Research Group and the SECReT Doctoral Training Centre, Colin Ife attained his Ph.D. in Security Science. The themes of his research centred on malware, internet measurements, and cybercrime. He is currently Threat Intelligence Team Lead at Glasswall.<br></details>  
+ 
 <!----->
 
 FAQs
@@ -38,6 +33,13 @@ Past Events
 ### 2022
 
 <!----->
+<img src="../images/colin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 21 July 2022, 16:00, *169 Euston Road, Ground Floor*  
+**Colin Ife (UCL Alumnus)**  
+*Public PhD Viva:* Measuring and Disrupting Malware Distribution Networks: An Interdisciplinary Approach  
+[[Join on Zoom](https://ucl.zoom.us/j/93998129899)] [[Live Stream](https://youtu.be/sOqpY106eN4)]<details><br>**Abstract:** Malware Delivery Networks (MDNs) are networks of webpages, servers, devices, and computer files that are used by cybercriminals to proliferate malicious software (or malware) onto victim machines. The business of malware delivery is a complex and multifaceted one that has become increasingly profitable over the last few years. Up until very recently, the research community had conducted insightful but isolated studies into the different facets of malicious file distribution, giving a limited picture of the malicious file delivery ecosystem.
+Using a data-driven and interdisciplinary approach, this research pursues two goals. One, measure the malicious file delivery ecosystem, bringing prior research into context, and to understand precisely how these malware operations respond to security and law enforcement intervention. And two, taking into account the overlapping research efforts of the information security and crime science communities towards preventing cybercrime, identify mitigation strategies and intervention points to disrupt this criminal economy more effectively.<br><br>**Bio**: As a member of UCL's Information Security Research Group and the SECReT Doctoral Training Centre, Colin Ife attained his Ph.D. in Security Science. The themes of his research centred on malware, internet measurements, and cybercrime. He is currently Threat Intelligence Team Lead at Glasswall.<br></details>  
+<!----->  
 <img src="../images/tom.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 June 2022, 16:30, *<ins>Distinguished Seminar</ins>*  
 **Thomas Ristenpart (Cornell Tech)**  

@@ -153,6 +153,7 @@ Research Fellow</p>
 - Dan Ristea
 - [Maria Santos](https://mariascrs.github.io/)
 - [Maria Schett](http://www.maria-a-schett.net/)
+- [Lauren Scott](https://laurenscott.dev/), Visitor
 - Henry Skeoch
 - Karolina Skrivankova
 - Guy Thompson

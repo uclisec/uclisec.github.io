@@ -20,10 +20,10 @@ Professor of Computer Science<br />
 Professor of Security and Privacy Engineering<br>
 <em>Part-time, also Chief Scientist at Mysten Labs</em></p>
 
-<p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
+<!---<p class="profile"><img src="../images/emiliano2.jpg" class="profilephoto" />
 <a href="https://emilianodc.com/"><strong>Emiliano De Cristofaro</strong></a><br />
 Professor of Security and Privacy Enhancing Technologies<br />
-<em>Director of the Academic Centre of Excellence in Cyber Security Research (<a href="https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/">ACE-CSR</a>) </em></p>
+<em>Director of the Academic Centre of Excellence in Cyber Security Research (<a href="https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/">ACE-CSR</a>) </em></p> --->
 
 <p class="profile"><img src="../images/philipp.jpg" class="profilephoto" />
 <a href="https://philipp.jovanovic.io/"><strong>Philipp Jovanovic</strong></a><br />

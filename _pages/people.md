@@ -10,6 +10,11 @@ author_profile: true
 <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><strong>Madeline Carr</strong></a><br />
 Professor of Global Politics and Cyber Security</p>
 
+<p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
+<a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />
+Associate Professor<br>
+<em>Director of the Research Institute in Sociotechnical Cyber Security (<a href="https://www.riscs.org.uk">RISCS</a>)</em></p>
+
 <p class="profile"><img src="../images/lorenzo.jpg" class="profilephoto" />
 <a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en"><strong>Lorenzo Cavallaro</strong></a><br />
 Professor of Computer Science<br />
@@ -69,16 +74,9 @@ Lecturer</p>
 
 ## Research Staff
 
-
-
 <p class="profile"><img src="../images/aydin2.jpg" class="profilephoto" />
 <a href="http://www.AydinAbadi.com"><strong>Aydin Abadi</strong></a><br />
 Senior Research Fellow</p>
-
-<p class="profile"><img src="../images/tristan.jpg" class="profilephoto" />
-<a href="https://www.tristancaulfield.com/"><strong>Tristan Caulfield</strong></a><br />
-Senior Research Fellow<br>
-<em>Director of the Research Institute in Sociotechnical Cyber Security (<a href="https://www.riscs.org.uk">RISCS</a>)</em></p>
 
 <p class="profile"><img src="../images/saheli.jpg" class="profilephoto" />
 <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SDATT23"><strong>Saheli Datta Burton</strong></a><br />
@@ -150,7 +148,7 @@ Research Fellow</p>
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
 - [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor
 - Ilaria Pia Del Torre
-- Dan Ristea
+- [Dan Ristea](https://dri.st)
 - [Maria Santos](https://mariascrs.github.io/)
 - [Maria Schett](http://www.maria-a-schett.net/)
 - [Lauren Scott](https://laurenscott.dev/), Visitor

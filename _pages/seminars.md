@@ -7,13 +7,7 @@ layout: single
 Upcoming events
 ---
 
-<!----->
-<img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 20 October 2022, 14:00  
-** Dr Isabel Straw (Chemnitz University of Technology, Germany)**  
-TBA  
-  
-[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details> 
+
 <!----->  
 
 <img src="../images/Albrecht.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
@@ -30,6 +24,14 @@ Learnings from Sensing Home and Guess the Data for IoT Privacy in the Home
 Smartphones, surveillance and risk in women’s everyday lives: perspectives from Australia  
 [[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** Smartphones are an everyday mobile media that most adults use, but there can also be privacy and surveillance risks when using smartphones. Women’s uses of smartphones require specific analysis because technological development and use has been dominated by men and male perspectives have become the default framework through which all people’s uses are understood (Wajcman, 1991). Feminist approaches to technology, such as mobile media (Fortunati, 2009), take seriously women’s relationships to and uses of technology while also remaining critical of how these gendered relations can be experienced unevenly depending on social privilege and marginalisation. This talk focuses on the thoughts, feelings and concerns of four women in relation to their smartphones, and how their smartphones influence their everyday lives. The findings suggested that although participants could recognise the possibility of the risks of surveillance by their smartphones, there were a range of different responses to these feelings. The talk concludes by offering some potential pathways forward to furthering our understanding of how smartphones impact women’s everyday lives and what feminist activism around smartphones and surveillance might entail.<br><br>**Bio**: Caitlin McGrane is a feminist researcher and online safety expert. She is a PhD candidate in the Digital Ethnography Research Centre at RMIT University. Her doctoral research investigates women’s everyday gendered uses and practices of smartphones, and how mobile media practices influence feminism. She is also the Manager, Policy and Online Safety at Gender Equity Victoria where she leads projects that challenge gender-based harassment and abuse online and in workplaces. Caitlin’s most recent publication is titled ‘Towards an Affirmative Ethics of Women's Smartphone Uses in Victoria, Australia’ in Australian Feminist Studies.<br></details> 
 <!----->
+
+<img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 8 December 2022, 14:00  
+** Dr Isabel Straw (Chemnitz University of Technology, Germany)**  
+TBA  
+  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details> 
+<!----->  
 
 FAQs
 ---

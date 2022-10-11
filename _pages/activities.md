@@ -7,7 +7,6 @@ author_profile: true
 Affiliated Centres
 ---
 
-- Academic Centre of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/))
 - National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online ([REPHRAIN](https://www.rephrain.ac.uk))
 - Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
 

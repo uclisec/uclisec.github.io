@@ -7,8 +7,15 @@ layout: single
 Upcoming events
 ---
 
-
 <!----->
+<img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 20 October 2022, 14:00  
+** Dr Isabel Straw (Chemnitz University of Technology, Germany)**  
+TBA  
+  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details> 
+<!----->  
+
 <img src="../images/Albrecht.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 October 2022, 14:00  
 ** Albrecht Kurze (Chemnitz University of Technology, Germany)**  

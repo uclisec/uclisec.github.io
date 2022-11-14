@@ -7,17 +7,7 @@ layout: single
 Upcoming events
 ---
 
-
 <!----->  
-
-<img src="../images/Albrecht.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 20 October 2022, 14:00  
-**Albrecht Kurze (Chemnitz University of Technology, Germany)**  
-Learnings from Sensing Home and Guess the Data for IoT Privacy in the Home  
-  
-[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** Simple smart home sensors, e.g. for temperature, humidity or light, increasingly collect seemingly inconspicuous data. To investigate how people interact with this type of data we created the “Sensing Home Kit” and used it in a number of deployments in ‘the home’, including our data-driven method “Guess the Data” for individual and collective data work. The talk will summarize a series of articles on this topic. Our findings show that participants often came up with creative ways to make sense and make use of the sensor data. We confirmed prior work showing that human sensemaking of such sensor data can easily reveal domestic activities. We also found unexpected and unintended uses. The ability to reconstruct behavior, exposure of sensitive personal data, and the use of sensor data as evidence and for lateral surveillance within the household easily leads to threats for privacy. Eventually this results in a number of wicked implications for collecting and sharing even simple sensor data in the home, e.g., even if no evil intention was upfront, no AI is interpreting the data, no anonymous “Big Brother” is involved, etc.<br><br>**Bio**: Albrecht Kurze is a Research Assistant at Chemnitz University of Technology, working at the intersection of human-computer interaction and the Internet of Things. He holds a PhD in computer science, and used to work in interdisciplinary projects with psychology, design and social sciences. He researches how smart, connected technology is used in the home and how a user-centered and participatory design approach can help develop better technologies. He is particularly interested in how sensors, sensor-based smart objects in the home and the interaction with them and their data can benefit users while avoiding undesirable effects, such as privacy infringements.<br></details> 
-<!----->
-
 <img src="../images/Caitlin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 November 2022, 16:00  
 **Caitlin McGrane (RMIT University, Australia)**  
@@ -53,6 +43,13 @@ Past Events
 
 ### 2022
 
+<!----->
+<img src="../images/Albrecht.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 20 October 2022, 14:00  
+**Albrecht Kurze (Chemnitz University of Technology, Germany)**  
+Learnings from Sensing Home and Guess the Data for IoT Privacy in the Home  
+  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** Simple smart home sensors, e.g. for temperature, humidity or light, increasingly collect seemingly inconspicuous data. To investigate how people interact with this type of data we created the “Sensing Home Kit” and used it in a number of deployments in ‘the home’, including our data-driven method “Guess the Data” for individual and collective data work. The talk will summarize a series of articles on this topic. Our findings show that participants often came up with creative ways to make sense and make use of the sensor data. We confirmed prior work showing that human sensemaking of such sensor data can easily reveal domestic activities. We also found unexpected and unintended uses. The ability to reconstruct behavior, exposure of sensitive personal data, and the use of sensor data as evidence and for lateral surveillance within the household easily leads to threats for privacy. Eventually this results in a number of wicked implications for collecting and sharing even simple sensor data in the home, e.g., even if no evil intention was upfront, no AI is interpreting the data, no anonymous “Big Brother” is involved, etc.<br><br>**Bio**: Albrecht Kurze is a Research Assistant at Chemnitz University of Technology, working at the intersection of human-computer interaction and the Internet of Things. He holds a PhD in computer science, and used to work in interdisciplinary projects with psychology, design and social sciences. He researches how smart, connected technology is used in the home and how a user-centered and participatory design approach can help develop better technologies. He is particularly interested in how sensors, sensor-based smart objects in the home and the interaction with them and their data can benefit users while avoiding undesirable effects, such as privacy infringements.<br></details> 
 <!----->
 <img src="../images/colin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 21 July 2022, 16:00, *169 Euston Road, Ground Floor*  

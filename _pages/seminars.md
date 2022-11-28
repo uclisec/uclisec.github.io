@@ -10,7 +10,7 @@ Upcoming events
 <!----->
 <img src="../images/orla.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 2 December 2022, 11:00, *Hybrid Seminar*  
-**Dr. Orla Lynskey (London School of Economics)**  
+**Dr Orla Lynskey (London School of Economics)**  
 The Legal Implications of Synthetic Data  
 [169EustonRd GF03] | [[Join on MS Teams](https://bit.ly/3XvIdTg)]<details><br>**Abstract:** This seminar will explore the legal implications of artificially generated data (synthetic data). It assesses the implications of synthetic data for law and regulation around three key themes: data access; data privacy and data quality. While these legal implications are not revolutionary, our analysis suggests that synthetic data may require a recalibration of the balancing of interests found in existing legal frameworks. Furthermore, viewing our data governance frameworks through the lens of synthetic data serves to illuminate the key tensions and ambiguities in these frameworks.<br><br>**Bio**: <a href="https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey">https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey</a><br></details> 
 <!----->
@@ -18,13 +18,13 @@ The Legal Implications of Synthetic Data
 - 8 December 2022, 14:00  
 **Dr Isabel Straw**  
 TBA  
-[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details> 
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details>
 <!----->
 <img src="../images/sadeghi.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 13 December 2022, 11:00, *Hybrid Seminar*  
 **Prof. Ahmad-Reza Sadeghi (TU Darmstadt)**  
 TBD  
-[169EustonRd GF03] | [[Join on MS Teams](https://bit.ly/3ASi2wi)]<details><br>**Abstract:** TBD<br><br>**Bio**: <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details> 
+[169EustonRd GF03] | [[Join on MS Teams](https://bit.ly/3ASi2wi)]<details><br>**Abstract:** TBD<br><br>**Bio**: <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details>
 <!----->  
 
 FAQs
@@ -53,7 +53,7 @@ Past Events
 **Caitlin McGrane (RMIT University, Australia)**  
 Smartphones, surveillance and risk in women’s everyday lives: perspectives from Australia  
 [[Recording](https://www.youtube.com/watch?v=4xnO5jKFDyU)]<details><br>**Abstract:** Smartphones are an everyday mobile media that most adults use, but there can also be privacy and surveillance risks when using smartphones. Women’s uses of smartphones require specific analysis because technological development and use has been dominated by men and male perspectives have become the default framework through which all people’s uses are understood (Wajcman, 1991). Feminist approaches to technology, such as mobile media (Fortunati, 2009), take seriously women’s relationships to and uses of technology while also remaining critical of how these gendered relations can be experienced unevenly depending on social privilege and marginalisation. This talk focuses on the thoughts, feelings and concerns of four women in relation to their smartphones, and how their smartphones influence their everyday lives. The findings suggested that although participants could recognise the possibility of the risks of surveillance by their smartphones, there were a range of different responses to these feelings. The talk concludes by offering some potential pathways forward to furthering our understanding of how smartphones impact women’s everyday lives and what feminist activism around smartphones and surveillance might entail.<br><br>**Bio**: Caitlin McGrane is a feminist researcher and online safety expert. She is a PhD candidate in the Digital Ethnography Research Centre at RMIT University. Her doctoral research investigates women’s everyday gendered uses and practices of smartphones, and how mobile media practices influence feminism. She is also the Manager, Policy and Online Safety at Gender Equity Victoria where she leads projects that challenge gender-based harassment and abuse online and in workplaces. Caitlin’s most recent publication is titled ‘Towards an Affirmative Ethics of Women's Smartphone Uses in Victoria, Australia’ in Australian Feminist Studies.<br></details> 
-<!----->  
+<!----->
 <img src="../images/Albrecht.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 October 2022  
 **Albrecht Kurze (Chemnitz University of Technology, Germany)**  
@@ -66,7 +66,7 @@ Learnings from Sensing Home and Guess the Data for IoT Privacy in the Home
 *Public PhD Viva:* Measuring and Disrupting Malware Distribution Networks: An Interdisciplinary Approach  
 [[Recording](https://youtu.be/sOqpY106eN4)]<details><br>**Abstract:** Malware Delivery Networks (MDNs) are networks of webpages, servers, devices, and computer files that are used by cybercriminals to proliferate malicious software (or malware) onto victim machines. The business of malware delivery is a complex and multifaceted one that has become increasingly profitable over the last few years. Up until very recently, the research community had conducted insightful but isolated studies into the different facets of malicious file distribution, giving a limited picture of the malicious file delivery ecosystem.
 Using a data-driven and interdisciplinary approach, this research pursues two goals. One, measure the malicious file delivery ecosystem, bringing prior research into context, and to understand precisely how these malware operations respond to security and law enforcement intervention. And two, taking into account the overlapping research efforts of the information security and crime science communities towards preventing cybercrime, identify mitigation strategies and intervention points to disrupt this criminal economy more effectively.<br><br>**Bio**: As a member of UCL's Information Security Research Group and the SECReT Doctoral Training Centre, Colin Ife attained his Ph.D. in Security Science. The themes of his research centred on malware, internet measurements, and cybercrime. He is currently Threat Intelligence Team Lead at Glasswall.<br></details>  
-<!----->  
+<!----->
 <img src="../images/tom.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 June 2022, *<ins>Distinguished Seminar</ins>*  
 **Thomas Ristenpart (Cornell Tech)**  

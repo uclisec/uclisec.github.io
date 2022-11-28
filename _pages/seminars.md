@@ -19,6 +19,12 @@ The Legal Implications of Synthetic Data
 **Dr Isabel Straw**  
 TBA  
 [[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** .<br><br>**Bio**: .<br></details> 
+<!----->
+<img src="../images/sadeghi.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 13 December 2022, 11:00, *Hybrid Seminar*  
+**Prof. Ahmad-Reza Sadeghi (TU Darmstadt)**  
+TBD  
+[169EustonRd GF03] | [[Join on MS Teams](https://bit.ly/3ASi2wi)]<details><br>**Abstract:** TBD<br><br>**Bio**: <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details> 
 <!----->  
 
 FAQs

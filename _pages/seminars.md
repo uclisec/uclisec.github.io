@@ -8,12 +8,6 @@ Upcoming events
 ---
 
 <!----->
-<img src="../images/orla.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 2 December 2022, 11:00, *Hybrid Seminar*  
-**Dr Orla Lynskey (London School of Economics)**  
-The Legal Implications of Synthetic Data  
-[169EustonRd 103] | [[Join on MS Teams](https://bit.ly/3XvIdTg)]<details><br>**Abstract:** This seminar will explore the legal implications of artificially generated data (synthetic data). It assesses the implications of synthetic data for law and regulation around three key themes: data access; data privacy and data quality. While these legal implications are not revolutionary, our analysis suggests that synthetic data may require a recalibration of the balancing of interests found in existing legal frameworks. Furthermore, viewing our data governance frameworks through the lens of synthetic data serves to illuminate the key tensions and ambiguities in these frameworks.<br><br>**Bio**: <a href="https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey">https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey</a><br></details>  
-<!----->
 <img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 8 December 2022, 14:00  
 **Dr Isabel Straw**  
@@ -23,8 +17,11 @@ TBA
 <img src="../images/sadeghi.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 13 December 2022, 11:00, *Hybrid Seminar*  
 **Prof. Ahmad-Reza Sadeghi (TU Darmstadt)**  
-TBA  
-[169EustonRd GF03] | [[Join on MS Teams](https://bit.ly/3GXxlYo)]<details><br>**Abstract:** TBA<br><br>**Bio**: <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details>  
+Pushing the Frontiers of Federated Learning: From Security Applications to Mitigation of Poisoning Attack  
+[169EustonRd 103] | [[Join on MS Teams](https://bit.ly/3GXxlYo)]<details><br>**Abstract:** Federated Learning (FL) is a collaborative machine learning approach allowing several parties to jointly train a model without the need to share their private local datasets. FL is an enabling technology that can benefit distributed security-critical applications. Recently, FL has been shown to be susceptible to poisoning attacks, in which an adversary injects manipulated model updates into the federated model aggregation process to destroy or corrupt the resulting predictions, or implant hidden functionalities (aka backdoors).<br>
+In this talk, we present our recent research work and experiences, also with industrial partners, concerning both the utilization of FL in large scale security applications as well as building FL systems resilient to poisoning attacks. Finally, we discuss the lessons learned and future research directions. 
+<br><br>**Bio**: Ahmad-Reza Sadeghi is a professor of Computer Science and the head of the System Security Lab at Technical University of Darmstadt, Germany. He has been leading several Collaborative Research Labs with Intel since 2012, and with Huawei since 2019. He has studied both Mechanical and Electrical Engineering and holds a Ph.D. in Computer Science from the University of Saarland, Germany. Prior to academia, he worked in R&D of IT-enterprises, including Ericsson Telecommunications. He has been continuously contributing to security and privacy research field. He was Editor-In-Chief of IEEE Security and Privacy Magazine, and has been serving on a variety of  editorial boards such as  ACM TODAES, ACM TIOT, and ACM DTRAP.
+For his influential research on Trusted and Trustworthy Computing he received the renowned German “Karl Heinz Beckurts” award. This award honors excellent scientific achievements with high impact on industrial innovations in Germany. In 2018, he received the ACM SIGSAC Outstanding Contributions Award for dedicated research, education, and management leadership in the security community and for pioneering contributions in content protection, mobile security and hardware-assisted security. In 2021, he was honored with Intel Academic Leadership Award at USENIX Security conference for his influential research on cybersecurity and in particular on hardware-assisted security.  Ahmad is also the recipient of the prestigious Advanced European Research Council Award. <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details>  
 <!----->
 
 FAQs
@@ -47,6 +44,12 @@ Past Events
 
 ### 2022
 
+<!----->
+<img src="../images/orla.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 2 December 2022  
+**Dr Orla Lynskey (London School of Economics)**  
+The Legal Implications of Synthetic Data  
+[Recording upon request]<details><br>**Abstract:** This seminar will explore the legal implications of artificially generated data (synthetic data). It assesses the implications of synthetic data for law and regulation around three key themes: data access; data privacy and data quality. While these legal implications are not revolutionary, our analysis suggests that synthetic data may require a recalibration of the balancing of interests found in existing legal frameworks. Furthermore, viewing our data governance frameworks through the lens of synthetic data serves to illuminate the key tensions and ambiguities in these frameworks.<br><br>**Bio**: <a href="https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey">https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey</a><br></details>  
 <!----->
 <img src="../images/Caitlin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 November 2022  

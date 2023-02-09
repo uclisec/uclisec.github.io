@@ -70,7 +70,7 @@ Lecturer</p>
 <a href="https://www.privacurity.com/"><strong>Mark Warner</strong></a><br />
 Lecturer</p>
 
-<p class="profile"><img src="../images/Arthur.jpg" class="profilephoto" />
+<p class="profile"><img src="../images/name.jpg" class="profilephoto" />
 <a href="https://arthurgervais.com/"><strong>Arthur Gervais</strong></a><br />
 Associate Professor in Information Security</p>
 

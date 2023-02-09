@@ -72,7 +72,7 @@ Lecturer</p>
 
 <p class="profile"><img src="../images/Arthur.jpg" class="profilephoto" />
 <a href="https://arthurgervais.com/"><strong>Arthur Gervais</strong></a><br />
-Associate Professor in Information Security</p>
+Associate Professor</p>
 
 <div class="cf"></div>
 

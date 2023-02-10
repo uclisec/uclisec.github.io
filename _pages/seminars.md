@@ -8,21 +8,14 @@ Upcoming events
 ---
 
 <!----->
-<img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 8 December 2022, 14:00  
-**Dr Isabel Straw, Emergency Doctor, PhD in Artificial Intelligence in Healthcare**  
-When brain implants go wrong: The cybersecurity of implanted and interconnected medical technologies  
-[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** The digitisation of the healthcare sector has potentiated a range of previously unseen clinical syndromes. For the individual patient, ingested and implanted medical technologies can malfunction manifesting in novel symptoms and signs. On a population level, our reliance on telemedicine and the ‘Internet of Medical Things (IoMT)’ creates new public health challenges, including the increasing prevalence of healthcare cyberattacks. In the field of medicine, technological vulnerabilities must be framed through the lens of clinical consequence, centring patient impact in the development of threat models. In this talk we will consider these issues through the story of a patient who suffered from a malfunctioning Deep Brain Stimulator (DBS). We will consider the implications of malfunctioning medical technologies, the role of programmers and cybersecurity experts in this field, and gaps in research and guidance that need to be addressed.<br><br>**Bio**: Isabel specializes in the intersection of Artificial Intelligence (AI), clinical medicine and healthcare inequalities. Alongside her clinical work as an Emergency Doctor, she leads research projects on bias in Medical AI, the cybersecurity of implanted devices and tech-abuse in medical settings. In 2022 she delivered ethical hacking workshops at ‘May Contain Hackers’ in the Netherlands exploring the cybersecurity vulnerabilities of connected medical devices. Additionally, she spoke at the biohacking village of DEFCON (USA) on the topic of malfunctioning Deep Brain Stimulators (DBS). She has experience in international settings both in her clinical work, and in policy settings at the United Nations.<br></details>  
+<img src="../images/Chris.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 23 March 2023, 16:00  
+**Christopher Wood, Research Team Lead, Cloudflare Research**  
+Privacy-preserving Measurements  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** TBC.<br><br>**Bio**: Christopher Wood is a Research Lead at Cloudflare Research. Outside of Cloudflare, he is co-chair of the TLS and MASQUE working groups at the IETF, as well as the PEARG research group in the IRTF. Before joining Cloudflare, Christopher worked on transport security, privacy, and cryptography engineering at Apple, as well as future Internet architectures at Xerox PARC. His interests lay at the intersection of network protocol design, communications security, privacy, and applied cryptography. At Cloudflare, he leads projects focused on security and privacy enhancements to a variety of systems, protocols, and applications. Christopher holds a Ph.D. in computer science from UC Irvine.<br></details>  
+  
 <!----->
-<img src="../images/sadeghi.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 13 December 2022, 11:00, *Hybrid Seminar*  
-**Prof. Ahmad-Reza Sadeghi (TU Darmstadt)**  
-Pushing the Frontiers of Federated Learning: From Security Applications to Mitigation of Poisoning Attack  
-[169EustonRd 103] | [[Join on MS Teams](https://bit.ly/3GXxlYo)]<details><br>**Abstract:** Federated Learning (FL) is a collaborative machine learning approach allowing several parties to jointly train a model without the need to share their private local datasets. FL is an enabling technology that can benefit distributed security-critical applications. Recently, FL has been shown to be susceptible to poisoning attacks, in which an adversary injects manipulated model updates into the federated model aggregation process to destroy or corrupt the resulting predictions, or implant hidden functionalities (aka backdoors).<br>
-In this talk, we present our recent research work and experiences, also with industrial partners, concerning both the utilization of FL in large scale security applications as well as building FL systems resilient to poisoning attacks. Finally, we discuss the lessons learned and future research directions. 
-<br><br>**Bio**: Ahmad-Reza Sadeghi is a professor of Computer Science and the head of the System Security Lab at Technical University of Darmstadt, Germany. He has been leading several Collaborative Research Labs with Intel since 2012, and with Huawei since 2019. He has studied both Mechanical and Electrical Engineering and holds a Ph.D. in Computer Science from the University of Saarland, Germany. Prior to academia, he worked in R&D of IT-enterprises, including Ericsson Telecommunications. He has been continuously contributing to security and privacy research field. He was Editor-In-Chief of IEEE Security and Privacy Magazine, and has been serving on a variety of  editorial boards such as  ACM TODAES, ACM TIOT, and ACM DTRAP.
-For his influential research on Trusted and Trustworthy Computing he received the renowned German “Karl Heinz Beckurts” award. This award honors excellent scientific achievements with high impact on industrial innovations in Germany. In 2018, he received the ACM SIGSAC Outstanding Contributions Award for dedicated research, education, and management leadership in the security community and for pioneering contributions in content protection, mobile security and hardware-assisted security. In 2021, he was honored with Intel Academic Leadership Award at USENIX Security conference for his influential research on cybersecurity and in particular on hardware-assisted security.  Ahmad is also the recipient of the prestigious Advanced European Research Council Award. <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details>  
-<!----->
+
 
 FAQs
 ---
@@ -41,10 +34,29 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 
 Past Events
 ---
+### 2023  
+
+
+
+
 
 ### 2022
-
 <!----->
+<img src="../images/sadeghi.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 13 December 2022, 11:00, *Hybrid Seminar*  
+**Prof. Ahmad-Reza Sadeghi (TU Darmstadt)**  
+Pushing the Frontiers of Federated Learning: From Security Applications to Mitigation of Poisoning Attack  
+[169EustonRd 103] | [[Join on MS Teams](https://bit.ly/3GXxlYo)]<details><br>**Abstract:** Federated Learning (FL) is a collaborative machine learning approach allowing several parties to jointly train a model without the need to share their private local datasets. FL is an enabling technology that can benefit distributed security-critical applications. Recently, FL has been shown to be susceptible to poisoning attacks, in which an adversary injects manipulated model updates into the federated model aggregation process to destroy or corrupt the resulting predictions, or implant hidden functionalities (aka backdoors).<br>
+In this talk, we present our recent research work and experiences, also with industrial partners, concerning both the utilization of FL in large scale security applications as well as building FL systems resilient to poisoning attacks. Finally, we discuss the lessons learned and future research directions. 
+<br><br>**Bio**: Ahmad-Reza Sadeghi is a professor of Computer Science and the head of the System Security Lab at Technical University of Darmstadt, Germany. He has been leading several Collaborative Research Labs with Intel since 2012, and with Huawei since 2019. He has studied both Mechanical and Electrical Engineering and holds a Ph.D. in Computer Science from the University of Saarland, Germany. Prior to academia, he worked in R&D of IT-enterprises, including Ericsson Telecommunications. He has been continuously contributing to security and privacy research field. He was Editor-In-Chief of IEEE Security and Privacy Magazine, and has been serving on a variety of  editorial boards such as  ACM TODAES, ACM TIOT, and ACM DTRAP.
+For his influential research on Trusted and Trustworthy Computing he received the renowned German “Karl Heinz Beckurts” award. This award honors excellent scientific achievements with high impact on industrial innovations in Germany. In 2018, he received the ACM SIGSAC Outstanding Contributions Award for dedicated research, education, and management leadership in the security community and for pioneering contributions in content protection, mobile security and hardware-assisted security. In 2021, he was honored with Intel Academic Leadership Award at USENIX Security conference for his influential research on cybersecurity and in particular on hardware-assisted security.  Ahmad is also the recipient of the prestigious Advanced European Research Council Award. <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp</a><br></details>  
+<!----->  
+<img src="../images/Isabel.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 8 December 2022, 14:00  
+**Dr Isabel Straw, Emergency Doctor, PhD in Artificial Intelligence in Healthcare**  
+When brain implants go wrong: The cybersecurity of implanted and interconnected medical technologies  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** The digitisation of the healthcare sector has potentiated a range of previously unseen clinical syndromes. For the individual patient, ingested and implanted medical technologies can malfunction manifesting in novel symptoms and signs. On a population level, our reliance on telemedicine and the ‘Internet of Medical Things (IoMT)’ creates new public health challenges, including the increasing prevalence of healthcare cyberattacks. In the field of medicine, technological vulnerabilities must be framed through the lens of clinical consequence, centring patient impact in the development of threat models. In this talk we will consider these issues through the story of a patient who suffered from a malfunctioning Deep Brain Stimulator (DBS). We will consider the implications of malfunctioning medical technologies, the role of programmers and cybersecurity experts in this field, and gaps in research and guidance that need to be addressed.<br><br>**Bio**: Isabel specializes in the intersection of Artificial Intelligence (AI), clinical medicine and healthcare inequalities. Alongside her clinical work as an Emergency Doctor, she leads research projects on bias in Medical AI, the cybersecurity of implanted devices and tech-abuse in medical settings. In 2022 she delivered ethical hacking workshops at ‘May Contain Hackers’ in the Netherlands exploring the cybersecurity vulnerabilities of connected medical devices. Additionally, she spoke at the biohacking village of DEFCON (USA) on the topic of malfunctioning Deep Brain Stimulators (DBS). She has experience in international settings both in her clinical work, and in policy settings at the United Nations.<br></details>  
+<!-----> 
 <img src="../images/orla.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 2 December 2022  
 **Dr Orla Lynskey (London School of Economics)**  

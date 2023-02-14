@@ -8,6 +8,12 @@ Upcoming events
 ---
 
 <!----->
+<img src="../images/Karola.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 9 March 2023, 16:00  
+**Prof. Dr. Karola Marky, Ruhr-University Bochum, Germany**  
+Can we vote online? Or should we stay away from it? On overview of the unique security and human factors challenges in online voting  
+[169EustonRd 103] | [[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** This talk provides a summary of state-of-the-art online voting protocols specifically considering security and human factors. Based on recent research, the audience will learn about the unique challenges that researchers and developers face when developing online voting systems that a) offer specific security properties, b) consider capabilities of the entire voter population and c) unique scalability aspects. Further challenges based on society about also global threats will be presented and discussed.<br><br>**Bio**: Karola Marky is an associate professor at the Ruhr-University Bochum, Germany, where she leads the Digital Sovereignty Group. Her main research area is Human Factors in Cybersecurity and Privacy particularly focusing on Digital Sovereignty, i.e., informational self-determination of individuals in their digital lives. She has major research contributions in the fields of privacy solutions for IoT devices, (two-factor) authentication, and electronic voting published at top conferences and journal, such as CHI, TOCHI, SOUPS, or Usenix Security.<br></details>  
+<!----->  
 <img src="../images/Chris.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 23 March 2023, 16:00  
 **Christopher Wood, Research Team Lead, Cloudflare Research**  

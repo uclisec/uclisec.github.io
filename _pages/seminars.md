@@ -6,8 +6,15 @@ layout: single
 
 Upcoming events
 ---
-
 <!----->  
+<img src="../images/Carolina.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 11 May 2023, 16:00  
+**Dr Carolina Are, Northumbria University’s Centre for Digital Citizens**  
+Pole dancing against the algorithm  
+[[Join on Zoom](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br>**Abstract:** What can pole dancing teach tech companies about content governance? Dr Carolina Are, (a.k.a. @ bloggeronpole) is a London-based Italian researcher, activist and blogger with a PhD in content moderation. An Innovation Fellow at Northumbria University’s Centre for Digital Citizens, Carolina is currently leading a project at the intersection between online abuse and online censorship, of which she has both academic and personal experience as a platform governance researcher and as a social media creator herself. Carolina has received direct apologies from Instagram about shadowbanning and led international protests and campaigns against online censorship. As a result, she has published some of the first studies on Instagram's shadowban of pole dancing, and continues to publish work on de-platforming, online abuse and content moderation. In this talk, she will discuss algorithmic bias against nudity, its relationship with the patriarchy and with whorephobia, sharing some insights from her latest studies looking at mass reporting of sex positive activists and sex workers, as well as with tips, gossip and concerns about Big Tech's power over our bodies
+.<br><br>**Bio**: Dr Carolina Are, aka @bloggeronpole, has a PhD in content moderation and is currently working as Innovation Fellow at Northumbria University’s Centre for Digital Citizens. Following her own experiences of censorship on Instagram and TikTok, she has been researching on algorithmic bias against nudity and sexuality on social media, and has published the first study on the shadowbanning of pole dancing in Feminist Media Studies. Her work has been published in Social Media + Society, Media, Culture & Society and Porn Studies, and it has appeared in The New York Times, The Atlantic, The Guardian, The Conversation, the BBC, Wired, the MIT Technology Review. She's behind various petitions, campaigns and studies to fight for more equal moderation of nudity and sexuality on social media, having been one of the founders of #EveryBODYVisible in 2019 and having created a recent petition against Instagram's terms of use that was signed by over 100,000 people.<br></details>  
+<!----->  
+
 <img src="../images/Joon.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 25 May 2023, 16:00  
 **Joon Sung Park, Stanford University**  

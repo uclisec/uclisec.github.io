@@ -15,7 +15,7 @@ Training and Teaching
 ---
 
 - Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/))
-- MSc Degree in Information Security ([MSc InfoSec](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc))
+- MSc Degree in Information Security ([MSc InfoSec](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/information-security-msc))
 - Security Science Doctoral Training Centre ([SECReT](http://www.ucl.ac.uk/secret/homepage))
 
 Outreach

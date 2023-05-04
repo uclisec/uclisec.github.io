@@ -103,6 +103,14 @@ Research Fellow </p>
 <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Srinidhi Vasudevan</strong></a><br />
 Research Fellow</p>
 
+<p class="profile"><img src="../images/Madeleine.jpg" class="profilephoto" />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Madeleine Janickyj</strong></a><br />
+Research Fellow</p>
+
+<p class="profile"><img src="../images/Nikolaos.jpg" class="profilephoto" />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVASU26"><strong>Nikolaos Koukopoulos</strong></a><br />
+Research Fellow</p>
+
 
 <div class="cf"></div>
 

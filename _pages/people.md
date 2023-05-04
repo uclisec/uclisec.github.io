@@ -104,9 +104,11 @@ Research Fellow </p>
 Research Fellow</p>
 
 <p class="profile"><img src="../images/Madeleine.jpg" class="profilephoto" />  
+<strong>Madeleine Janickyj</strong></a><br />
 Research Fellow</p>
 
 <p class="profile"><img src="../images/Nikolaos.jpg" class="profilephoto" />  
+<strong>Nikolaos Koukopoulos</strong></a><br />
 Research Fellow</p>
 
 

@@ -113,7 +113,6 @@ Research Fellow</p>
 <div class="cf"></div>
 
 ## Centre Managers and Administrators
-- [Esme Taylor](mailto:esme.taylor@ucl.ac.uk) \| RISCS Institute Manager
 - [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| UCL InfoSec Centre Administrator
 

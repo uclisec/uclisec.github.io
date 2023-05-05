@@ -87,7 +87,7 @@ Senior Research Fellow</p>
 Research Fellow</p>
 
 <p class="profile"><img src="../images/Madeleine.jpg" class="profilephoto" />  
-<a href="https://https://iris.ucl.ac.uk/iris/browse/profile?upi=MJANI49"><strong>Madeleine Janickyj</strong></a><br />
+<a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MJANI49"><strong>Madeleine Janickyj</strong></a><br />
 Research Fellow</p>
 
 <p class="profile"><img src="../images/Nikolaos.jpg" class="profilephoto" />  

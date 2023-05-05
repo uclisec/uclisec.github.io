@@ -86,7 +86,7 @@ Senior Research Fellow</p>
 <a href="https://www.linkedin.com/in/jose-tomas-llanos-20665935/"><strong>Jose Tomas Llanos</strong></a><br />
 Research Fellow</p>
 
-<p class="profile"><img src="../images/Madeleine.jpg" class="profilephoto" />  
+<p class="profile"><img src="../images/Maddy.jpg" class="profilephoto" />  
 <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MJANI49"><strong>Madeleine Janickyj</strong></a><br />
 Research Fellow</p>
 

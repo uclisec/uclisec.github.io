@@ -97,7 +97,7 @@ Research Fellow</p>
 
 <div class="cf"></div>
 
-## Centre Managers and Administrators
+## Centre Administrators
 - [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| UCL InfoSec Centre Administrator
 

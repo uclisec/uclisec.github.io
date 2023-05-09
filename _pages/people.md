@@ -90,8 +90,8 @@ Research Fellow</p>
 <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MJANI49"><strong>Madeleine Janickyj</strong></a><br />
 Research Fellow</p>
 
-<p class="profile"><img src="../images/Nikolaos.jpg" class="profilephoto" />  
-<strong>Nikolaos Koukopoulos</strong></a><br />
+<p class="profile"><img src="../images/Niko.jpg" class="profilephoto" />  
+<a href="(https://iris.ucl.ac.uk/iris/browse/profile?upi=NKOUK63)"><strong>Nikolaos Koukopoulos</strong></a><br />
 Research Fellow</p>
 
 

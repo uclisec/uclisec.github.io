@@ -22,8 +22,8 @@ Computational Methods to Measure and Mitigate Online Disinformation
 <img src="../images/savvas.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 30 June 2023 PM *(in person, time and room TBA)*  
 **Savvas Zannettou, TU Delft**  
-TBA  
-*(ACE-CSR Event)*<details><br>**Abstract:**<br><br>**Bio**:<br></details>  
+Understanding and Detecting Hateful Content Using Contrastive Learning  
+*(ACE-CSR Event)*<details><br>**Abstract:** Indisputably, the Web has revolutionized how people receive, consume, and interact with information. At the same time, unfortunately, the Web offers a fertile ground for online harm like the spread of hateful content. There is a pressing need to develop techniques and tools to understand, detect, and mitigate these issues on the Web. In this talk, I will present our work on understanding and detecting hateful content using recent Artificial Intelligence (AI) advancements. The talk will focus on how we can use AI models based on contrastive learning to detect hateful content across multiple modalities (text and images) and understand the spread and evolution of hateful content online. <br><br>**Bio**: Savvas Zannettou is an Assistant Professor at Delft University of Technology (TU Delft) and an associated researcher with the Max Planck Institute for Informatics. Before joining TU Delft, he was a Postdoctoral Researcher at Max Planck Institute for Informatics. He obtained his PhD from Cyprus University of Technology in 2020. His research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web, such as the spread of false information and hateful rhetoric. Also, he is interested in understanding algorithmic recommendations on the Web, their effect on end-users, and to what extent algorithms recommend extreme content. Finally, he is interested in analyzing content moderation systems to understand the effectiveness of moderation interventions on the Web.<br></details>  
 <!----->
 
 FAQs

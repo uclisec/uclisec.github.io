@@ -71,10 +71,6 @@ Lecturer</p>
 <a href="https://www.privacurity.com/"><strong>Mark Warner</strong></a><br />
 Lecturer</p>
 
-<p class="profile"><img src="../images/Arthur.jpg" class="profilephoto" />
-<a href="https://arthurgervais.com/"><strong>Arthur Gervais</strong></a><br />
-Associate Professor</p>
-
 <div class="cf"></div>
 
 ## Research Staff

@@ -7,13 +7,7 @@ layout: single
 Upcoming events
 ---
 <!----->  
-<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 27 July 2023, 16:00  
-**Dr Aydin Abadi**  
-Earn while You Reveal: Private Set Intersection that Rewards Participants
-[[Zoom](https://ucl.zoom.us/j/92090461055?pwd=UzFJTXJzMXhZZEVraDFXSXBvc0FtUT09)] [[Live Stream]( https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Private Set Intersection (PSI) is an elegant cryptographic protocol that allows parties to find the intersection of their private sets without revealing anything beyond the result. PSIs have been used in various privacy-enhancing technologies; for instance, in federated machine learning, combating financial fraud, or COVID-19 contact tracing solutions.   
-In this talk, I will highlight two facts about PSIs; namely, (1) a non-empty result always reveals something about the private input sets of the parties and (2) in various variants of PSI, not all parties necessarily receive or are interested in the result. I will explain a vital research gap; namely, the literature has assumed that those parties who do not receive or are not interested in the result still contribute their private input sets to the PSI for free, although doing so would cost them their privacy.  
-Also, I will talk about our multi-party PSI, called “Anesidora”, which fills the aforementioned gap. Anesidora rewards parties who contribute their private input sets to the protocol. It is efficient; it mainly relies on symmetric key primitives and its computation and communication complexities are linear with the number of parties and set cardinality. It remains secure even if the majority of parties are corrupted by active colluding adversaries. During the development of Anesidora, we devised (i) the first fair multi-party PSI called “Justitia” and (ii) propose the notion of unforgeable polynomials. In this talk, I will discuss these two notions as well.<br><br>**Bio**: Aydin Abadi is a Senior Research Fellow at UCL. His main research interests include information security, privacy, and cryptography, with a focus on (1) developing Privacy Enhancing Technologies, (2) devising solutions to deal with payment fraud, and (3) blockchain technology.  Before joining UCL he held a lectureship position at the University of Gloucestershire and before that, he was a Research Associate at the Blockchain Technology Lab, at the University of Edinburgh.<br></details> 
+ 
 <!----->  
 
 FAQs
@@ -34,6 +28,15 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 Past Events
 ---
 ### 2023  
+<!----->  
+<img src="../images/aydin2.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 27 July 2023, 16:00  
+**Dr Aydin Abadi**  
+Earn while You Reveal: Private Set Intersection that Rewards Participants
+[[Zoom](https://ucl.zoom.us/j/92090461055?pwd=UzFJTXJzMXhZZEVraDFXSXBvc0FtUT09)] [[Live Stream]( https://youtu.be/vvluE5JOFds)]<details>**Abstract:** Private Set Intersection (PSI) is an elegant cryptographic protocol that allows parties to find the intersection of their private sets without revealing anything beyond the result. PSIs have been used in various privacy-enhancing technologies; for instance, in federated machine learning, combating financial fraud, or COVID-19 contact tracing solutions.   
+In this talk, I will highlight two facts about PSIs; namely, (1) a non-empty result always reveals something about the private input sets of the parties and (2) in various variants of PSI, not all parties necessarily receive or are interested in the result. I will explain a vital research gap; namely, the literature has assumed that those parties who do not receive or are not interested in the result still contribute their private input sets to the PSI for free, although doing so would cost them their privacy.  
+Also, I will talk about our multi-party PSI, called “Anesidora”, which fills the aforementioned gap. Anesidora rewards parties who contribute their private input sets to the protocol. It is efficient; it mainly relies on symmetric key primitives and its computation and communication complexities are linear with the number of parties and set cardinality. It remains secure even if the majority of parties are corrupted by active colluding adversaries. During the development of Anesidora, we devised (i) the first fair multi-party PSI called “Justitia” and (ii) propose the notion of unforgeable polynomials. In this talk, I will discuss these two notions as well.<br><br>**Bio**: Aydin Abadi is a Senior Research Fellow at UCL. His main research interests include information security, privacy, and cryptography, with a focus on (1) developing Privacy Enhancing Technologies, (2) devising solutions to deal with payment fraud, and (3) blockchain technology.  Before joining UCL he held a lectureship position at the University of Gloucestershire and before that, he was a Research Associate at the Blockchain Technology Lab, at the University of Edinburgh.<br></details> 
+<!----->  
 <img src="../images/savvas.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 30 June 2023, 14:15 *[Hybrid Event, [Register](https://www.eventbrite.co.uk/e/ucl-academic-centre-of-excellence-in-cybersecurity-research-closing-event-tickets-636003251847)]*  
 **Savvas Zannettou, TU Delft**  

@@ -31,7 +31,12 @@ Guardians of the Digital Galaxy: protecting the cybersecurity workforce
 Title: tba 
 [[Zoom](tba)] [[Live Stream](tbc)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
 <!----->  
-
+<img src="../images/Doug.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 18 January 2024, 16:00  
+**Doug Zytko, University of Michigan-Flint**  
+Title: tba 
+[[Zoom](tba)] [[Live Stream](tbc)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
+<!----->  
 
 FAQs
 ---

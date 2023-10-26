@@ -35,7 +35,7 @@ Title: tba
 - 18 January 2024, 16:00  
 **Doug Zytko, University of Michigan-Flint**  
 Title: tba 
-[[Zoom](tba)] [[Live Stream](tbc)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
+[[Zoom](tba)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
 <!----->  
 
 FAQs

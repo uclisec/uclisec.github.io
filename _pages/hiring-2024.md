@@ -1,10 +1,8 @@
 ---
-title: "Hiring 2024"
+title: "Open Faculty Position in 2024"
 permalink: /hiring-2024/
 layout: single
 ---
-
-# UCL Information Security Research Group
 
 The UCL Information Security group have an open position in 2024. A summary of the key information is available here, and further details will be included in the job advertisement (available soon).
 

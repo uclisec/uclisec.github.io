@@ -7,7 +7,8 @@ layout: single
 # UCL Information Security Research Group
 
 The UCL Information Security group have an open position in 2024. A summary of the key information is available here, and further details will be included in the job advertisement (available soon).
-An information session will be held on Zoom on 12 December 2023, 2–3pm (UK time). Meeting details will be published on this page closer to the time.
+
+To find out more, please join the information session that will be held on Zoom on 12 December 2023, 2–3pm (UK time). Meeting details will be published on this page closer to the time.
 
 ## Open position
 

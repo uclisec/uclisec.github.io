@@ -19,6 +19,12 @@ Title: Secure Software Engineering: Organisational Challenges and Problems
 Title: tba 
 [[Zoom](tba)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
 <!----->  
+<img src="../images/Alexandros.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 15 February 2024, 16:00  
+**Alexandros Efstratiou**  
+Title: tba 
+[[Zoom](tba)]<details>**Abstract:** tba.<br><br>**Bio**: tba.<br></details> 
+<!----->  
 
 FAQs
 ---

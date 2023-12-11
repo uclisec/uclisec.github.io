@@ -6,10 +6,7 @@ layout: single
 
 The UCL Information Security group have an open position in 2024. A summary of the key information is available here, and further details will be included in the job advertisement (available soon).
 
-To find out more, please join the information session that will be held on Zoom on 12 December 2023, 2–3pm (UK time). To join the meeting please select https://ucl.zoom.us/j/91370606570?pwd=VndvcHRlVWtqVHRLOGdxd3VxbHFGZz09
-
-Meeting ID: 913 7060 6570  
-Passcode: 067763
+To find out more, please join the information session that will be held on Zoom on 12 December 2023, 2–3pm (UK time). The session can be accessed at [https://ucl.zoom.us/j/91370606570?pwd=VndvcHRlVWtqVHRLOGdxd3VxbHFGZz09](https://ucl.zoom.us/j/91370606570?pwd=VndvcHRlVWtqVHRLOGdxd3VxbHFGZz09) and also dial-in [by phone](https://ucl.zoom.us/u/a64b5aDKR). For dial-in you will need the meeting ID: 913 7060 6570 and passcode: 067763.
 
 ## Open position
 

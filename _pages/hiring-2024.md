@@ -31,6 +31,10 @@ Available soon
 - Closing date: 31 January 2024
 - Interviews: 26 February to 8 March 2024
 
+## Information session
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fb-dkbxS7SY?si=J1kqwnxjFoOl7EQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## FAQ
 
 <dl>

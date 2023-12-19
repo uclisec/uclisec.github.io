@@ -37,7 +37,7 @@ Available soon
   <dt>What’s the proportion of time expected for teaching?</dt>
   <dd>UCL Computer Science has no formal workload model, but after a gradual ramping up of teaching duties, we would normally expect faculty members to teach two modules each academic year. This is normally around 30 hours of contact time per module.</dd>
   <dt>Is there any guideline to choose the position to apply for?</dt>
-  <dd>There's no need to specify a position at this stage as this would be something for the successful candidate to negotiate. To get a rough idea of the expectation of each level, see the [Academic Career Framework](https://www.ucl.ac.uk/human-resources/policies-advice/academic-career-framework-and-promotions-processes).</dd>
+  <dd>There's no need to specify a position at this stage as this would be something for the successful candidate to negotiate. To get a rough idea of the expectation of each level, see the <a href="https://www.ucl.ac.uk/human-resources/policies-advice/academic-career-framework-and-promotions-processes">Academic Career Framework</a>.</dd>
   <dt>Is there going to be a vacancy for just one senior (professor), or for instance two lecturers?</dt>
   <dd>Currently there is approval for one position. Additional positions have not been ruled out, but approval would depend on pool of candidates and budget.</dd>
   <dt>Are you looking for someone in <em>[my area]</em>?</dt>
@@ -45,11 +45,11 @@ Available soon
   <dt>Will UCL allocate PhD studentship(s)? Would these be available to be taken up by international PhD students?</dt>
   <dd>The details of a start-up package would be negotiated with the Head of Department.</dd>
   <dt>How are lecturers evaluated? Is there a funding goal and/or publication target etc?</dt>
-  <dd>There are no fixed targets for funding or publications, and expectations would depend on the specific field of the staff member. See the [Academic Career Framework](https://www.ucl.ac.uk/human-resources/policies-advice/academic-career-framework-and-promotions-processes) for guidance.</dd>
+  <dd>There are no fixed targets for funding or publications, and expectations would depend on the specific field of the staff member. See the <a href="https://www.ucl.ac.uk/human-resources/policies-advice/academic-career-framework-and-promotions-processes">Academic Career Framework</a> for guidance.</dd>
   <dt>Are the requirements the same for all the positions? I am about to finish my Ph.D., so shall I also submit a research plan?</dt>
   <dd>The application material is the same for all roles but we would of course have different expectations of the content depending on the experience of the applicant.</dd>
   <dt>Are the lecturers positions limited to specific number of years?</dt>
-  <dd>These are all permanent roles. Positions are subject to successful completion of probation ([up to 3 years](https://www.ucl.ac.uk/human-resources/ucl-induction-and-probation-policy)) but this is much less onerous than tenure-track and we would expect everyone to successfully complete their probation.</dd>
+  <dd>These are all permanent roles. Positions are subject to successful completion of probation (<a href="https://www.ucl.ac.uk/human-resources/ucl-induction-and-probation-policy">up to 3 years</a>) but this is much less onerous than tenure-track and we would expect everyone to successfully complete their probation.</dd>
   <dt>What’s the degree of flexibility on the starting date?</dt>
   <dd>The start date is flexible and can be negotiated with the Head of Department.</dd>
   <dt>Are part-time (say 80%) positions also considered?</dt>

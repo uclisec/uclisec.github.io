@@ -4,7 +4,7 @@ permalink: /hiring-2024/
 layout: single
 ---
 
-The UCL Information Security group have an open position in 2024. A summary of the key information is available here, and further details can be found [in the job advertisement](/uploads/2023-12-19%20UCL%20Job%20Description.pdf) and the recording of the information session below.
+The UCL Information Security group have an open position in 2024. A summary of the key information is available here, and further details can be found [in the job description](/uploads/2023-12-19%20UCL%20Job%20Description.pdf) and the recording of the information session below.
 
 ## Open position
 
@@ -17,11 +17,13 @@ Lecturer (equivalent to Assistant Professor), Associate Professor or Professor, 
 - Statement of teaching interests and experience (up to 2 pages)
 - Names of three referees (references will be requested from shortlisted candidates)
 
-For full details, see the [job advertisement](/uploads/2023-12-19%20UCL%20Job%20Description.pdf).
+For full details, see the [job description](/uploads/2023-12-19%20UCL%20Job%20Description.pdf).
 
 ## Submission portal
 
-Available soon
+[Apply for the open position](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=18550&jobTitle=Professor+in+Information+Security)
+
+Please upload your research statement and teaching statement as attachments "Research Paper 1" and "Research Paper 2" in the application system. 
   
 ## Key dates
 

@@ -7,12 +7,6 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Alexandros.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 15 February 2024, 16:00  
-**Alexandros Efstratiou**  
-Title: What I see is all that’s real: The dynamics of polarization and misinformation on social media platforms 
-[[Zoom](https://ucl.zoom.us/j/93777576356?pwd=NWkvL2JEQzk4eWVvNnZ4bWltaFVUQT09)]<details>**Abstract:** The advent of Web 2.0 opened up new challenges in understanding the decentralized flow of information and the influence that social media users and communities exert on each other. Though social media has the capacity of expanding democratic participation, it can also amplify harms like misinformation and political polarization. In this talk, I will present some of our work that demonstrated social psychological phenomena at scale on the Reddit and Twitter platforms. Beginning with a large-scale examination of Reddit’s political sphere, I will discuss the interplay between political echo chamber participation and the subsequent hostility expressed in intergroup interaction contexts. As a follow up, I will delve into the capacity of more moderate Reddit community members to positively influence their peers. Finally, I will discuss the role of polarization dynamics in the spread of misinformation, specifically focusing on a study of how network segregation enabled the misrepresentation of scientific consensus on COVID-19.<br><br>**Bio**: Alexandros Efstratiou is a PhD candidate at UCL’s CDT in Cybersecurity and the Department of Computer Science. He is part of UCL’s Information Security Research Group (Isec) and the International Data-driven Research for Advanced Modeling and Analysis (iDRAMA) lab. With a background in social psychology and behavioral science, his work analyzes and uncovers social psychological phenomena on social media at scale, particularly focusing on how they relate to the propagation of online misinformation and the enabling of intergroup polarization.<br></details> 
-<!-----> 
 <img src="../images/Roslyn.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2024, 16:00  
 **Roslyn Fuller**  
@@ -46,6 +40,12 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 Past Events
 ---
 ### 2023  
+<!-----> 
+<img src="../images/Alexandros.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 15 February 2024, 16:00  
+**Alexandros Efstratiou**  
+Title: What I see is all that’s real: The dynamics of polarization and misinformation on social media platforms 
+[[Zoom](https://ucl.zoom.us/j/93777576356?pwd=NWkvL2JEQzk4eWVvNnZ4bWltaFVUQT09)]<details>**Abstract:** The advent of Web 2.0 opened up new challenges in understanding the decentralized flow of information and the influence that social media users and communities exert on each other. Though social media has the capacity of expanding democratic participation, it can also amplify harms like misinformation and political polarization. In this talk, I will present some of our work that demonstrated social psychological phenomena at scale on the Reddit and Twitter platforms. Beginning with a large-scale examination of Reddit’s political sphere, I will discuss the interplay between political echo chamber participation and the subsequent hostility expressed in intergroup interaction contexts. As a follow up, I will delve into the capacity of more moderate Reddit community members to positively influence their peers. Finally, I will discuss the role of polarization dynamics in the spread of misinformation, specifically focusing on a study of how network segregation enabled the misrepresentation of scientific consensus on COVID-19.<br><br>**Bio**: Alexandros Efstratiou is a PhD candidate at UCL’s CDT in Cybersecurity and the Department of Computer Science. He is part of UCL’s Information Security Research Group (Isec) and the International Data-driven Research for Advanced Modeling and Analysis (iDRAMA) lab. With a background in social psychology and behavioral science, his work analyzes and uncovers social psychological phenomena on social media at scale, particularly focusing on how they relate to the propagation of online misinformation and the enabling of intergroup polarization.<br></details> 
 <!-----> 
 <img src="../images/Doug.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 18 January 2024, 16:00  

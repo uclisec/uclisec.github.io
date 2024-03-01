@@ -7,12 +7,6 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Ilya.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 1 March 2024, 19:00  
-**Ilya Grishchenko**  
-Call Me Maybe: Code, Trust, and Confusion 
-[[Zoom](https://ucl.zoom.us/j/96811088100?pwd=VEdBZ2tBOW9jRnR5bDlFeEM1UmxyQT09)] <details>**Abstract:** The talk presents two distinct research methodologies for enhancing code security. The first part of the talk delves into a static analysis approach aimed at tackling the longstanding issue of memory corruption. Specifically, it explores the concept of forward control integrity via type propagation in C programs. The second portion of the talk shifts focus to a dynamic analysis approach, addressing the emerging challenges posed by smart contracts in the blockchain ecosystem. It concentrates on detecting confused deputy attacks within smart contracts, a critical vulnerability where a legitimate yet deceived contract is exploited to perform unauthorized actions. Through these two perspectives—one grounded in traditional software security and the other in the burgeoning field of blockchain technology—this talk underscores the evolving landscape of cyber threats and the innovative strategies required to counter them.<br><br>**Bio**:Ilya Grishchenko is a postdoctoral researcher specializing in security at the University of California, Santa Barbara, where he works with Prof. Christopher Kruegel and Prof. Giovanni Vigna. He obtained his M.Sc. from Saarland University in Germany and completed his Ph.D. at TU Wien, Austria, in 2021 under the supervision of Prof. Matteo Maffei. His dissertation, "Static Analysis of Low-Level Code," was awarded a distinction. His research focuses on static and dynamic analyses and has contributed to publications addressing vulnerabilities in Android applications, Ethereum smart contracts, and monolithic firmware.<br></details> 
-<!----->  
 <img src="../images/Alberto.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 29 February 2024, 16:00  
 **Alberto Sonnino**  

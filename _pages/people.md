@@ -129,7 +129,7 @@ Research Fellow</p>
 - Reza Moqadasi
 - [Mohammad Naseri](https://mohammadnaseri.github.io/)
 - Lilly Neubauer
-- Marylyne Ordekian
+- Marilyne Ordekian
 - Kärt Padur
 - [Antonis Papasavva](https://antonispapasavva.github.io/)
 - [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor

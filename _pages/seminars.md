@@ -7,11 +7,7 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Alberto.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 29 February 2024, 16:00  
-**Alberto Sonnino**  
-Mysticeti: Low-Latency DAG Consensus with Fast Commit Path 
-[[Zoom](https://ucl.zoom.us/j/96608232518?pwd=dHlkUzhwd2dnVitZMnRoWHlORjBVZz09)] [[Live Stream](https://www.youtube.com/live/wRXhxB0mR8Y?si=mMbAq06ao4i_HmH7)]<details>**Abstract:** This talk introduces Mysticeti a byzantine consensus protocol with low-latency and high resource efficiency. It leverages a DAG based on Threshold Clocks and incorporates innovations in pipelining and multiple leaders to reduce latency in the steady state and under crash failures. Mysticeti is the first byzantine protocol to achieve WAN latency of 0.5s for consensus commit, at a throughput of over 50k TPS that matches the state-of-the-art. Additionally, and if time permits, this talk describes a variant of Mysticeti, called Mysticeti-FPC, that incorporates a fast commit path that has even lower latency by forgoing consensus whenever possible.<br><br>**Bio**:I am a research scientist at Mysten Labs working on the Sui blockchain. I am also affiliated with the computer science department of University College London (UCL). My research interests are in distributed systems, blockchains, and privacy enhancing technologies. These days I mostly work on Byzantine fault tolerant systems for blockchain applications including consensus protocols, consensus-less (broadcast-based) algorithms, and distributed execution engines. I spend most of my time developing new algorithm to produce more performant distributed systems. A key aspect of my work is to leverage all the resources available to the machine and scale blockchain validators to run on multiple machines. The typical goal of my projects is to go beyond the research stage, I spend considerable effort to implement and evaluate systems to ultimately run them in production.<br></details> 
+ 
 <!----->  
 
 FAQs
@@ -32,6 +28,12 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 Past Events
 ---
 ### 2023  
+<!-----> 
+<img src="../images/Alberto.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 29 February 2024, 16:00  
+**Alberto Sonnino**  
+Mysticeti: Low-Latency DAG Consensus with Fast Commit Path 
+[[Zoom](https://ucl.zoom.us/j/96608232518?pwd=dHlkUzhwd2dnVitZMnRoWHlORjBVZz09)] [[Live Stream](https://www.youtube.com/live/wRXhxB0mR8Y?si=mMbAq06ao4i_HmH7)]<details>**Abstract:** This talk introduces Mysticeti a byzantine consensus protocol with low-latency and high resource efficiency. It leverages a DAG based on Threshold Clocks and incorporates innovations in pipelining and multiple leaders to reduce latency in the steady state and under crash failures. Mysticeti is the first byzantine protocol to achieve WAN latency of 0.5s for consensus commit, at a throughput of over 50k TPS that matches the state-of-the-art. Additionally, and if time permits, this talk describes a variant of Mysticeti, called Mysticeti-FPC, that incorporates a fast commit path that has even lower latency by forgoing consensus whenever possible.<br><br>**Bio**:I am a research scientist at Mysten Labs working on the Sui blockchain. I am also affiliated with the computer science department of University College London (UCL). My research interests are in distributed systems, blockchains, and privacy enhancing technologies. These days I mostly work on Byzantine fault tolerant systems for blockchain applications including consensus protocols, consensus-less (broadcast-based) algorithms, and distributed execution engines. I spend most of my time developing new algorithm to produce more performant distributed systems. A key aspect of my work is to leverage all the resources available to the machine and scale blockchain validators to run on multiple machines. The typical goal of my projects is to go beyond the research stage, I spend considerable effort to implement and evaluate systems to ultimately run them in production.<br></details> 
 <!-----> 
 <img src="../images/Roslyn.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 22 February 2024, 16:00  

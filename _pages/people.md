@@ -92,6 +92,7 @@ Research Fellow</p>
 ## Centre Administrators
 - [Samantha Bottomley](mailto:s.bottomley@ucl.ac.uk) \| MSc Information Security Administrator 
 - [Silpa Shah](mailto:silpa.shah@ucl.ac.uk) \| UCL InfoSec Centre Administrator
+- [Isabelle Gressel](mailto:i.gressel@ucl.ac.uk) \| UCL InfoSec Gender & Tech Lab Research Administrator
 
 
 ## Doctoral Researchers

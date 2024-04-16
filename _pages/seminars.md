@@ -7,7 +7,11 @@ layout: single
 Upcoming events
 ---
 <!-----> 
- 
+<img src="../images/Federico.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 3 May 2024, 16:00  
+**Federico Barbero**  
+Understanding Long-Range Interactions in Message-Passing Graph Neural Networks and Transformers 
+[[Zoom](tba)] [[Live Stream](tba)]<details>**Abstract:** In this talk, I will discuss how Message-Passing Graph Neural Networks propagate information across a graph, relating the mechanism to heat equations and spectral graph theory. In particular, I will show how this inevitably leads to undesirable properties when it comes to modelling “long-range interactions” over a domain. More precisely, I will show how “over-smoothing” (latent signals becoming increasingly similar) arises due to the relationship between message-passing and heat equations, and how “over-squashing” (information being compressed in “bottlenecks”) relates to spectral quantities of the graph. I will then go over our recent ICML 2023 and ICLR 2024 works that aim to understand and improve on such issues. Finally, I will connect this direction of research to Transformers, a model that still remains the de facto standard when it comes to modelling long-range interactions over numerous domains.<br><br>**Bio**: Federico is a PhD student at the department of computer science of the University of Oxford, supervised by Michael Bronstein. He is currently a research intern at Google DeepMind working on algorithmic reasoning. Previously, he was a research intern at Microsoft Research working on protein folding with large scale geometric Transformers.<br></details> 
 <!----->  
 
 FAQs

@@ -59,8 +59,8 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
     f = document.getElementById('feed');
     p = document.createElement('p');
     p.appendChild(e);
-    d = new Date(entry.isoDate);
-    p.appendChild(document.createTextNode(' by ' + entry.creator + ' on ' + d.toDateString()));
+    d = (new Date(entry.isoDate)).toLocaleDateString();
+    p.appendChild(document.createTextNode(' by ' + entry.creator + ' on ' + d));
     f.appendChild(p);
   })
 })

@@ -55,7 +55,7 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
     console.log(entry.title + ':' + entry.link);
     e = document.createElement('a');
     e.appendChild(document.createTextNode(entry.title));
-    e.href = entry.link
+    e.href = entry.link;
     f = document.getElementById('feed');
     p = document.createElement('p');
     p.appendChild(e);

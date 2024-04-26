@@ -50,7 +50,12 @@ let parser = new RSSParser();
 parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
   if (err) throw err;
   /*console.log(feed.title);*/
-  limit = 5;
+  const limit = 5;
+  const options = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  };
   feed.items.slice(0,limit).forEach(function(entry) {
     /*console.log(entry.title + ':' + entry.link);*/
     e = document.createElement('a');
@@ -59,7 +64,7 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
     f = document.getElementById('feed');
     p = document.createElement('p');
     p.appendChild(e);
-    d = (new Date(entry.isoDate)).toLocaleDateString();
+    d = (new Date(entry.isoDate)).toLocaleDateString(undefined, options);
     p.appendChild(document.createTextNode(' by ' + entry.creator + ' on ' + d));
     f.appendChild(p);
   })

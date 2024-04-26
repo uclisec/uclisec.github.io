@@ -49,16 +49,18 @@ Some of the key research themes addressed by the group include, but are not limi
 let parser = new RSSParser();
 parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
   if (err) throw err;
-  console.log(feed.title);
+  //console.log(feed.title);
   limit = 5;
-  feed.items.slice(limit).forEach(function(entry) {
-    console.log(entry.title + ':' + entry.link);
+  feed.items.slice(0,limit).forEach(function(entry) {
+    //console.log(entry.title + ':' + entry.link);
     e = document.createElement('a');
     e.appendChild(document.createTextNode(entry.title));
     e.href = entry.link;
     f = document.getElementById('feed');
     p = document.createElement('p');
     p.appendChild(e);
+    d = new Date(entry.isoDate);
+    p.appendChild(document.createTextNode(' by ' + entry.creator + ' on ' + d.toDateString()));
     f.appendChild(p);
   })
 })

@@ -39,3 +39,27 @@ Some of the key research themes addressed by the group include, but are not limi
 - Systems Security
 - Trust
 - Usable Security
+
+## Recent posts on Bentham's Gaze
+
+<div id="feed"></div>
+
+<script src=" https://cdn.jsdelivr.net/npm/rss-parser@3.13.0/dist/rss-parser.min.js "></script>
+<script>
+let parser = new RSSParser();
+parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
+  if (err) throw err;
+  console.log(feed.title);
+  limit = 5;
+  feed.items.slice(limit).forEach(function(entry) {
+    console.log(entry.title + ':' + entry.link);
+    e = document.createElement('a');
+    e.appendChild(document.createTextNode(entry.title));
+    e.href = entry.link
+    f = document.getElementById('feed');
+    p = document.createElement('p');
+    p.appendChild(e);
+    f.appendChild(p);
+  })
+})
+</script>

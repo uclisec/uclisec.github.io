@@ -4,12 +4,23 @@ permalink: /publications/
 layout: single
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+# Recent publications
 
-<script> 
-$(function(){
- $("content").load("https://infosec-internal.cs.ucl.ac.uk/publications/"); 
-});
-</script> 
-
-<div id="content"></div>
+        <script src="https://unpkg.com/htmx.org@1.9.12" integrity="sha384-ujb1lZYygJmzgSwoxRggbCHcjc0rB2XoQrxeTUQyRjrOnlCoYta87iKBWq3EsdM2" crossorigin="anonymous"></script>
+        <style>
+            iframe{
+                background-color: transparent;
+                border: 0px none transparent;
+                padding: 0px;
+                overflow: hidden;
+            }
+        .pubtype {
+          font-size: small;
+          background-color: lightgray;
+        }
+        
+        div.pub {
+          margin-top: 10px;
+        }
+        </style>    
+        <div id="content" hx-get="https://infosec-internal.cs.ucl.ac.uk/publications/" hx-trigger="load" hx-select="#pubs" hx-swap="outerHTML"></div>

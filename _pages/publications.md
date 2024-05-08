@@ -21,4 +21,4 @@ div.pub {
   margin-top: 10px;
 }
 </style>    
-<div id="content" hx-get="https://infosec-internal.cs.ucl.ac.uk/publications/" hx-trigger="load" hx-select="#pubs" hx-swap="outerHTML"></div>
+<div id="content" hx-get="https://infosec-internal.cs.ucl.ac.uk/publications/" hx-trigger="load" hx-select="#pubs" hx-swap="outerHTML">Please wait...</div>

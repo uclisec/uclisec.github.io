@@ -6,13 +6,13 @@
   {{ authors | first }}</p>
 {% else %}
   <i class="fa fa-fw fa-user"></i>
-    {% for author in authors %}
-        {% if forloop.first %}
-            {{ author }}
-        {% elsif forloop.last %}
-            and {{ author }}
-        {% else %}
-            , {{ author }}
-        {% endif %}
-    {% endfor %}
+    {%- for author in authors -%}
+        {%- if forloop.first -%}
+            {{- author -}}
+        {%- elsif forloop.last -%}
+            {{- " and " -}}{{- author -}}
+        {%- else -%}
+            {{- ", "-}}{{- author -}}
+        {%- endif -%}
+    {%- endfor -%}
 {% endif %}

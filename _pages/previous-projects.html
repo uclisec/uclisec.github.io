@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Previous InfoSec Research Group Projects"
+permalink: /previous-projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Please also see the listing of our <a href="/projects">current projects</a>.</p>
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% for post in site.projects %}
+  {% if post.endDate %}
+    {% capture posttime %}{{post.endDate | date: '%s'}}{% endcapture %}
+    {% if posttime < nowunix %}
+      {% include archive-single-project.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+

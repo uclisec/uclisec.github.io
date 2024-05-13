@@ -5,10 +5,10 @@
   <i class="fa fa-fw fa-handshake"></i>
   {{ partners | first }}</p>
 {% else %}
-  <i class="fa fa-fw fa-handshake"> </i>
+  <i class="fa fa-fw fa-handshake"></i>
     {%- for partner in partners -%}
         {%- if forloop.first -%}
-            {{-  partner -}}
+            {{ - partner -}}
         {%- elsif forloop.last -%}
             {{- " and " -}}{{- partner -}}
         {%- else -%}

@@ -178,6 +178,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  previous-projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -238,6 +244,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      author_profile: true
+      share: false
+  # _previous-projects
+  - scope:
+      path: ""
+      type: previous-projects
+    values:
+      layout: project
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:

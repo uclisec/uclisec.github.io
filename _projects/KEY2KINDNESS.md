@@ -1,6 +1,6 @@
 ---
 title: "Key2Kindness"
-excerpt: "The key2Kindness project is interested in understand proactive content moderation, and how this form of moderation can be emedded responsibly and effectively within different communication platforms. It takes a critical approach, working with stakeholders to understand the potential risks and unintended harms of these systems. Finally, through engagement with stakeholders, it will evaluate several proactive content moderation interaction design factors through an experimental design and qualitative user interviews."
+excerpt: "Key2Kindness is an interdisciplinary project exploring the role of proactive content moderation systems to reduce instances of online harassment across both privacy and public online social platforms."
 
 authors:
 - Mark Warner

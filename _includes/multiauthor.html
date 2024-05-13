@@ -8,7 +8,7 @@
   <i class="fa fa-fw fa-users"> </i>
     {%- for author in authors -%}
         {%- if forloop.first -%}
-            {{-  author -}}
+            {{- " " -}}{{-  author -}}
         {%- elsif forloop.last -%}
             {{- " and " -}}{{- author -}}
         {%- else -%}

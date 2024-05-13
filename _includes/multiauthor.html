@@ -5,7 +5,7 @@
   <i class="fa fa-fw fa-user"></i>
   {{ authors | first }}</p>
 {% else %}
-  <i class="fa fa-fw fa-users"></i>
+  <i class="fa fa-fw fa-users"> </i>
     {%- for author in authors -%}
         {%- if forloop.first -%}
             {{-  author -}}

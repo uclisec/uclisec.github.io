@@ -37,7 +37,7 @@ layout: default
         {% endif %}
         {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
 
-        {% include multiauthor.html authors=page.authors  %}
+        <p>{% include multiauthor.html authors=page.authors  %}</p>
         </header>
       {% endunless %}
 

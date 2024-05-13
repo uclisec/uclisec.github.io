@@ -5,7 +5,6 @@ excerpt: "Key2Kindness is an interdisciplinary project exploring the role of pro
 authors:
 - Mark Warner
 funder: REPHRAIN
-value: £109,000
 date: 2021-03-01
 endDate: 2022-07-31
 ---

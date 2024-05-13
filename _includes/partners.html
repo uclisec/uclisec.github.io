@@ -1,3 +1,18 @@
-{%- assign funder = include.funder %}
-  <i class="fa fa-fw fa-money-bill"></i>
-  {{ funder }}</p>
+{%- assign partners = include.partners %}
+{%- assign partnerCount = partners | size -%}
+{% if partnerCount == 0 %}
+{% elsif partnerCount == 1 %}
+  <i class="fa fa-fw fa-handshake"></i>
+  {{ partners | first }}</p>
+{% else %}
+  <i class="fa fa-fw fa-handshake"></i>
+    {%- for partner in partners -%}
+        {%- if forloop.first -%}
+            {{- partner -}}
+        {%- elsif forloop.last -%}
+            {{- " and " -}}{{- partner -}}
+        {%- else -%}
+            {{- ", "-}}{{- partner -}}
+        {%- endif -%}
+    {%- endfor -%}
+{% endif %}

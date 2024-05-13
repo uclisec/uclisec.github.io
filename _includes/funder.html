@@ -1,3 +1,6 @@
 {%- assign funder = include.funder %}
+{%- assign funderCount = funder | size -%}
+{% if funderCount == 0 %}
+{% elsif funderCount == 1 %}
   <i class="fa fa-fw fa-money-bill"></i>
   {{ funder }}</p>

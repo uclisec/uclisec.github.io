@@ -3,7 +3,9 @@ title: "Towards A Smart Digital Forensic Advisor To Support First Responders Wit
 excerpt: "This project will explore existing practices, resources, challenges, and user needs around the process of search and seizure of digital devices across two distinct crime types."
 
 authors:
-- Mark Warner, Val Abreu, Catherine O'Brien
+- Mark Warner
+- Val Abreu
+- Catherine O'Brien
 funder: ESRC
 partners: 
 - Metropolitan Police Service

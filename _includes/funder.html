@@ -1,18 +1,3 @@
-{%- assign authors = include.authors %}
-{%- assign authorCount = authors | size -%}
-{% if authorCount == 0 %}
-{% elsif authorCount == 1 %}
-  <i class="fa fa-fw fa-user"></i>
-  {{ authors | first }}</p>
-{% else %}
-  <i class="fa fa-fw fa-user"></i>
-    {%- for author in authors -%}
-        {%- if forloop.first -%}
-            {{- author -}}
-        {%- elsif forloop.last -%}
-            {{- " and " -}}{{- author -}}
-        {%- else -%}
-            {{- ", "-}}{{- author -}}
-        {%- endif -%}
-    {%- endfor -%}
-{% endif %}
+{%- assign funder = include.funder %}
+  <i class="fa fa-fw fa-money"></i>
+  {{ funder }}</p>

@@ -7,7 +7,7 @@ authors:
 funder: EPSRC sub-award (REPHRAIN)
 partners: 
 - Durham Constabulary
-- Nottinghamshire Police
+- Northumbria Police
 date: 2023-11-01
 endDate: 2024-07-31
 ---

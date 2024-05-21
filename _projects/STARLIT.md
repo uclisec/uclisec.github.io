@@ -5,6 +5,10 @@ authors:
 - Aydin Abadi
 - Steven Murdoch
 - Mohammad Naseri
+partners: 
+- Privitar
+- University of Cardiff
+funder: CDEI, Innovate UK, NIST and NSF
 date: 2022-09-19
 endDate: 2023-03-31
 ---
@@ -17,3 +21,7 @@ Further information can be found on the [PETs Prize Challenge website](https://p
 press
 release](https://www.ucl.ac.uk/computer-science/news/2023/mar/ucl-computer-science-team-wins-uk-us-privacy-enhancing-technologies-prize-challenge)
 on the award.
+
+## Publications
+
+Abadi A, Doyle B, Gini F, Guinamard K, Murakonda SM, Liddell J, Mellor P, Murdoch SJ, Naseri M, Page H, Theodorakopoulos G, Weller S. **[Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection](https://arxiv.org/abs/2401.10765)**, arXiv preprint 2401.10765, January 2024.

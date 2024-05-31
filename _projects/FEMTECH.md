@@ -1,10 +1,11 @@
 ---
 title: "Usable Privacy in Female Health Apps"
-excerpt: "This project explored the usability of privacy mechanisms within female mHealth apps, focusing on features that allow users to manage their data such as deletion and data portability mechanisms."
+excerpt: "This project explores the usability of privacy mechanisms within female mHealth apps, focusing on features that allow users to manage their data such as deletion and data portability mechanisms."
 
 authors:
-- Mark Warner
 - Lisa Malki
+- Dilisha Patel
+- Mark Warner
 funder: Google Gift
 date: 2023-02-01
 endDate: 2025-01-31

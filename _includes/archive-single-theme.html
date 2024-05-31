@@ -12,7 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -33,12 +32,6 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    <p class="page__meta"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>
-      {% include period.html start=post.date end=post.endDate  %}
-    </p>
     <p class="page__meta">
       {% include multiauthor.html authors=post.authors  %}
     </p>

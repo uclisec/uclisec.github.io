@@ -1,10 +1,11 @@
 ---
 title: "Key2Kindness: An adaptive cross-platform “in the moment” hate speech detection and awareness mechanism"
 excerpt: "Key2Kindness is an interdisciplinary project exploring the role of proactive content moderation systems to reduce instances of online harassment across both privacy and public online social platforms."
-
 authors:
 - Mark Warner
 funder: EPSRC Sub-award (REPHRAIN)
+themes:
+- safety
 date: 2021-04-02
 endDate: 2022-07-31
 ---

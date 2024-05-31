@@ -181,6 +181,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  themes:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -249,6 +252,15 @@ defaults:
       layout: project
       author_profile: true
       share: false
+  # _themes
+  - scope:
+      path: ""
+      type: themes
+    values:
+      layout: theme
+      author_profile: true
+      share: false
+
 
 # Sass/SCSS
 sass:

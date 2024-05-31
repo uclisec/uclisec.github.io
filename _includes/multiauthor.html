@@ -3,7 +3,7 @@
 {% if authorCount == 0 %}
 {% elsif authorCount == 1 %}
   <i class="fa fa-fw fa-user"></i>
-  {{ authors | first }}</p>
+  {{ authors | first }}
 {% else %}
   <i class="fa fa-fw fa-users"> </i>
     {%- for author in authors -%}

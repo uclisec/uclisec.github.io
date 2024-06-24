@@ -1,6 +1,6 @@
 ---
 title: "People"
-permalink: /people/
+permalink: /people2/
 author_profile: true
 ---
 

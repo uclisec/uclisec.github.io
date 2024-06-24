@@ -125,7 +125,7 @@ function toggleVisibility(id) {
         Lecturer of Information Security</p>
     </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://www.privacurity.com/"><img src="../images/Mark.jpg" alt="Mark Warner" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://www.privacurity.com/"><img src="../images/Mark.png" alt="Mark Warner" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mark Warner</strong><br>
         Lecturer of Information Security</p>
     </div>

@@ -90,7 +90,7 @@ function toggleVisibility(id) {
         Associate Professor of Information Security</p>
     </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://philipp.jovanovic.io/"><img src="../images/philipp.jpg" alt="Philipp Jovanovic" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://philipp.jovanovic.io/"><img src="../images/philipp.png" alt="Philipp Jovanovic" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Philipp Jovanovic</strong><br>
         Associate Professor of Information Security and MSc Information Securty Programme Director</p>
     </div>
@@ -120,8 +120,8 @@ function toggleVisibility(id) {
         Associate Professor and UKRI Future Leaders Fellow</p>
     </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://mvasek.com/"><img src="../images/marie.jpg" alt="Tristan Caulfield" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Tristan Caulfield</strong><br>
+        <a href="https://mvasek.com/"><img src="../images/marie.jpg" alt="Marie Vasek" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Marie Vasek</strong><br>
         Lecturer of Information Security</p>
     </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">

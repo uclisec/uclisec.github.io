@@ -65,7 +65,7 @@ function toggleVisibility(id) {
 <div class="people academic"><h2>Academic</h2></div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><img src="../images/madeline2.jpg" alt="Madeline Carr" style="width: 100%; border-radius: 10px;"></a><br>
+        <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><img src="../images/madeline2.jpeg" alt="Madeline Carr" style="width: 100%; border-radius: 10px;"></a><br>
         <p><strong>Madeline Carr</strong><br>
         Professor of Global Politics and Cyber Security</p>
     </div>
@@ -170,7 +170,6 @@ function toggleVisibility(id) {
     </div>
 </div>
 
-
 <div class="people administrative"><h2>Administrative Staff</h2></div>
 <div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div class="people administrative" style="flex: 1 0 21%; margin: 10px; text-align: center;">
@@ -196,64 +195,389 @@ function toggleVisibility(id) {
 </div>
 
 
-## Doctoral Researchers
+<div class="people doctoral"><h2>Doctoral Researchers</h2></div>
+<div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Mohamed Abouhashem" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Mohamed Abouhashem</strong><br>
+            Doctoral Researcher (Visitor)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://sharad1126.github.io/"><img src="../images/sharad.jpg" alt="Sharad Agarwal" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Sharad Agarwal</strong><br>
+            Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/daniel-blackwell.jpg" alt="Daniel Blackwell" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Daniel Blackwell</strong><br>
+            Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/blancato.jpg" alt="Filippo Blancato" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Filippo Blancato</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://kylebeadle.com"><img src="../images/beadle.jpg" alt="Kyle Beadle" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Kyle Beadle</strong><br>
+            Doctoral Resarcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/sergi-bray.jpg" alt="Sergi Bray" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Sergi Bray</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/gerard-buckley.jpg" alt="Gerard Buckley" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Gerard Buckley</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Thomas Cattermole" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Thomas Cattermole</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/jacopo.jpg" alt="Jacopo Cortellazzi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Jacopo Cortellazzi</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Ahana Datta" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Ahana Datta</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Kyriacos Demetriou" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Kyriacos Demetriou</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/giulio.jpeg" alt="Giulio De Pasquale" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Giulio De Pasquale</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/jennifer-dwyer-joyce.jpg" alt="Jennifer Dwyer-Joyce" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Jennifer Dwyer-Joyce</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://alefstrat.github.io/"><img src="../images/efstratiou.png" alt="Alexandros Efstratiou" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Alexandros Efstratiou</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/eusebi.jpg" alt="Aliai Eusebi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Aliai Eusebi</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/evripidou.jpg" alt="Stefanos Evripi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Stefanos Evripi</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://ganevgv.github.io/"><img src="../images/ganevgv.jpg" alt="Georgi Ganev" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Georgi Ganev</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Jason Gray" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Jason Gray</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/niamh-healy.jpg" alt="Niamh Healy" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Niamh Healy</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Hawra Hosseini-Milani" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Hawra Hosseini-Milani</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Marius Ilau" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Marius Ilau</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="http://www0.cs.ucl.ac.uk/staff/M.Isaakidis"><img src="../images/holding.png" alt="Marios Isaakidis" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Marios Isaakidis</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="ttps://s2lab.cs.ucl.ac.uk"><img src="../images/zeliang-mark-kan.jpg" alt="Zeliang Mark Kan" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Zeliang "Mark" Kan</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="George Kappos" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>George Kappos</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Alireza Kavousi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Alireza Kavousi</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="FEmmanouil Koulas" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Emmanouil Koulas</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://twitter.com/demelza_r"><img src="../images/reaver.jpg" alt="Demelza Luna Reaver" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Demelza Luna Reaver</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Chizzy Meka" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Chizzy Meka</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/lisamalki.jpeg" alt="Lisa Mekioussa Malki" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Lisa Mekioussa Malki</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/michaelides.jpg" alt="Nadine Michaelides" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Nadine Michaelides</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="FReza Moqadasi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Reza Moqadasi</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://mohammadnaseri.github.io/"><img src="../images/holding.png" alt="Mohammad Naseri" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Mohammad Naseri</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Lilly Neubauer" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Lilly Neubauer</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/ordekian.jpg" alt="Marilyne Ordekian" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Marilyne Ordekian</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/kart-padur.jpg" alt="Kärt Padur" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Kärt Padur</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://antonispapasavva.github.io/"><img src="../images/antonis-papasavva.jpg" alt="Antonis Papasavva" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Antonis Papasavva</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/feargus.jpg" alt="Feargus Pendlebury" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Feargus Pendlebury</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/illaria-pia-la-torre.jpg" alt="Ilaria Pia Del Torre" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Ilaria Pia Del Torre</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://dri.st"><img src="../images/dan-ristrea.jpg" alt="Dan Ristea" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Dan Ristea</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://mariascrs.github.io/"><img src="../images/maria-santos.jpg" alt="Maria Santos" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Maria Santos</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="http://www.maria-a-schett.net/"><img src="../images/holding.png" alt="Maria Schett" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Maria Schett</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://laurenscott.dev"><img src="../images/lauren-scott.jpg" alt="Lauren Scott" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Lauren Scott</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/henry-skeotch.jpg" alt="Henry Skeoch" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Henry Skeoch</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Karolina Skrivankova" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Karolina Skrivankova</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Guy Thompson" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Guy Thompson</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/arianna-trozze.jpg" alt="Arianna Trozze" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Arianna Trozze</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://antoinevendeville.github.io/"><img src="../images/andoine-vendeville.jpg" alt="Antoine Vendeville" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Antoine Vendeville</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Charles Westphal" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Charles Westphal</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Matthew Wixley" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Matthew Wixley</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>
+        </p>
+    </div>
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>
+        </p>
+    </div>
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>
+        </p>
+    </div>
+</div>
 
-- [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
-- [Sharad Agarwal](https://sharad1126.github.io/)
-- Daniel Blackwell
-- Filippo Blancato
-- Sergi Bray
-- Gerard Buckley
-- Thomas Cattermole
-- [Jacopo Cortellazzi](https://s2lab.cs.ucl.ac.uk), Visitor
-- Ahana Datta
-- [Killian Davitt](https://killiandavitt.me)
-- Kyriacos Demetriou
-- [Giulio De Pasquale](https://s2lab.cs.ucl.ac.uk), Visitor
-- Jennifer Dwyer-Joyce
-- [Alexandros Efstratiou](https://alefstrat.github.io/)
-- Aliai Eusebi
-- Stefanos Evripi
-- [Georgi Ganev](https://ganevgv.github.io/)
-- [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visitor
-- Niamh Healy
-- Hawra Hosseini-Milani
-- Marius Ilau
-- [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
-- [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visitor
-- George Kappos
-- Alireza Kavousi
-- Emmanouil Koulas
-- [Demelza Luna Reaver](https://twitter.com/demelza_r)
-- Chizzy Meka
-- Nadine Michaelides
-- Reza Moqadasi
-- [Mohammad Naseri](https://mohammadnaseri.github.io/)
-- Lilly Neubauer
-- Marilyne Ordekian
-- Kärt Padur
-- [Antonis Papasavva](https://antonispapasavva.github.io/)
-- [Feargus Pendlebury](https://s2lab.cs.ucl.ac.uk), Visitor
-- Ilaria Pia Del Torre
-- [Dan Ristea](https://dri.st)
-- [Maria Santos](https://mariascrs.github.io/)
-- [Maria Schett](http://www.maria-a-schett.net/)
-- [Lauren Scott](https://laurenscott.dev/), Visitor
-- Henry Skeoch
-- Karolina Skrivankova
-- Guy Thompson
-- Arianna Trozze
-- [Antoine Vendeville](https://antoinevendeville.github.io/)
-- Charles Westphal
-- Matthew Wixley
-- [Alexander Hicks](https://alexanderlhicks.com/)
-- [Haaroon Yousaf](http://www.haaroonyousaf.com/)
+<div class="people honorary"><h2>Honorary and Visiting Academics</h2></div>
+<div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="http://www.cs.ucl.ac.uk/staff/J.Groth/"><img src="../images/jens.jpg" alt="SJens Groth" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Jens Groth</strong><br>
+        Honorary</p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://privacyinternational.org/people/95/gus-hosein"><img src="../images/holding.png" alt="Gus Hosein" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Gus Hosein</strong><br>
+        Honorary</p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://privacyink.org/"><img src="../images/susanlandau.jpg" alt="Susan Landau" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Susan Landau</strong><br>
+        Honorary</p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://en.wikipedia.org/wiki/Ben_Laurie"><img src="../images/benlaurie.jpg" alt="Ben Laurie" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Ben Laurie</strong><br>
+            Honorary
+        </p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://uclisec.github.io/people/simon_parkin/"><img src="../images/simonparkin.png" alt="Simon Parkin" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Simon Parkin</strong><br>
+            Honorary
+        </p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://seclab.bu.edu/people/gianluca/"><img src="../images/gianluca.png" alt="Gianluca Stringhini" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Gianluca Stringhini</strong><br>
+            Honorary
+        </p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>         
+        </p>
+    </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>
+        </p>
+    </div>
+</div>
 
-### Honorary and Visiting Members
-- [Jens Groth](http://www.cs.ucl.ac.uk/staff/J.Groth/)
-- [Gus Hosein](https://privacyinternational.org/people/95/gus-hosein)
-- [Susan Landau](https://privacyink.org/)
-- [Ben Laurie](https://en.wikipedia.org/wiki/Ben_Laurie)
-- [Simon Parkin](https://uclisec.github.io/people/simon_parkin/)
-- [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/)
-
+<div class="people alumni"><h2>Alumni</h2></div>
+<div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://killiandavitt.me"><img src="../images/killian.jpg" alt="Killian Davitt" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Killian Davitt</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://alexanderlhicks.com/"><img src="../images/holding.png" alt="Alexander Hicks" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Alexander Hicks</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="http://www.haaroonyousaf.com/"><img src="../images/holding.png" alt="Haaroon Yousaf" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Haaroon Yousaf</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong></strong><br>
+        </p>
+    </div>
+</div>

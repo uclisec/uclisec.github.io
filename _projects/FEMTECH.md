@@ -22,3 +22,10 @@ Our findings revealed problematic practices, including inconsistencies across pr
 ## Publications
 
 Malki L, Kaleva I, Patel D, Warner M, Abu-Salma R. **[Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World](https://discovery.ucl.ac.uk/id/eprint/10188933)**, Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), 16 May 2024.
+
+## In media
+This research has featured in BBC News, the BBC Radio 2 Women's Hour, and in Science News.
+
+BBC News - Period trackers 'coercing' women into sharing risky information - [Read article](https://www.bbc.co.uk/news/articles/cmj6j3d8xjjo)
+
+Science News - Privacy remains an issue with several women’s health apps - [Read article](https://www.sciencenews.org/article/privacy-womens-health-apps-tracking)

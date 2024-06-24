@@ -318,7 +318,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Marius Ilau" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/marius-ilau.jpeg" alt="Marius Ilau" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Marius Ilau</strong><br>
              Doctoral Researcher
         </p>

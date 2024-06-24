@@ -6,7 +6,7 @@ author_profile: true
 
 ## Academic Staff  
 
-<p class="profile"><img src="../images/madeline2.jpg" class="profilephoto" />
+<p class="profile"><img src="../images/madeline2.jpeg" class="profilephoto" />
 <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><strong>Madeline Carr</strong></a><br />
 Professor of Global Politics and Cyber Security</p>
 

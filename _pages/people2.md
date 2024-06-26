@@ -10,7 +10,7 @@ author_profile: true
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             gap: 20px;
-            justify-items: center;
+            justify-items: left;
         }
         .people {
             text-align: center;
@@ -100,7 +100,7 @@ function toggleVisibility(id) {
 </div>
 
 
-<div id="people" style="display: flex; flex-wrap: wrap; justify-content: left;">
+<div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Mohamed Abouhashem" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mohamed Abouhashem</strong><br>
@@ -170,9 +170,9 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://scholar.google.com/citations?user=oWT7fIYAAAAJ&hl=en/"><img src="../images/lorenzo.jpg" alt="Lorenzo Cavallaro" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://s2lab.cs.ucl.ac.uk/people/sullivan"><img src="../images/lorenzo.jpg" alt="Lorenzo Cavallaro" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Lorenzo Cavallaro</strong><br>
-        Professor of Systems Security</p>
+        Professor of Computer Science </p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/jacopo.jpg" alt="Jacopo Cortellazzi" style="width: 100%; border-radius: 10px;"></a>

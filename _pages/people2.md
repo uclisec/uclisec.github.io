@@ -107,29 +107,36 @@ function toggleVisibility(id) {
             Doctoral Researcher (Visitor)
         </p>
     </div> 
+        
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/val.jpg" alt="Valeria Minero Abreu" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Valeria Minero Abreu</strong><br>
         Senior Research Fellow</p>
     </div>
+    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://sharad1126.github.io/"><img src="../images/sharad.jpg" alt="Sharad Agarwal" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Sharad Agarwal</strong><br>
             Doctoral Researcher
         </p>
     </div> 
+    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://kylebeadle.com"><img src="../images/beadle.jpg" alt="Kyle Beadle" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Kyle Beadle</strong><br>
             Doctoral Resarcher
         </p>
     </div> 
+
+    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/daniel-blackwell.jpg" alt="Daniel Blackwell" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Daniel Blackwell</strong><br>
             Doctoral Researcher
         </p>
     </div> 
+
+    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/blancato.jpg" alt="Filippo Blancato" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Filippo Blancato</strong><br>

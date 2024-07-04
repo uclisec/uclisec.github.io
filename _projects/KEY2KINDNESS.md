@@ -10,7 +10,7 @@ date: 2021-04-02
 endDate: 2022-07-31
 ---
 
-The key2Kindness project is interested in understand proactive content moderation, and how this form of moderation can be emedded responsibly and effectively within different communication platforms. It takes a critical approach, working with stakeholders to understand the potential risks and unintended harms of these systems. Finally, through engagement with stakeholders, it will evaluate several proactive content moderation interaction design factors through an experimental design and qualitative user interviews.
+The key2Kindness project is interested in understanding proactive content moderation, and how this form of moderation can be embedded responsibly and effectively within different communication platforms. It takes a critical approach, working with stakeholders to understand the potential risks and unintended harms of these systems. Finally, through engagement with stakeholders, it will evaluate several proactive content moderation interaction design factors through an experimental design and qualitative user interviews.
 
 ## Main findings
 

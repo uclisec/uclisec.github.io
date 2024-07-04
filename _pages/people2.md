@@ -9,7 +9,7 @@ author_profile: true
         .people-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 20px;
+            gap: 30px;
             justify-items: left;
         }
         .people {
@@ -37,6 +37,7 @@ author_profile: true
                 max-width: 100px; /* Adjust the max-width for small screen view */
             }
         }
+        html { overflow-y: scroll; }
     </style>
 
 
@@ -100,7 +101,7 @@ function toggleVisibility(id) {
 </div>
 
 
-<div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div id="people" style="display: flex; flex-wrap: wrap; justify-content: left;">
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Mohamed Abouhashem" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mohamed Abouhashem</strong><br>

@@ -7,11 +7,11 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Federico.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 3 May 2024, 16:00  
-**Federico Barbero**  
-Understanding Long-Range Interactions in Message-Passing Graph Neural Networks and Transformers 
-[[Zoom](https://ucl.zoom.us/j/96046474356?pwd=ZnV0NFJpRHRHUmRoZmh2cHZNa0Fhdz09)]<details>**Abstract:** In this talk, I will discuss how Message-Passing Graph Neural Networks propagate information across a graph, relating the mechanism to heat equations and spectral graph theory. In particular, I will show how this inevitably leads to undesirable properties when it comes to modelling “long-range interactions” over a domain. More precisely, I will show how “over-smoothing” (latent signals becoming increasingly similar) arises due to the relationship between message-passing and heat equations, and how “over-squashing” (information being compressed in “bottlenecks”) relates to spectral quantities of the graph. I will then go over our recent ICML 2023 and ICLR 2024 works that aim to understand and improve on such issues. Finally, I will connect this direction of research to Transformers, a model that still remains the de facto standard when it comes to modelling long-range interactions over numerous domains.<br><br>**Bio**: Federico is a PhD student at the department of computer science of the University of Oxford, supervised by Michael Bronstein. He is currently a research intern at Google DeepMind working on algorithmic reasoning. Previously, he was a research intern at Microsoft Research working on protein folding with large scale geometric Transformers.<br></details> 
+<img src="../images/Lisa.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 10 October 2024, 16:00  
+**Lisa Chernenko**  
+Outgroup dehumanisation in Russian and Ukrainian Telegram – language representation and the role of ingroup identity 
+[[Zoom](https://ucl.zoom.us/j/96046474356?pwd=ZnV0NFJpRHRHUmRoZmh2cHZNa0Fhdz09)]<details>**Abstract:** TBA.<br><br>**Bio**: Lisa Chernenko is a DPhil candidate in Social Data Science at the Oxford Internet Institute. Her doctoral research is generously funded by the OII Shirley Scholarship and the Dieter Schwarz Foundation stipend. Lisa’s research explores strategies to counteract dehumanisation in online communication, specifically focusing on the phenomenon of re-humanisation. In the aftermath of Russia’s 2022 invasion of Ukraine, she examines linguistic facets of outgroup dehumanisation and mechanics of re-humanisation in relation to Ukrainians and Russians across digital platforms. In addition to her PhD project, Lisa works as an Associate Researcher and a Project Lead for the “Ukraine Case Studies” in the Portulans Institute focusing on information and communication operations with implications for the Russian war in Ukraine and long-term global practices and policies.<br></details> 
 <!----->  
 
 FAQs
@@ -32,6 +32,12 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 Past Events
 ---
 ### 2023  
+<!-----> 
+<img src="../images/Federico.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 3 May 2024, 16:00  
+**Federico Barbero**  
+Understanding Long-Range Interactions in Message-Passing Graph Neural Networks and Transformers 
+[[Zoom](https://ucl.zoom.us/j/96046474356?pwd=ZnV0NFJpRHRHUmRoZmh2cHZNa0Fhdz09)]<details>**Abstract:** In this talk, I will discuss how Message-Passing Graph Neural Networks propagate information across a graph, relating the mechanism to heat equations and spectral graph theory. In particular, I will show how this inevitably leads to undesirable properties when it comes to modelling “long-range interactions” over a domain. More precisely, I will show how “over-smoothing” (latent signals becoming increasingly similar) arises due to the relationship between message-passing and heat equations, and how “over-squashing” (information being compressed in “bottlenecks”) relates to spectral quantities of the graph. I will then go over our recent ICML 2023 and ICLR 2024 works that aim to understand and improve on such issues. Finally, I will connect this direction of research to Transformers, a model that still remains the de facto standard when it comes to modelling long-range interactions over numerous domains.<br><br>**Bio**: Federico is a PhD student at the department of computer science of the University of Oxford, supervised by Michael Bronstein. He is currently a research intern at Google DeepMind working on algorithmic reasoning. Previously, he was a research intern at Microsoft Research working on protein folding with large scale geometric Transformers.<br></details> 
 <!-----> 
 <img src="../images/Alberto.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 29 February 2024, 16:00  

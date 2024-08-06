@@ -112,7 +112,7 @@ Research Fellow</p>
 - Jennifer Dwyer-Joyce
 - [Alexandros Efstratiou](https://alefstrat.github.io/)
 - Aliai Eusebi
-- Stefanos Evripi
+- Stefanos Evripidou
 - [Georgi Ganev](https://ganevgv.github.io/)
 - [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visitor
 - Niamh Healy

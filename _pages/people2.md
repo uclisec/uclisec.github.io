@@ -302,7 +302,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Alireza Kavousi" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/Alireza.jpg" alt="Alireza Kavousi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Alireza Kavousi</strong><br>
              Doctoral Researcher
         </p>
@@ -353,7 +353,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="FReza Moqadasi" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/Reza.jpg" alt="FReza Moqadasi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Reza Moqadasi</strong><br>
              Doctoral Researcher
         </p>
@@ -370,7 +370,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Lilly Neubauer" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/Lilly.jpg" alt="Lilly Neubauer" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Lilly Neubauer</strong><br>
              Doctoral Researcher
         </p>
@@ -445,7 +445,7 @@ function toggleVisibility(id) {
         Professor of Human-Centred Technology (PT), and Professor at Ruhr-University Bochum</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="http://www.maria-a-schett.net/"><img src="../images/holding.png" alt="Maria Schett" style="width: 100%; border-radius: 10px;"></a>
+        <a href="http://www.maria-a-schett.net/"><img src="../images/Maria.jpg" alt="Maria Schett" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Maria Schett</strong><br>
              Doctoral Researcher
         </p>

@@ -246,7 +246,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people administrative" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="mailto:i.gressel@ucl.ac.uk"><img src="../images/holding.png" alt="Isabelle Gressel" style="width: 100%; border-radius: 10px;"></a>
+        <a href="mailto:i.gressel@ucl.ac.uk"><img src="../images/Isabelle.jpg" alt="Isabelle Gressel" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Isabelle Gressel</strong><br>
         UCL InfoSec Gender & Tech Lab Research Administrator</p>
     </div>
@@ -364,7 +364,7 @@ function toggleVisibility(id) {
         Professor of Security Engineering, Head of Group, and Royal Society University Research Fellow</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://mohammadnaseri.github.io/"><img src="../images/holding.png" alt="Mohammad Naseri" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://mohammadnaseri.github.io/"><img src="../images/Mohammad.jpg" alt="Mohammad Naseri" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mohammad Naseri</strong><br>
              Doctoral Researcher
         </p>

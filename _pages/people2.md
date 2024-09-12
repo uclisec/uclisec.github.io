@@ -185,9 +185,9 @@ function toggleVisibility(id) {
         <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><img src="../images/george.jpg" alt="George Danezis" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>George Danezis</strong><br>
         Professor of Security and Privacy Engineering (PT) and Chief Scientist at Mysten Labs</p>
-    </div>
+    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Ahana Datta" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/Ahana.jpg" alt="Ahana Datta" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Ahana Datta</strong><br>
              Doctoral Researcher
         </p>

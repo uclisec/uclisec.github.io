@@ -10,6 +10,7 @@ funder: ESRC
 partners: 
 - Metropolitan Police Service
 - Nottinghamshire Police Service
+- West Midlands Police Service
 - College of Policing
 - Forensic Capability Network
 date: 2024-03-01
@@ -22,7 +23,7 @@ This project aims to lay the foundations for the development of a smart digital 
 
 ## Main findings
 
-Current findings suggest different forms of digital evidence triage are occuring at different stages of an investigation, including search and seizure planning, at scene search, and post search. Our research will look to explore triage at these different points. 
+Current findings suggest different forms of digital evidence triage are occuring at different stages of an investigation, including search and seizure planning, at scene search, and post search. Our research will explore triage at these different points.
 
 ## Reports
 

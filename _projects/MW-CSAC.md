@@ -2,7 +2,10 @@
 title: "Development of a child sexual abuse conversation (CSAC) dataset"
 excerpt: "This project will lead to advances in our understanding of how perpetrators of child sexual grooming engage online with young people through computer-mediated communication tools and platforms (e.g., Facebook, WhatsApp)."
 authors:
-- Mark Warner
+- Mark Warner (University College London)
+- Philip Anderson (Nothumbria University)
+- Wai Lok Woo (Nothumbria University)
+- Garry Elvin (Nothumbria University)
 funder: EPSRC sub-award (REPHRAIN)
 themes:
 - safety

@@ -6,6 +6,9 @@ authors:
 - Lisa Malki (University College London)
 - Dilisha Patel (University College London)
 - Mark Warner (University College London)
+- Ruba Abu-Salma (Kings College London)
+- Majid Hatamian (Google)
+- Ina Kaleva (Kings College London)
 funder: Google Gift
 date: 2023-02-01
 endDate: 2025-01-31

@@ -2,7 +2,12 @@
 title: "Key2Kindness: A cross-platform proactive content moderation system"
 excerpt: "Key2Kindness is an interdisciplinary project exploring the role of proactive content moderation systems to reduce instances of online harassment across both privacy and public online social platforms."
 authors:
-- Mark Warner
+- Mark Warner (UCL)
+- Angelika Strohmayer (Northumbria University)
+- Lynne Coventry (Abertay University)
+- Matthew Higgs (Independent)
+- Husnain Rafiq (Edge Hill University)
+- Liying Yang (Northumbria University)
 funder: EPSRC Sub-award (REPHRAIN)
 themes:
 - safety

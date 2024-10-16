@@ -3,9 +3,13 @@ title: "Towards A Smart Digital Forensic Advisor To Support First Responders Wit
 excerpt: "This project is investigating existing practices, resources, challenges, and user needs around the process of search and seizure of digital devices across two distinct crime types."
 
 authors:
-- Val Abreu
-- Catherine O'Brien
-- Mark Warner
+- Val Abreu (UCL)
+- Catherine O'Brien (UCL)
+- Mark Warner (UCL)
+- Maria Maclennan (University of Edinburgh)
+- Niamh Nic Daéid (University of Dundee)
+- Oriola Sallavaci (University of Essex)
+- Sarah Morris (University of Southampton)
 funder: ESRC
 partners: 
 - Metropolitan Police Service
@@ -14,7 +18,7 @@ partners:
 - College of Policing
 - Forensic Capability Network
 date: 2024-03-01
-endDate: 2025-04-31
+endDate: 2025-11-28
 theme:
 - forensics
 ---

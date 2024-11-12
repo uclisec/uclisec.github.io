@@ -41,7 +41,7 @@ Professor of Cryptography and Security<br>
 
 <p class="profile"><img src="../images/fabio.jpg" class="profilephoto" />
 <a href="https://fabio.pierazzi.com/"><strong>Fabio Pierazzi</strong></a><br />
-Associate Professor <br>
+Associate Professor <br></p>
 
 <p class="profile"><img src="../images/david.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />

@@ -39,7 +39,7 @@ Associate Professor in Information Security<br>
 Professor of Cryptography and Security<br>
 <em>Part-time, also Staff Research Scientist at Google UK</em></p>
 
-<p class="profile"><img src="../images/Fabio.jpg" class="profilephoto" />
+<p class="profile"><img src="../images/fabio.jpg" class="profilephoto" />
 <a href="https://fabio.pierazzi.com/"><strong>Fabio Pierazzi</strong></a><br />
 Associate Professor <br>
 

@@ -39,6 +39,10 @@ Associate Professor in Information Security<br>
 Professor of Cryptography and Security<br>
 <em>Part-time, also Staff Research Scientist at Google UK</em></p>
 
+<p class="profile"><img src="../images/Fabio.jpg" class="profilephoto" />
+<a href="https://fabio.pierazzi.com/"><strong>Fabio Pierazzi</strong></a><br />
+Associate Professor <br>
+
 <p class="profile"><img src="../images/david.jpg" class="profilephoto" />
 <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><strong>David Pym</strong></a><br />
 Professor of Information, Logic, and Security</p>

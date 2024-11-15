@@ -7,7 +7,7 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Wenke.jpeg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Wenke.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 November 2024, 10:00  
 **Prof. Wenke Lee (GATech)**  
 Privacy and Reliability Issues of AI Systems 

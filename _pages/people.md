@@ -27,11 +27,11 @@ Professor of Security and Privacy Engineering<br>
 
 <p class="profile"><img src="../images/Arthur.jpg" class="profilephoto" />
 <a href="https://arthurgervais.com/"><strong>Arthur Gervais</strong></a><br />
-Associate Professor</p>
+Professor</p>
 
 <p class="profile"><img src="../images/philipp.jpg" class="profilephoto" />
 <a href="https://philipp.jovanovic.io/"><strong>Philipp Jovanovic</strong></a><br />
-Associate Professor in Information Security<br>
+Professor in Information Security<br>
 <em>MSc Information Security Programme Director</em></p>
 
 <p class="profile"><img src="../images/sarah.jpg" class="profilephoto" />
@@ -101,14 +101,13 @@ Research Fellow</p>
 
 ## Doctoral Researchers
 
-- [Mohamed Abouhashem](https://s2lab.cs.ucl.ac.uk), Visitor
 - [Sharad Agarwal](https://sharad1126.github.io/)
 - Daniel Blackwell
 - Filippo Blancato
 - Sergi Bray
 - Gerard Buckley
 - Thomas Cattermole
-- [Jacopo Cortellazzi](https://s2lab.cs.ucl.ac.uk), Visitor
+- Theo Hoifung Chow, Visitor
 - Ahana Datta
 - [Killian Davitt](https://killiandavitt.me)
 - Kyriacos Demetriou
@@ -119,16 +118,18 @@ Research Fellow</p>
 - Stefanos Evripidou
 - [Georgi Ganev](https://ganevgv.github.io/)
 - [Jason Gray](https://s2lab.cs.ucl.ac.uk), Visitor
+- Xin Fan Guo, Visitor
 - Niamh Healy
 - [Alexander Hicks](https://alexanderlhicks.com/)
 - Hawra Hosseini-Milani
 - Marius Ilau
 - [Marios Isaakidis](http://www0.cs.ucl.ac.uk/staff/M.Isaakidis)
-- [Zeliang "Mark" Kan](https://s2lab.cs.ucl.ac.uk), Visitor
+- [Zeliang "Marcus" Kan](https://s2lab.cs.ucl.ac.uk), Visitor
 - George Kappos
 - Alireza Kavousi
 - Emmanouil Koulas
 - [Demelza Luna Reaver](https://twitter.com/demelza_r)
+- Shae McFadden, Visitor
 - Chizzy Meka
 - Nadine Michaelides
 - Reza Moqadasi

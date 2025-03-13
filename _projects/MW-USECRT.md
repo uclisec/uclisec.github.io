@@ -10,7 +10,7 @@ authors:
 funder: EPSRC Sub-award (REPHRAIN)
 themes:
 - safety
-date: 2021-04-02
+date: 2024-04-02
 endDate: 2025-07-31
 ---
 
@@ -26,7 +26,7 @@ Our work has currently been focused on the analysis of platform governance relat
 - Platforms recognise a variety of harms across their platforms (see Table below)
 - Platforms charecterise harms based on the nature of the harm (e.g., behaviour, threat, promotion), their repetitative nature, and the target of the harm (e.g., individuals, groups, children, and those with protected characteristics).
 - We find platforms balancing platform and user responsibility, often encouraging users to remain on the platform for as long as possible to allow the platforms to provide users with protective mechanisms.
-- There are tentions in the advice being given by platforms related to safety. For example, some platforms prohibit and/or technically restrict taking screenshots, whilst also providing safety advice that involves the taking of screenshots. 
+- There are tensions in the advice being given by platforms related to safety. For example, some platforms prohibit and/or technically restrict taking screenshots, whilst also providing safety advice that involves the taking of screenshots. 
 - There are geographic differences in user access to external safety tools and resources, with many catering only to the US or Canada. Additionally, tailored protections vary by group.
 
 <img src="/images/UseCRT_Table.png" alt="Table showing harms across five online dating applications" style="width: 100u%; border-radius: 10px;">

@@ -531,7 +531,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/andreas.jpg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
+        <a href=""><img src="../images/andreas.jpeg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Andreas Gutmann</strong><br>
              Honorary Lecturer
         </p>

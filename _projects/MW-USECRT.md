@@ -11,7 +11,7 @@ funder: EPSRC Sub-award (REPHRAIN)
 themes:
 - safety
 date: 2021-04-02
-endDate: 2022-07-31
+endDate: 2025-07-31
 ---
 
 UseCRT project will evaluate the user experience and usability of user content reporting tools in the most popular social media platforms and their user-to-user messaging services; investigated within the context of online harassment as defined by the platforms themselves. This will be achieved through the analysis of platform-specific behaviour policies, UI inspection of reporting tools, and a user-study to understand people’s mental models as they interact with these reporting tools. It aims to improve the user experience of reporting tools to help minimise online harms from sharing within online social platforms. To address this aim, we will:

@@ -237,7 +237,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://arthurgervais.com/"><img src="../images/Arthur.jpg" alt="Arthur Gervais" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Arthur Gervais</strong><br>
-        Associate Professor of Information Security</p>
+        Professor of Information Security</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Jason Gray" style="width: 100%; border-radius: 10px;"></a>
@@ -287,7 +287,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://philipp.jovanovic.io/"><img src="../images/philipp.png" alt="Philipp Jovanovic" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Philipp Jovanovic</strong><br>
-        Associate Professor of Information Security and MSc Information Securty Programme Director</p>
+        Professor of Information Security and MSc Information Securty Programme Director</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="ttps://s2lab.cs.ucl.ac.uk"><img src="../images/zeliang-mark-kan.jpg" alt="Zeliang Mark Kan" style="width: 100%; border-radius: 10px;"></a>
@@ -522,6 +522,27 @@ function toggleVisibility(id) {
         <a href=""><img src="../images/holding.png" alt="Matthew Wixley" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Matthew Wixley</strong><br>
              Doctoral Researcher
+        </p>
+    </div> 
+</div>
+    <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Fabio Pierazzi</strong><br>
+             Associate Professor 
+        </p>
+    </div> 
+</div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/andreas.jpg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Andreas Gutmann</strong><br>
+             Honorary Lecturer
+        </p>
+    </div> 
+</div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/majid.jpeg" alt="Majid Hatamian" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Majid Hatamian</strong><br>
+             Honorary Senior Researcher Fellow
         </p>
     </div> 
 </div>

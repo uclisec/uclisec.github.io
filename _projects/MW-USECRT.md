@@ -29,7 +29,75 @@ Our work has currently been focused on the analysis of platform governance relat
 - There are tentions in the advice being given by platforms related to safety. For example, some platforms prohibit and/or technically restrict taking screenshots, whilst also providing safety advice that involves the taking of screenshots. 
 - There are geographic differences in user access to external safety tools and resources, with many catering only to the US or Canada. Additionally, tailored protections vary by group.
 
-<img src="../images/UseCRT_Table.png" alt="Table showing harms across five online dating applications" style="width: 100%; border-radius: 10px;">
+
+<table>
+    <thead>
+        <tr>
+            <th>Platform</th>
+            <th>Abuse</th>
+            <th>(Sexual) assault</th>
+            <th>Blackmail</th>
+            <th>Body shaming</th>
+            <th>Bullying</th>
+            <th>Child abuse</th>
+            <th>Derogatory</th>
+            <th>Doxxing</th>
+            <th>False reporting</th>
+            <th>(Sexual) harassment</th>
+            <th>Hate speech</th>
+            <th>Identity-based attacks</th>
+            <th>Illegal goods/services</th>
+            <th>Inauthenticity</th>
+            <th>Insult</th>
+            <th>Intimidation</th>
+            <th>Offensive</th>
+            <th>Libellous</th>
+            <th>Manipulation</th>
+            <th>Misinformation</th>
+            <th>Scam/theft</th>
+            <th>Self-harm</th>
+            <th>Stalking</th>
+            <th>Violence/extremism</th>
+            <th>Vulgarism</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Badoo</td>
+            <td>FI</td><td>I</td><td>I</td><td>I</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>I</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td>
+            <td>I</td><td>FI</td><td>I</td><td>I</td><td>FI</td><td>I</td>
+        </tr>
+        <tr>
+            <td>Bumble</td>
+            <td>FI</td><td>I</td><td>I</td><td>I</td><td>I</td><td>FI</td><td>I</td><td>FI</td><td>FI</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>FI</td>
+            <td>I</td><td>FI</td><td>I</td><td>I</td><td>FI</td><td>I</td>
+        </tr>
+        <tr>
+            <td>Grindr</td>
+            <td>FI</td><td>I</td><td>I</td><td>FI</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>I</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>F</td>
+            <td>I</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>F</td>
+        </tr>
+        <tr>
+            <td>Hinge</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>I</td><td>F</td><td>I</td><td>FI</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>FI</td><td>FI</td><td>FI</td><td>FI</td>
+            <td>FI</td><td>FI</td><td>FI</td><td>FI</td><td>FI</td><td>FI</td>
+        </tr>
+        <tr>
+            <td>Tinder</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>I</td><td>F</td><td>I</td><td>FI</td>
+            <td>FI</td><td>FI</td><td>I</td><td>FI</td><td>FI</td><td>I</td><td>FI</td><td>F</td><td>I</td>
+            <td>FI</td><td>FI</td><td>F</td><td>FI</td><td>FI</td><td>FI</td>
+        </tr>
+    </tbody>
+</table>
+
+<p><strong>Table 1:</strong> Harms recognised and prohibited within platforms, across formal (F) and informal (I) documents.</p>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jgQZvmcCvyk?si=9E9WvjiPBRRCX7LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

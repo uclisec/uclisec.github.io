@@ -524,21 +524,18 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-</div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Fabio Pierazzi</strong><br>
              Associate Professor 
         </p>
     </div> 
-</div>
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/andreas.jpg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Andreas Gutmann</strong><br>
              Honorary Lecturer
         </p>
     </div> 
-</div>
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/majid.jpeg" alt="Majid Hatamian" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Majid Hatamian</strong><br>

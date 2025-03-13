@@ -29,7 +29,7 @@ Our work has currently been focused on the analysis of platform governance relat
 - There are tentions in the advice being given by platforms related to safety. For example, some platforms prohibit and/or technically restrict taking screenshots, whilst also providing safety advice that involves the taking of screenshots. 
 - There are geographic differences in user access to external safety tools and resources, with many catering only to the US or Canada. Additionally, tailored protections vary by group.
 
-<img src="../images/UseCRT_Table.png" alt="Table showing harms across five online dating applications" style="width: 500%; border-radius: 10px;">
+<img src="../images/UseCRT_Table.png" alt="Table showing harms across five online dating applications" style="width: 100%; border-radius: 10px;">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jgQZvmcCvyk?si=9E9WvjiPBRRCX7LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

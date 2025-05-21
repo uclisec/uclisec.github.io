@@ -7,11 +7,11 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Kyle.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 20 February 2025, 16:00  
-**Kyle Beadle**  
-Downvoted to Oblivion: Censorship in Online, LGBTQ+ Communities 
-[[Zoom](https://ucl.zoom.us/j/98722182089?pwd=f5ZESAGDgabBnlFxMqTbnMNhpHTGBA.1)]<details> **Abstract:** Online communities enable surveillance among LGBTQ+ users despite being used as safe spaces where users can explore their identity free from most online harms.  Coercion, doxxing, and public outing are all examples of privacy violations faced. These are experienced when users fail to conform to fellow community members’ expected language and expressions of gender identity and sexuality. Current moderation systems fail to capture this peer surveillance because of the complexity of language and unspoken rules involved. This talk will explore how surveillance is enabled as well as its effects on the censorship of gender identity/expression in online LGBTQ+ communities. Paper Link: https://discovery.ucl.ac.uk/id/eprint/10200690/.<br><br>**Bio**: Kyle Beadle is a PhD Candidate in UCL’s Centre for Doctoral Training (CDT) in Cybersecurity, supervised by Dr Leonie Tanczer, Dr Mark Warner, and Dr Marie Vasek. His research focuses on privacy, security, and human-computer interaction. He works specifically on understanding the social dynamics of coercive influence on online social platforms and developing tools to enable marginalised/vulnerable populations such as LGBTQIA+ communities to protect themselves from such privacy-violating behaviours.<br></details> 
+<img src="../images/Ruba.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 19 June 2025, 16:00  
+**Dr Ruba Abu-Salma**  
+Title: TBC 
+[[Zoom](https://ucl.zoom.us/)]<details> **Abstract:** TBC.<br><br>**Bio**: Ruba Abu-Salma is a Lecturer (Assistant Professor) in Computer Science at King’s College London. Ruba is affiliated with the Cybersecurity Group in the Department of Informatics. Her research is interdisciplinary. She works at the intersection of cybersecurity, privacy, human-computer interaction (HCI), and privacy law. She uses computational and social science methods to explore and develop more equitable and trustworthy tools that improve people’s security, privacy, and online safety decision-making processes. Her work has been published at top-tier venues and has been covered by the popular press (The New York Times, The Register, and CNET). Ruba Abu-Salma | King's College London.<br></details> 
 <!----->  
 
 FAQs
@@ -31,8 +31,15 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 
 Past Events
 ---
-### 2023  
+### 2025  
 <!-----> 
+<img src="../images/Kyle.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+- 20 February 2025, 16:00  
+**Kyle Beadle**  
+Downvoted to Oblivion: Censorship in Online, LGBTQ+ Communities 
+[[Zoom](https://ucl.zoom.us/j/98722182089?pwd=f5ZESAGDgabBnlFxMqTbnMNhpHTGBA.1)]<details> **Abstract:** Online communities enable surveillance among LGBTQ+ users despite being used as safe spaces where users can explore their identity free from most online harms.  Coercion, doxxing, and public outing are all examples of privacy violations faced. These are experienced when users fail to conform to fellow community members’ expected language and expressions of gender identity and sexuality. Current moderation systems fail to capture this peer surveillance because of the complexity of language and unspoken rules involved. This talk will explore how surveillance is enabled as well as its effects on the censorship of gender identity/expression in online LGBTQ+ communities. Paper Link: https://discovery.ucl.ac.uk/id/eprint/10200690/.<br><br>**Bio**: Kyle Beadle is a PhD Candidate in UCL’s Centre for Doctoral Training (CDT) in Cybersecurity, supervised by Dr Leonie Tanczer, Dr Mark Warner, and Dr Marie Vasek. His research focuses on privacy, security, and human-computer interaction. He works specifically on understanding the social dynamics of coercive influence on online social platforms and developing tools to enable marginalised/vulnerable populations such as LGBTQIA+ communities to protect themselves from such privacy-violating behaviours.<br></details>  
+<!----->
+### 2024
 <img src="../images/Wenke.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 November 2024, 10:00  
 **Prof. Wenke Lee (GATech)**  
@@ -78,6 +85,8 @@ Title: What I see is all that’s real: The dynamics of polarization and misinfo
 Title: Computer-Mediated Consent as a Lens to Study and Design for Mitigation of Interpersonal Harm 
 [[Zoom](https://ucl.zoom.us/j/95059705996?pwd=WVQ0alByNGZKeVlrNjEyblMwdyszUT09)] [[Live Stream](https://https://www.youtube.com/live/WzDMrzu_2DY?si=e5rLAMWx8Iwkgnuw)]<details>**Abstract:** The absence of consent - or voluntary agreement - is the defining characteristic of interpersonal harms that occur both online and in-person. While various technological solutions to harm have been devised, there is a conspicuous absence of technologies that mediate consent practices themselves: the ways in which people give, receive, and deny agreement to behavior. This is a significant gap because research shows that harms such as sexual violence are often perpetrated unintentionally due to misperceptions of consent, such as overreliance on nonverbal cues and one’s ability to “sense” what behavior is acceptable. In this talk I first present research into how dating apps currently - and inadvertently - mediate consent to sexual activity as a lens to understand how and why computer-mediated sexual violence occurs. I will then delve into ongoing research into the design of new technologies that deliberately mediate consent exchange to mitigate unintentional harm.<br><br>**Bio**: Dr. Douglas Zytko is an Associate Professor in the College of Innovation & Technology at the University of Michigan-Flint, where he also directs the PhD program in Computing. His research uses consent as a lens to study and design technologies for computer-mediated sexual violence mitigation and ethical collection and processing of personal data for AI model training. Dr. Zytko’s research into computer-mediated consent has won multiple research awards, including Best Paper, Best Paper Honorable Mention, and Impact Recognition at CSCW. His research has been funded by the National Science Foundation, United States Department of Defense, and industry partners.<br></details> 
 <!----->  
+### 2023  
+<!-----> 
 <img src="../images/Marco.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 7 December 2023, 16:00  
 **Marco Gutfleisch, Ruhr University Bochum**  

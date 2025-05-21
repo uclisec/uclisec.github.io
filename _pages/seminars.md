@@ -11,7 +11,7 @@ Upcoming events
 - 19 June 2025, 16:00  
 **Dr Ruba Abu-Salma**  
 Title: TBC 
-[[Zoom](https://ucl.zoom.us/)]<details> **Abstract:** TBC.<br><br>**Bio**: Ruba Abu-Salma is a Lecturer (Assistant Professor) in Computer Science at King’s College London. Ruba is affiliated with the Cybersecurity Group in the Department of Informatics. Her research is interdisciplinary. She works at the intersection of cybersecurity, privacy, human-computer interaction (HCI), and privacy law. She uses computational and social science methods to explore and develop more equitable and trustworthy tools that improve people’s security, privacy, and online safety decision-making processes. Her work has been published at top-tier venues and has been covered by the popular press (The New York Times, The Register, and CNET). Ruba Abu-Salma | King's College London.<br></details> 
+[[Zoom](https://ucl.zoom.us/)]<details> **Abstract:** TBC.<br><br>**Bio**: Ruba Abu-Salma is a Lecturer (Assistant Professor) in Computer Science at King’s College London. Ruba is affiliated with the Cybersecurity Group in the Department of Informatics. Her research is interdisciplinary. She works at the intersection of cybersecurity, privacy, human-computer interaction (HCI), and privacy law. She uses computational and social science methods to explore and develop more equitable and trustworthy tools that improve people’s security, privacy, and online safety decision-making processes. Her work has been published at top-tier venues and has been covered by the popular press (The New York Times, The Register, and CNET).<br></details> 
 <!----->  
 
 FAQs

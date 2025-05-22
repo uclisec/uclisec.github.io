@@ -6,7 +6,7 @@ main:
   - title: "Activities"
     url: /activities/
 
-   - title: "Projects"
+  - title: "Projects"
     url: /projects/
 
   - title: "Publications"

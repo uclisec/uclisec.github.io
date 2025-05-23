@@ -14,7 +14,7 @@ The Information Security Research Group was set up in 2006, as a constituent par
 
 We maintain an active blog on topics related to our work. Find it [here](https://www.benthamsgaze.org/).
 
-## Recent posts on Bentham's Gaze
+**Recent posts on Bentham's Gaze**
 
 <div id="feed"></div>
 

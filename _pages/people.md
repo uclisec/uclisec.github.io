@@ -421,6 +421,11 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
+    <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://nuuralifahroslan.com"><img src="../images/alifa.jpeg" alt="Nurr Alifah Roslan (Alifa)" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Nuur Alifah Roslan (Alifa)</strong><br>
+        Visiting Research Fellow</p>
+    </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://uclisec.github.io/people/m_angela_sasse/"><img src="../images/angela.jpg" alt="M. Angela Sasse" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>M. Angela Sasse</strong><br>

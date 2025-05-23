@@ -109,7 +109,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/val.jpg" alt="Valeria Minero Abreu" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://profiles.ucl.ac.uk/99243-valeria-abreu-minero"><img src="../images/val.jpg" alt="Valeria Minero Abreu" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Valeria Minero Abreu</strong><br>
         Senior Research Fellow</p>
     </div>
@@ -148,14 +148,8 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/gerard-buckley.jpg" alt="Gerard Buckley" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Gerard Buckley</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr"><img src="../images/madeline2.jpeg" alt="Madeline Carr" style="width: 100%; border-radius: 10px;"></a><br>
+        <a href="https://profiles.ucl.ac.uk/64074-madeline-carr"><img src="../images/madeline2.jpeg" alt="Madeline Carr" style="width: 100%; border-radius: 10px;"></a><br>
         <p><strong>Madeline Carr</strong><br>
         Professor of Global Politics and Cyber Security</p>
     </div>
@@ -211,20 +205,8 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://alefstrat.github.io/"><img src="../images/efstratiou.png" alt="Alexandros Efstratiou" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Alexandros Efstratiou</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/eusebi.jpg" alt="Aliai Eusebi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Aliai Eusebi</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/evripidou.jpg" alt="Stefanos Evripi" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Stefanos Evripi</strong><br>
              Doctoral Researcher
         </p>
     </div> 
@@ -369,12 +351,6 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/Lilly.jpg" alt="Lilly Neubauer" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Lilly Neubauer</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://profiles.ucl.ac.uk/99051-catherine-o%27brien"><img src="../images/cathy.jpg" alt="Catherine O'Brien" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Catherine O'Brien</strong><br>
@@ -389,12 +365,6 @@ function toggleVisibility(id) {
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/kart-padur.jpg" alt="Kärt Padur" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Kärt Padur</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://antonispapasavva.github.io/"><img src="../images/antonis-papasavva.jpg" alt="Antonis Papasavva" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Antonis Papasavva</strong><br>
              Doctoral Researcher
         </p>
     </div> 
@@ -433,12 +403,6 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://mariascrs.github.io/"><img src="../images/maria-santos.jpg" alt="Maria Santos" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Maria Santos</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://uclisec.github.io/people/m_angela_sasse/"><img src="../images/angela.jpg" alt="M. Angela Sasse" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>M. Angela Sasse</strong><br>
@@ -450,23 +414,11 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://laurenscott.dev"><img src="../images/lauren-scott.jpg" alt="Lauren Scott" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Lauren Scott</strong><br>
-             Doctoral Researcher (Visiting)
-        </p>
-    </div> 
     <div class="people administrative" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="mailto:silpa.shah@ucl.ac.uk"><img src="../images/holding.png" alt="Silpa Shah" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Silpa Shah</strong><br>
         UCL InfoSec Centre Administrator</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/henry-skeotch.jpg" alt="Henry Skeoch" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Henry Skeoch</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/holding.png" alt="Karolina Skrivankova" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Karolina Skrivankova</strong><br>
@@ -525,7 +477,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://profiles.ucl.ac.uk/100070-fabio-pierazzi"><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Fabio Pierazzi</strong><br>
              Associate Professor 
         </p>
@@ -571,4 +523,52 @@ function toggleVisibility(id) {
         <p><strong></strong><br>
         </p>
     </div>
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/henry-skeotch.jpg" alt="Henry Skeoch" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Henry Skeoch</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://laurenscott.dev"><img src="../images/lauren-scott.jpg" alt="Lauren Scott" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Lauren Scott</strong><br>
+             Doctoral Researcher (Visiting)
+        </p>
+    </div> 
+        <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://mariascrs.github.io/"><img src="../images/maria-santos.jpg" alt="Maria Santos" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Maria Santos</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+        <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/Lilly.jpg" alt="Lilly Neubauer" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Lilly Neubauer</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+        <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/evripidou.jpg" alt="Stefanos Evripi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Stefanos Evripi</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+        <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://antonispapasavva.github.io/"><img src="../images/antonis-papasavva.jpg" alt="Antonis Papasavva" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Antonis Papasavva</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+        <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://alefstrat.github.io/"><img src="../images/efstratiou.png" alt="Alexandros Efstratiou" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Alexandros Efstratiou</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
+     <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/gerard-buckley.jpg" alt="Gerard Buckley" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Gerard Buckley</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
 </div>

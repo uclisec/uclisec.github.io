@@ -421,7 +421,7 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://nuuralifahroslan.com"><img src="../images/alifa.jpeg" alt="Nurr Alifah Roslan (Alifa)" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Nuur Alifah Roslan (Alifah)</strong><br>
         Visiting Research Fellow</p>

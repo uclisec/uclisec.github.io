@@ -507,7 +507,7 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://alexanderlhicks.com/"><img src="../images/holding.png" alt="Alexander Hicks" style="width: 100%; border-radius: 10px;"></a>
+        <a href="https://alexanderlhicks.com/"><img src="../images/alh-profile.jpeg" alt="Alexander Hicks" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Alexander Hicks</strong><br>
              Doctoral Researcher
         </p>

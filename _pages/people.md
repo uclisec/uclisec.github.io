@@ -237,6 +237,18 @@ function toggleVisibility(id) {
         <p><strong>Jens Groth</strong><br>
         Honorary</p>
     </div>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/andreas.jpeg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Andreas Gutmann</strong><br>
+             Honorary Lecturer
+        </p>
+    </div> 
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/majid.jpeg" alt="Majid Hatamian" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Majid Hatamian</strong><br>
+             Honorary Senior Researcher Fellow
+        </p>
+    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/niamh-healy.jpg" alt="Niamh Healy" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Niamh Healy</strong><br>
@@ -387,6 +399,12 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://profiles.ucl.ac.uk/100070-fabio-pierazzi"><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Fabio Pierazzi</strong><br>
+             Associate Professor 
+        </p>
+    </div> 
+    <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><img src="../images/david.jpg" alt="David Pym" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>David Pym</strong><br>
         Professor of Information, Logic, and Security</p>
@@ -474,24 +492,6 @@ function toggleVisibility(id) {
         <a href=""><img src="../images/holding.png" alt="Matthew Wixley" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Matthew Wixley</strong><br>
              Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://profiles.ucl.ac.uk/100070-fabio-pierazzi"><img src="../images/fabio.jpg" alt="Fabio Pierazzi" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Fabio Pierazzi</strong><br>
-             Associate Professor 
-        </p>
-    </div> 
-    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/andreas.jpeg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Andreas Gutmann</strong><br>
-             Honorary Lecturer
-        </p>
-    </div> 
-    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/majid.jpeg" alt="Majid Hatamian" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Majid Hatamian</strong><br>
-             Honorary Senior Researcher Fellow
         </p>
     </div> 
 </div>

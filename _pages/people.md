@@ -423,7 +423,7 @@ function toggleVisibility(id) {
     </div> 
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://nuuralifahroslan.com"><img src="../images/alifa.jpeg" alt="Nurr Alifah Roslan (Alifa)" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Nuur Alifah Roslan (Alifa)</strong><br>
+        <p><strong>Nuur Alifah Roslan (Alifah)</strong><br>
         Visiting Research Fellow</p>
     </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">

@@ -1,5 +1,5 @@
 ---
-title: "InfoSec Research Group Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---

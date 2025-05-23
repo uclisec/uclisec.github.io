@@ -14,32 +14,6 @@ The Information Security Research Group was set up in 2006, as a constituent par
 
 We maintain an active blog on topics related to our work. Find it [here](https://www.benthamsgaze.org/).
 
-## Who are we?
-Our group has about 50 members, including faculty, research staff, and doctoral researchers. Please visit the [people](/people) page for an up-to-date list of our members.
-
-## Research Themes
-Some of the key research themes addressed by the group include, but are not limited to:
-
-- Anonymity
-- Authentication
-- Blockchain and Cryptocurrencies
-- Computer Security
-- Cryptanalysis
-- Cryptography
-- Cybercrime
-- Cybersafety
-- Financial Cryptography
-- Human Aspects of Security
-- Malware
-- Network Security
-- Online Harms
-- Privacy-Enhancing Technologies
-- Reliability and Dependability
-- Security and Privacy Measurements
-- Systems Security
-- Trust
-- Usable Security
-
 ## Recent posts on Bentham's Gaze
 
 <div id="feed"></div>
@@ -70,3 +44,29 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
   })
 })
 </script>
+
+## Who are we?
+Our group has about 50 members, including faculty, research staff, and doctoral researchers. Please visit the [people](/people) page for an up-to-date list of our members.
+
+## Research Themes
+Some of the key research themes addressed by the group include, but are not limited to:
+
+- Anonymity
+- Authentication
+- Blockchain and Cryptocurrencies
+- Computer Security
+- Cryptanalysis
+- Cryptography
+- Cybercrime
+- Cybersafety
+- Financial Cryptography
+- Human Aspects of Security
+- Malware
+- Network Security
+- Online Harms
+- Privacy-Enhancing Technologies
+- Reliability and Dependability
+- Security and Privacy Measurements
+- Systems Security
+- Trust
+- Usable Security

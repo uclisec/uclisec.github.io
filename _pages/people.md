@@ -404,6 +404,11 @@ function toggleVisibility(id) {
              Associate Professor 
         </p>
     </div> 
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://profiles.ucl.ac.uk/98247-akhil-polamarasetty"><img src="../images/akhil.jpg" alt="Akhil Polamarasetty" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Akhil Polamarasetty</strong><br>
+        Doctoral Researcher</p>
+    </div>
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><img src="../images/david.jpg" alt="David Pym" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>David Pym</strong><br>

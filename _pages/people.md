@@ -256,12 +256,6 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Hawra Hosseini-Milani" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Hawra Hosseini-Milani</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/marius-ilau.jpeg" alt="Marius Ilau" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Marius Ilau</strong><br>
              Doctoral Researcher

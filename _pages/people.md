@@ -512,11 +512,6 @@ function toggleVisibility(id) {
         </p>
     </div> 
     <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="" alt="" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong></strong><br>
-        </p>
-    </div>
-    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/henry-skeotch.jpg" alt="Henry Skeoch" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Henry Skeoch</strong><br>
              Doctoral Researcher

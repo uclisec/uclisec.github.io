@@ -462,7 +462,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://mvasek.com/"><img src="../images/marie.jpg" alt="Marie Vasek" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Marie Vasek</strong><br>
-        Associate Professor of Information Security</p>
+        Lecturer of Information Security</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://antoinevendeville.github.io/"><img src="../images/andoine-vendeville.jpg" alt="Antoine Vendeville" style="width: 100%; border-radius: 10px;"></a>
@@ -473,7 +473,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://www.privacurity.com/"><img src="../images/Mark.png" alt="Mark Warner" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mark Warner</strong><br>
-        Associate Professor of Information Security</p>
+        Lecturer of Information Security</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/holding.png" alt="Charles Westphal" style="width: 100%; border-radius: 10px;"></a>

@@ -564,7 +564,7 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www.maria-a-schett.net/"><img src="../images/Mariaschett.jpg" alt="Maria Schett" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Maria Schett</strong><br>
              Doctoral Researcher

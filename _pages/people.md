@@ -406,7 +406,8 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><img src="../images/david.jpg" alt="David Pym" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>David Pym</strong><br>
-        <p>Professor of Information, Logic, and Security</p> 
+             Professor of Information, Logic, and Security
+        </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://dri.st"><img src="../images/dan-ristrea.jpg" alt="Dan Ristea" style="width: 100%; border-radius: 10px;"></a>

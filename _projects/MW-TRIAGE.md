@@ -29,6 +29,9 @@ This project aims to lay the foundations for the development of a smart digital 
 
 Current findings suggest different forms of digital evidence triage are occuring at different stages of an investigation, including search and seizure planning, at scene search, and post search. Our research will explore triage at these different points.
 
-## Reports
+<div style="height: 250px">
+     <img src="../images/triage_infographic.png" alt="Infographic of the triage mid point event" style="width: 100%;max-height: 100%" />
+</div>
 
+## Reports
 O'Brien, C., Abreu Minero, V., Warner, M., Maclennan, M., Morris, S., Nic Daéid, N., & Sallavaci, O. (2024). **[Digital Forensic Triage Project Launch Event Report.](https://discovery.ucl.ac.uk/id/eprint/10193897/1/Digital%20Forensic%20Triage%20Project%20-%20Launch%20Event%20Report.pdf)**

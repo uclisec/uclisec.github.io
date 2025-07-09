@@ -30,7 +30,7 @@ This project aims to lay the foundations for the development of a smart digital 
 Current findings suggest different forms of digital evidence triage are occuring at different stages of an investigation, including search and seizure planning, at scene search, and post search. Our research will explore triage at these different points.
 
 <div style="height: 250px">
-     <img src="../images/triage_infographic.png" alt="Infographic of the triage mid point event" style="width: 100%;max-height: 100%" />
+     <img src="/images/triage_infographic.png" alt="Infographic of the triage mid point event" style="width: 100%;max-height: 100%" />
 </div>
 
 ## Reports

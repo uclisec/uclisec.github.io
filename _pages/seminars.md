@@ -31,7 +31,7 @@ Please [email](mailto:silpa.shah@ucl.ac.uk) us!
 
 Past Events
 ---
-### 2024  
+### 2025  
 <!-----> 
 <img src="../images/Ruba.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 19 June 2025, 16:00  
@@ -43,7 +43,9 @@ Past Events
 **Kyle Beadle**  
 Downvoted to Oblivion: Censorship in Online, LGBTQ+ Communities 
 [[Zoom](https://ucl.zoom.us/j/98722182089?pwd=f5ZESAGDgabBnlFxMqTbnMNhpHTGBA.1)]<details> **Abstract:** Online communities enable surveillance among LGBTQ+ users despite being used as safe spaces where users can explore their identity free from most online harms.  Coercion, doxxing, and public outing are all examples of privacy violations faced. These are experienced when users fail to conform to fellow community members’ expected language and expressions of gender identity and sexuality. Current moderation systems fail to capture this peer surveillance because of the complexity of language and unspoken rules involved. This talk will explore how surveillance is enabled as well as its effects on the censorship of gender identity/expression in online LGBTQ+ communities. Paper Link: https://discovery.ucl.ac.uk/id/eprint/10200690/.<br><br>**Bio**: Kyle Beadle is a PhD Candidate in UCL’s Centre for Doctoral Training (CDT) in Cybersecurity, supervised by Dr Leonie Tanczer, Dr Mark Warner, and Dr Marie Vasek. His research focuses on privacy, security, and human-computer interaction. He works specifically on understanding the social dynamics of coercive influence on online social platforms and developing tools to enable marginalised/vulnerable populations such as LGBTQIA+ communities to protect themselves from such privacy-violating behaviours.<br></details>  
-<!----->  
+<!-----> 
+### 2024  
+<!-----> 
 <img src="../images/Wenke.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 27 November 2024, 10:00  
 **Prof. Wenke Lee (GATech)**  

@@ -7,7 +7,7 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Steven.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Steven.jpeg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 17 July 2025, 16:00  
 **Dr. Steven J. Murdoch**  
 Memory-safety at scale: fifteen years of the CHERI project" - IEEE Security and Privacy Test of Time Award in 2025  

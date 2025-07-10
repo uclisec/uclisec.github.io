@@ -289,6 +289,12 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
+        <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/Anjuli.jpeg" alt="Anjuli Kaul" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Anjuli Kaul</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/Alireza.jpg" alt="Alireza Kavousi" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Alireza Kavousi</strong><br>

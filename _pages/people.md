@@ -571,3 +571,9 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div>
+<div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/Anina.jpg" alt="Anina Henggeler" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Anina Henggeler</strong><br>
+             Doctoral Researcher
+        </p>
+    </div>

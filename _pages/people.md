@@ -566,15 +566,4 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div>
-<div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/Chizzy.jpg" alt="Chizzy Meka" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Chizzy Meka</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
-<div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/daniel.jpg" alt="Daniel Blackwell" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Daniel Blackwell</strong><br>
-            Doctoral Researcher
-        </p>
-    </div> 
+        

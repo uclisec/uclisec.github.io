@@ -103,8 +103,8 @@ function toggleVisibility(id) {
 
 <div id="people" style="display: flex; flex-wrap: wrap; justify-content: left;">
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Mohamed Abouhashem" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Mohamed Abouhashem</strong><br>
+        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/Mohamed.jpg" alt="Mohamed Abou Hashem" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Mohamed Abou Hashem</strong><br>
             Doctoral Researcher (Visitor)
         </p>
     </div> 

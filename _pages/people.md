@@ -322,12 +322,7 @@ function toggleVisibility(id) {
         <p><strong>Sarah Meiklejohn</strong><br>
         Professor of Cryptography and Security (PT) and Staff Research Scientist at Google UK</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Chizzy Meka" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Chizzy Meka</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
+    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/lisamalki.jpeg" alt="Lisa Mekioussa Malki" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Lisa Mekioussa Malki</strong><br>
@@ -577,3 +572,9 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div>
+<div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/holding.png" alt="Chizzy Meka" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Chizzy Meka</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 

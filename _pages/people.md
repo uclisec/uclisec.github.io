@@ -158,12 +158,6 @@ function toggleVisibility(id) {
         <p><strong>Tristan Caulfield</strong><br>
         Associate Professor of Information Security</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href=""><img src="../images/holding.png" alt="Thomas Cattermole" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Thomas Cattermole</strong><br>
-             Doctoral Researcher
-        </p>
-    </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://s2lab.cs.ucl.ac.uk/people/sullivan"><img src="../images/lorenzo.jpg" alt="Lorenzo Cavallaro" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Lorenzo Cavallaro</strong><br>
@@ -571,3 +565,9 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
+    <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/Thomas.jpg" alt="Thomas Cattermole" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Thomas Cattermole</strong><br>
+             Doctoral Researcher
+        </p>
+    </div>

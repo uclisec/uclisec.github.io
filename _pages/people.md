@@ -93,6 +93,7 @@ function toggleVisibility(id) {
 <div class="button-container">
     <button id="all-button" class="filter-button active" onclick="filterTeam('all')">All</button>
     <button id="academic-button" class="filter-button" onclick="filterTeam('academic')">Academics</button>
+    <button id="affiliated-button" class="filter-button" onclick="filterTeam('affiliated')">Affiliated Academics</button>
     <button id="researcher-button" class="filter-button" onclick="filterTeam('researcher')">Researchers</button>
     <button id="administrative-button" class="filter-button" onclick="filterTeam('administrative')">Administrative</button>
     <button id="doctoral-button" class="filter-button" onclick="filterTeam('doctoral')">Doctoral Researchers</button>

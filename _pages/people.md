@@ -119,6 +119,12 @@ function toggleVisibility(id) {
             Doctoral Researcher
         </p>
     </div> 
+    <div class="people affiliated" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://profiles.ucl.ac.uk/37811-earl-barr"><img src="../images/earl_barr.jpg" alt="Earl Barr" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Earl Barr</strong><br>
+            Affiliated Academic
+        </p>
+    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://kylebeadle.com"><img src="../images/beadle.jpg" alt="Kyle Beadle" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Kyle Beadle</strong><br>
@@ -220,10 +226,10 @@ function toggleVisibility(id) {
         <p><strong>Isabelle Gressel</strong><br>
         UCL InfoSec Gender & Tech Lab Research Administrator</p>
     </div>
-    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+    <div class="people affiliated" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www.cs.ucl.ac.uk/staff/J.Groth/"><img src="../images/jens.jpg" alt="SJens Groth" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Jens Groth</strong><br>
-        Honorary</p>
+        Affiliated Academic</p>
     </div>
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/andreas.jpeg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
@@ -316,7 +322,6 @@ function toggleVisibility(id) {
         <p><strong>Sarah Meiklejohn</strong><br>
         Professor of Cryptography and Security (PT) and Staff Research Scientist at Google UK</p>
     </div>
-    
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/lisamalki.jpeg" alt="Lisa Mekioussa Malki" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Lisa Mekioussa Malki</strong><br>
@@ -425,6 +430,12 @@ function toggleVisibility(id) {
              Doctoral Researcher
         </p>
     </div> 
+    <div class="people affiliated" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://profiles.ucl.ac.uk/64988-isabel-straw"><img src="../images/Isabel.jpg" alt="Isabel Straw" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Isabel Straw</strong><br>
+            Affiliated Academic
+        </p>
+    </div>
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://seclab.bu.edu/people/gianluca/"><img src="../images/gianluca.png" alt="Gianluca Stringhini" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Gianluca Stringhini</strong><br>

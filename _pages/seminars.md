@@ -8,7 +8,7 @@ Upcoming events
 ---
 <!-----> 
 <img src="../images/Emiliano.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 22 September 2025, 10:00  
+- 22 September 2025, 14:00  
 **Emiliano De Cristofaro**  
 TBA  
 [[Zoom](https://ucl.zoom.us/j/)]<details> **Abstract:** TBA.<br><br>**Bio**: TBA.<br></details> 

@@ -8,6 +8,7 @@ Affiliated Centres
 ---
 
 - National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online ([REPHRAIN](https://www.rephrain.ac.uk))
+- CRANE Cyber Security Network ([CRANE](https://crane.ac.uk/))
 
 
 Training and Teaching

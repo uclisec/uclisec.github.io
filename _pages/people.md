@@ -227,10 +227,10 @@ function toggleVisibility(id) {
         <p><strong>Isabelle Gressel</strong><br>
         UCL InfoSec Gender & Tech Lab Research Administrator</p>
     </div>
-    <div class="people affiliated" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="http://www.cs.ucl.ac.uk/staff/J.Groth/"><img src="../images/jens.jpg" alt="SJens Groth" style="width: 100%; border-radius: 10px;"></a>
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="http://www.cs.ucl.ac.uk/staff/J.Groth/"><img src="../images/jens.jpg" alt="Jens Groth" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Jens Groth</strong><br>
-        Affiliated Academic</p>
+        Honorary Professor</p>
     </div>
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/andreas.jpeg" alt="Andreas Gutmann" style="width: 100%; border-radius: 10px;"></a>
@@ -402,6 +402,12 @@ function toggleVisibility(id) {
         <a href="http://www0.cs.ucl.ac.uk/staff/D.Pym/"><img src="../images/david.jpg" alt="David Pym" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>David Pym</strong><br>
              Professor of Information, Logic, and Security
+        </p>
+    </div> 
+    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href=""><img src="../images/ismini.jpeg" alt="Ismini Psychoula" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Ismini Psychoula</strong><br> 
+            Honorary Senior Research Fellow
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">

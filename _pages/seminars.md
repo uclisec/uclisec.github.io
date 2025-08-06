@@ -11,8 +11,7 @@ Upcoming events
 - 22 September 2025, 14:00  
 **Emiliano De Cristofaro**  
 Is Synthetic Data the New Blockchain?  
-[[Zoom](https://ucl.zoom.us/j/)]
-<details>
+[[Zoom](https://ucl.zoom.us/j/)]<details>
 
 **Abstract:** Synthetic data produced by various (generative) machine learning algorithms is increasingly being peddled as a cutting-edge technology that enables the release of "truly anonymous" datasets (cit.), while preserving the interesting statistical properties of real data. If you're planning to attend this talk, you probably already know (or have guessed) that's not quite right. On the other hand, training generative models while satisfying Differential Privacy (DP) can provably bound the privacy leakage from the models as well as from the synthetic datasets they produce. In this talk, we'll attempt to provide a realistic overview of the status quo in synthetic data (mainly, tabular data), focusing on:
 

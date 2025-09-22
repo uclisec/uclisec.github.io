@@ -8,7 +8,7 @@ Upcoming events
 ---
 <!-----> 
 <img src="../images/Emiliano.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-<del>- 22 September 2025, 14:00  <del> - Cancelled, to be rescheduled. 
+- 22 September 2025, 14:00 - Cancelled, to be rescheduled. 
 **Emiliano De Cristofaro**  
 Is Synthetic Data the New Blockchain?
 [[Zoom]()]<details>**Abstract:** Synthetic data produced by various (generative) machine learning algorithms is increasingly being peddled as a cutting-edge technology that enables the release of "truly anonymous" datasets (cit.), while preserving the interesting statistical properties of real data. If you're planning to attend this talk, you probably already know (or have guessed) that's not quite right. On the other hand, training generative models while satisfying Differential Privacy (DP) can provably bound the privacy leakage from the models as well as from the synthetic datasets they produce. In this talk, we'll attempt to provide a realistic overview of the status quo in synthetic data (mainly, tabular data), focusing on:<br><br>- Privacy attacks against synthetic data<br>- Utility-privacy tradeoffs in DP synthetic data<br>- The disproportionate impact of DP techniques on underrepresented groups<br>- Why and how audit DP synthetic data<br>- How (not) to build end-to-end DP pipelines for synthetic data<br>- Why you should not provide privacy guarantees using similarity-based metrics (despite lots of companies do)<br><br>We'll end with a discussion of open research problems and (hopefully) exciting items for future work.<br><br>

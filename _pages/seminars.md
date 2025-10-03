@@ -15,7 +15,7 @@ An introduction to post-quantum cryptography
 <!----->  
 <img src="../images/Sergio.jpeg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 28 November, 12:00  
-**Sergio Maffeiss**  
+**Sergio Maffeis**  
 Title tba  
 [[Zoom](tba)]<details> **Abstract:** tba.<br><br>**Bio:**tba.<br></details>
 <!----->  

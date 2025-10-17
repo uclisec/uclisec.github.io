@@ -270,7 +270,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://philipp.jovanovic.io/"><img src="../images/philipp.png" alt="Philipp Jovanovic" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Philipp Jovanovic</strong><br>
-        Professor of Information Security and MSc Information Securty Programme Director</p>
+        Professor of Information Security</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="ttps://s2lab.cs.ucl.ac.uk"><img src="../images/zeliang-mark-kan.jpg" alt="Zeliang Mark Kan" style="width: 100%; border-radius: 10px;"></a>
@@ -480,7 +480,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://www.privacurity.com/"><img src="../images/Mark.png" alt="Mark Warner" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mark Warner</strong><br>
-        Associate Professor of Information Security</p>
+        Associate Professor of Information Security and MSc Information Securty Programme Director</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/holding.png" alt="Charles Westphal" style="width: 100%; border-radius: 10px;"></a>

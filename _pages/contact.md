@@ -10,9 +10,9 @@ UCL Computer Science
 Gower Street  
 London WC1E 6BT
 
-### Offices
-Most of us are in Malet Place Engineering Building  
-[UCL Map](http://www.ucl.ac.uk/maps?locationID=143), [Google Maps](https://goo.gl/maps/2tigC1CLCzuBgqAy6)  
+### Where to find us
+We are located at 169 Euston Road, London (First Floor)
+[Google Maps](https://goo.gl/maps/RBYG7ABmJU4XjzZ56)  
 
 ### Phone
 Tel: +44 20 7679 7214  

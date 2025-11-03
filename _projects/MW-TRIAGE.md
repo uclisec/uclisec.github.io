@@ -1,15 +1,16 @@
 ---
-title: "Towards A Smart Digital Forensic Advisor To Support First Responders With At-Scene Triage Of Digital Evidence Across Crime Types"
+title: "Towards A Smart Digital Forensic Advisor To Support Triage"
 excerpt: "This project is investigating existing practices, resources, challenges, and user needs around the process of search and seizure of digital devices across two distinct crime types."
 
 authors:
-- Val Abreu (UCL)
+- Valeria Minero Abreu (UCL)
 - Catherine O'Brien (UCL)
 - Mark Warner (UCL)
 - Maria Maclennan (University of Edinburgh)
 - Niamh Nic Daéid (University of Dundee)
 - Oriola Sallavaci (University of Essex)
 - Sarah Morris (University of Southampton)
+- Alessia Stroni (University of Essex)
 funder: ESRC
 partners: 
 - Metropolitan Police Service

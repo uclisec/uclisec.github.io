@@ -7,7 +7,7 @@ layout: single
 Upcoming events
 ---
 <!-----> 
-<img src="../images/Michael.jpeg" style="float:right;width:100px;height:100px;margin-top:15px">
+<img src="../images/Michael.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 20 November, 16:00  
 **Michael Bailey**  
 Title: tba  

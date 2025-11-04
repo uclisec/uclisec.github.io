@@ -27,7 +27,7 @@ You can subscribe to our **mailing list** by sending an email with subject "subs
 - *In what time zone are the seminars?*  
 All seminars are on London time (typically on Thursdays at 16:00).
 - *Can people not affiliated with UCL attend the seminars?*  
-Yes! Our seminars are open to everyone. You can register on Zoom, watch the YouTube livestream, or attend in person at 169 Euston Road, London NW1 2A. If you plan to attend in person, please [email](mailto:silpa.shah@ucl.ac.uk) us in advance to let us know you're coming. 
+Yes! Our seminars are open to everyone. You can register on Zoom, watch the YouTube livestream, or attend in person at 169 Euston Road, London NW1 2A. Upon arrival, please let reception at 169 Euston Road know that you are coming to our seminars. If you prefer, you can [email](mailto:silpa.shah@ucl.ac.uk) us in advance to let us know you're coming. 
 - *How can I learn more about InfoSec research and teaching activities at UCL?*  
 Check out the UCL's InfoSec research group [page](/about). We also run an MSc in Information Security [Degree](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc) and a [Centre](https://www.ucl.ac.uk/cybersecurity-cdt/) for Doctoral Training in Cybersecurity, and maintain a [blog](https://benthamsgaze.org/) called Bentham's Gaze.  
 - *Any other questions?*  

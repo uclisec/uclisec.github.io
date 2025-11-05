@@ -13,7 +13,7 @@ Upcoming events
 Title: tba  
 [[Zoom](https://ucl.zoom.us/j/93073184937)]<details> **Abstract:** tba.<br><br>**Bio:** tba.<br></details>
 <img src="../images/Sergio.jpeg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 28 November, 12:00  
+- 28 November, 16:00  
 **Sergio Maffeis**  
 Security & Machine Learning  
 [[Zoom](https://ucl.zoom.us/j/91912335448)]<details> **Abstract:** tba.<br><br>**Bio:** Sergio Maffeis received his PhD in theoretical computer science from Imperial College London, in 2006. He held two EPSRC Fellowships (2007-2015), and visiting positions at UC Santa Cruz, Stanford University, Microsoft Research (Silicon Valley) and INRIA (Paris). He is currently an Associate Professor in Computer Security at Imperial, where he leads the Security & Machine Learning lab. His research interests include security, artificial intelligence and formal methods.<br></details>

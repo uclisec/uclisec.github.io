@@ -426,11 +426,6 @@ function toggleVisibility(id) {
         <p><strong>M. Angela Sasse</strong><br>
         Professor of Human-Centred Technology (PT), and Professor at Ruhr-University Bochum</p>
     </div>
-    <div class="people administrative" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="mailto:silpa.shah@ucl.ac.uk"><img src="../images/holding.png" alt="Silpa Shah" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Silpa Shah</strong><br>
-        UCL InfoSec Centre Administrator</p>
-    </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/holding.png" alt="Karolina Skrivankova" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Karolina Skrivankova</strong><br>

@@ -48,6 +48,13 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
 ## Who are we?
 Our group has about 50 members, including faculty, research staff, and doctoral researchers. Please visit the [people](/people) page for an up-to-date list of our members.
 
+## Open PhD positions
+- [Human–Computer Interaction (HCI) and Usable Security for Addressing Technology-Facilitated Abuse (“Tech Abuse”)](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1647.html) - Home and International - 05 January 2026
+- [Designing user reporting tools for online social platforms][https://www.findaphd.com/phds/project/designing-user-reporting-tools-for-online-social-platforms/?p192806] - Home - 1 March 2026
+
+
+
+
 ## Research Themes
 Some of the key research themes addressed by the group include, but are not limited to:
 

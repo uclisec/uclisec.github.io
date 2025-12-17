@@ -49,6 +49,8 @@ parser.parseURL("https://www.benthamsgaze.org/feed/", function(err, feed) {
 Our group has about 50 members, including faculty, research staff, and doctoral researchers. Please visit the [people](/people) page for an up-to-date list of our members.
 
 ## Open PhD positions
+If you are interested in any of the below positions, please get in touch with the faculty member advertising the position via email. 
+
 - [Human–Computer Interaction (HCI) and Usable Security for Addressing Technology-Facilitated Abuse (“Tech Abuse”)](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1647.html) - Dr Leonie Tanczer, Home and International Students, Closes 5 January 2026.
 - [“Rethinking Intrusion Detection with Advanced AI for Explainable, Robust and Cost-Aware Decisions”](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1649.html) - Dr Fabio Pierazzi, Home and International Students, Closes 5 January 2026.
 - [“Explainable, Knowledge-driven AI and ML for Systems Security”](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2026/?p6777) - Dr Fabio Pierazzi, Home Students, Closes 5 January 2026.

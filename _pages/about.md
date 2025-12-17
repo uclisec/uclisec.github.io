@@ -50,7 +50,13 @@ Our group has about 50 members, including faculty, research staff, and doctoral 
 
 ## Open PhD positions
 - [Human–Computer Interaction (HCI) and Usable Security for Addressing Technology-Facilitated Abuse (“Tech Abuse”)](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1647.html) - Dr Leonie Tanczer, Home and International Students, Closes 5 January 2026.
-- [Designing user reporting tools for online social platforms](https://www.findaphd.com/phds/project/designing-user-reporting-tools-for-online-social-platforms/?p192806) - Home - Dr Mark Warner, Home Students, Closes 1 March 2026.
+- [“Rethinking Intrusion Detection with Advanced AI for Explainable, Robust and Cost-Aware Decisions”](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1649.html) - Dr Fabio Pierazzi, Home and International Students, Closes 5 January 2026.
+- [“Explainable, Knowledge-driven AI and ML for Systems Security”](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2026/?p6777) - Dr Fabio Pierazzi, Home Students, Closes 5 January 2026.
+- [CDT in Cyber-Physical Risk: “Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems”](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals) - Dr Fabio Pierazzi, Home Students, Closes TBC.
+- [CDT in Cyber-Physical Risk: "Understanding and Measuring Influence in Harmful Online Conspiracy Theory Communities"](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals) - Dr Mark Warner, Home Students, Closes TBC.
+- [CDT in Cyber-Physical Risk: "Privacy-Preserving Interventions Against Cyber-Enabled Sexual Exploitation on Social Apps"](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals) - Dr Mark Warner, Home Students, Closes TBC.
+- [Designing user reporting tools for online social platforms](https://www.findaphd.com/phds/project/designing-user-reporting-tools-for-online-social-platforms/?p192806) - Home - Dr Mark Warner, Home Students, Closes 28 January 2026.
+- [CDT in Cyber-Physical Risk: "Systemic risk in the Internet of Things"](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals) - Dr Tristan Caulfield, Home Students, Closes TBC.
 
 
 

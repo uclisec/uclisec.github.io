@@ -475,7 +475,7 @@ function toggleVisibility(id) {
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://www.privacurity.com/"><img src="../images/Mark.png" alt="Mark Warner" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Mark Warner</strong><br>
-        Associate Professor of Information Security and MSc Information Securty Programme Director</p>
+        Associate Professor of Information Security and MSc Information Security Programme Director</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/holding.png" alt="Charles Westphal" style="width: 100%; border-radius: 10px;"></a>

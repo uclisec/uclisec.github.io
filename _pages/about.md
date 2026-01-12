@@ -59,8 +59,6 @@ If you are interested in any of the below positions, please get in touch with th
 - [CDT in Cyber-Physical Risk: "Systemic risk in the Internet of Things"](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals) - Dr Tristan Caulfield, Home Students, Closes 15 February 2026.
 
 
-
-
 ## Research Themes
 Some of the key research themes addressed by the group include, but are not limited to:
 

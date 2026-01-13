@@ -23,4 +23,4 @@ The CRANE network aims to:
 - Build an inclusive, sustainable research community that supports career development and fosters the exchange of ideas regionally and nationally on all aspects of cyber security
 - Serve as a point of access to UK research for business, government and the third sector
 
-Further details can be found on the [CRANE website](https://crane.ac.uk/).
+Further details are available on the [CRANE website](https://crane.ac.uk/).

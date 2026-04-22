@@ -114,12 +114,6 @@ function toggleVisibility(id) {
         <p><strong>Valeria Minero Abreu</strong><br>
         Senior Research Fellow</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://sharad1126.github.io/"><img src="../images/sharad.jpg" alt="Sharad Agarwal" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Sharad Agarwal</strong><br>
-            Doctoral Researcher
-        </p>
-    </div> 
     <div class="people affiliated" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://profiles.ucl.ac.uk/37811-earl-barr"><img src="../images/earl_barr.jpg" alt="Earl Barr" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Earl Barr</strong><br>
@@ -500,6 +494,12 @@ function toggleVisibility(id) {
 
 
 <div class="people alumni"><h2>Alumni</h2></div>
+<div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://sharad1126.github.io/"><img src="../images/sharad.jpg" alt="Sharad Agarwal" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>Sharad Agarwal</strong><br>
+            Doctoral Researcher
+        </p>
+</div> 
 <div id="people" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div class="people alumni" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://killiandavitt.me"><img src="../images/killian.jpg" alt="Killian Davitt" style="width: 100%; border-radius: 10px;"></a>

@@ -303,7 +303,7 @@ function toggleVisibility(id) {
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://krisetya.com"><img src="../images/beltsazar.jpg" alt="Beltsazar Krisetya" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>GBeltsazar Krisetya</strong><br>
+        <p><strong>Beltsazar Krisetya</strong><br>
              Doctoral Researcher
         </p>
     </div> 

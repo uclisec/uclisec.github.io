@@ -307,6 +307,12 @@ function toggleVisibility(id) {
         <p><strong>Nikolaos Koukopoulos</strong><br>
         Research Fellow</p>
     </div>
+    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
+        <a href="https://krisetya.com"><img src="../images/beltsazar.jpg" alt="Beltsazar Krisetya" style="width: 100%; border-radius: 10px;"></a>
+        <p><strong>GBeltsazar Krisetya</strong><br>
+             Doctoral Researcher
+        </p>
+    </div> 
     <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://privacyink.org/"><img src="../images/susanlandau.jpg" alt="Susan Landau" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Susan Landau</strong><br>

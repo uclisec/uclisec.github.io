@@ -92,7 +92,7 @@ function toggleVisibility(id) {
 
 <div class="button-container">
     <button id="all-button" class="filter-button active" onclick="filterTeam('all')">All</button>
-    <button id="academic-button" class="filter-button" onclick="filterTeam('academic')">Academics</button>
+    <button id="academic-button" class="filter-button" onclick="filterTeam('academic')">Faculty</button>
     <button id="affiliated-button" class="filter-button" onclick="filterTeam('affiliated')">Affiliated Academics</button>
     <button id="researcher-button" class="filter-button" onclick="filterTeam('researcher')">Researchers</button>
     <button id="administrative-button" class="filter-button" onclick="filterTeam('administrative')">Administrative</button>
@@ -355,7 +355,7 @@ function toggleVisibility(id) {
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://profiles.ucl.ac.uk/99051-catherine-o%27brien"><img src="../images/cathy.jpg" alt="Catherine O'Brien" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Catherine O'Brien</strong><br>
-        Research Fellow</p>
+        Senior Research Fellow</p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/ordekian.jpg" alt="Marilyne Ordekian" style="width: 100%; border-radius: 10px;"></a>

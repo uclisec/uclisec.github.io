@@ -1,0 +1,212 @@
+/* Styles for the Seminars page only (_pages/seminars.md).
+   Everything is scoped to pages containing the #seminars-page marker,
+   so no other page on the site is affected. */
+
+$talk-accent: #211085;
+
+.page__content:has(#seminars-page) {
+    /* Seminar speaker photos: crop to fill the 100x100 box instead of stretching,
+       and give them a uniform frame. */
+    img[style*="float:right;width:100px;height:100px"] {
+        object-fit: cover;
+        object-position: center 25%;
+        border-radius: 8px;
+        border: 1px solid #e3e3e3;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+        background: #f2f2f2;
+        clear: right;
+        margin-left: 12px;
+    }
+
+    /* Each seminar entry is at least as tall as its photo (100px + 15px top margin),
+       so the next entry's photo never stacks beside it and overlaps the text. */
+    li:has(details) {
+        min-height: 115px;
+    }
+
+    /* Collapsible past-year sections on the Seminars page. */
+    details.seminar-year {
+        margin: 0.5em 0;
+        border-bottom: 1px solid #e3e3e3;
+    }
+
+    details.seminar-year > summary {
+        cursor: pointer;
+        font-size: 1.25em;
+        font-weight: bold;
+        padding: 0.4em 0;
+        list-style: none;
+    }
+
+    details.seminar-year > summary::-webkit-details-marker {
+        display: none;
+    }
+
+    details.seminar-year > summary::before {
+        content: "\25B8";
+        display: inline-block;
+        width: 1.2em;
+        transition: transform 0.15s ease;
+    }
+
+    details.seminar-year[open] > summary::before {
+        transform: rotate(90deg);
+    }
+
+    details.seminar-year[open] {
+        padding-bottom: 1em;
+    }
+
+    /* Seminar entries: separate "Abstract" and "Bio" toggles. Details elements in a
+       pair share a name, so opening one closes the other. */
+    details.talk-info {
+        display: inline-block;
+        margin: 0.3em 0.4em 0 0;
+    }
+
+    details.talk-info > summary {
+        display: inline-block;
+        cursor: pointer;
+        list-style: none;
+        font-size: 0.8em;
+        padding: 0.1em 0.8em;
+        border: 1px solid #c8c8c8;
+        border-radius: 999px;
+        color: #494e52;
+        user-select: none;
+    }
+
+    details.talk-info > summary::-webkit-details-marker {
+        display: none;
+    }
+
+    details.talk-info > summary:hover {
+        border-color: #7a8288;
+    }
+
+    details.talk-info[open] > summary {
+        background: #494e52;
+        border-color: #494e52;
+        color: #fff;
+        margin-bottom: 0.4em;
+    }
+
+    /* When one panel is open, stack the pair so the text gets the full width. */
+    li:has(details.talk-info[open]) details.talk-info {
+        display: block;
+    }
+
+    details.talk-info[open] {
+        font-size: 0.9em;
+        padding-bottom: 0.4em;
+    }
+
+    /* Seminar "cards" (entries that use the talk-date / talk-title / talk-location markup). */
+
+    li:has(> .talk-date) {
+        list-style: none;
+        margin: 0 0 1em -1.2em;
+        position: relative;
+        padding: 0.8em 150px 0.8em 1.1em;
+        min-height: 150px;
+        background: #fafafc;
+        border: 1px solid #ececf2;
+        border-left: 4px solid $talk-accent;
+        border-radius: 6px;
+        line-height: 1.55;
+    }
+
+    /* Photo: same fixed-size framed square in every card, top-right,
+       whatever the length of the title or whether Abstract/Bio is open. */
+    li:has(> .talk-date) > img[style*="float:right"] {
+        position: absolute;
+        top: 14px;
+        right: 14px;
+        float: none !important;
+        margin: 0 !important;
+        width: 120px !important;
+        height: 120px !important;
+        border-radius: 8px;
+        border: 1px solid #e3e3e3;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+        /* The theme animates all img changes; that makes the photo visibly
+           grow and shrink when Abstract/Bio is toggled. */
+        -webkit-transition: none;
+        transition: none;
+    }
+
+    @media (max-width: 600px) {
+        li:has(> .talk-date) {
+            padding-right: 105px;
+        }
+
+        li:has(> .talk-date) > img[style*="float:right"] {
+            width: 80px !important;
+            height: 80px !important;
+        }
+    }
+
+    li:has(> .talk-date) > strong {
+        font-size: 1.05em;
+    }
+
+    .talk-date {
+        display: inline-block;
+        font-size: 0.9em;
+        font-weight: bold;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: $talk-accent;
+        margin-bottom: 0.2em;
+    }
+
+    .talk-title {
+        font-style: italic;
+        color: #313537;
+    }
+
+    .talk-location {
+        display: inline-block;
+        font-size: 0.85em;
+        color: #5f6569;
+        margin-bottom: 0.2em;
+    }
+
+    /* Clear the photo float inside each card so the next card starts below it. */
+    li:has(> .talk-date)::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+    /* FAQs: collapsed by default, summary styled like the page's h2 headings. */
+    details.seminar-faqs {
+        margin: 2em 0 0.5em;
+    }
+
+    details.seminar-faqs > summary {
+        cursor: pointer;
+        list-style: none;
+        font-size: 1.25em;
+        font-weight: bold;
+        line-height: 1.2;
+        padding-bottom: 0.5em;
+        margin-bottom: 0.5em;
+        border-bottom: 1px solid #efefef;
+    }
+
+    details.seminar-faqs > summary::-webkit-details-marker {
+        display: none;
+    }
+
+    details.seminar-faqs > summary::before {
+        content: "\25B8";
+        display: inline-block;
+        width: 1em;
+        transition: transform 0.15s ease;
+    }
+
+    details.seminar-faqs[open] > summary::before {
+        transform: rotate(90deg);
+    }
+}

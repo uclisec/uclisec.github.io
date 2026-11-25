@@ -20,7 +20,8 @@ $talk-accent: #211085;
 
     /* Each seminar entry is at least as tall as its photo (100px + 15px top margin),
        so the next entry's photo never stacks beside it and overlaps the text. */
-    li:has(details) {
+    li:has(details),
+    li:has(> .talk-tabs) {
         min-height: 115px;
     }
 
@@ -99,6 +100,43 @@ $talk-accent: #211085;
     details.talk-info[open] {
         font-size: 0.9em;
         padding-bottom: 0.4em;
+    }
+
+    /* Abstract / Bio as tabs (built by assets/js/seminars.js): the buttons stay
+       side by side in a fixed row, and the selected text shows underneath. */
+    .talk-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4em;
+        margin-top: 0.3em;
+    }
+
+    .talk-tab {
+        cursor: pointer;
+        font: inherit;
+        font-size: 0.8em;
+        line-height: 1.5;
+        padding: 0.1em 0.8em;
+        background: transparent;
+        border: 1px solid #c8c8c8;
+        border-radius: 999px;
+        color: #494e52;
+    }
+
+    .talk-tab:hover {
+        border-color: #7a8288;
+    }
+
+    .talk-tab[aria-expanded="true"] {
+        background: #494e52;
+        border-color: #494e52;
+        color: #fff;
+    }
+
+    .talk-panel {
+        font-size: 0.9em;
+        margin-top: 0.6em;
+        padding-bottom: 0.2em;
     }
 
     /* Seminar "cards" (entries that use the talk-date / talk-title / talk-location markup). */

@@ -103,12 +103,6 @@ function toggleVisibility(id) {
 
 
 <div id="people" style="display: flex; flex-wrap: wrap; justify-content: left;">
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/Mohamed.jpg" alt="Mohamed Abou Hashem" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Mohamed Abou Hashem</strong><br>
-            Doctoral Researcher (Visitor)
-        </p>
-    </div> 
     <div class="people researcher" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="https://profiles.ucl.ac.uk/99243-valeria-abreu-minero"><img src="../images/val.jpg" alt="Valeria Minero Abreu" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Valeria Minero Abreu</strong><br>
@@ -158,12 +152,6 @@ function toggleVisibility(id) {
         <p><strong>Lorenzo Cavallaro</strong><br>
         Professor of Computer Science </p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/jacopo.jpg" alt="Jacopo Cortellazzi" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Jacopo Cortellazzi</strong><br>
-             Doctoral Researcher (Visiting)
-        </p>
-    </div> 
     <div class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="http://www0.cs.ucl.ac.uk/staff/G.Danezis/"><img src="../images/george.jpg" alt="George Danezis" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>George Danezis</strong><br>
@@ -179,12 +167,6 @@ function toggleVisibility(id) {
         <a href=""><img src="../images/holding.png" alt="Kyriacos Demetriou" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Kyriacos Demetriou</strong><br>
              Doctoral Researcher
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/giulio.jpeg" alt="Giulio De Pasquale" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Giulio De Pasquale</strong><br>
-             Doctoral Researcher (Visiting)
         </p>
     </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
@@ -210,12 +192,6 @@ function toggleVisibility(id) {
         <p><strong>Arthur Gervais</strong><br>
         Professor of Information Security</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/holding.png" alt="Jason Gray" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Jason Gray</strong><br>
-             Doctoral Researcher (Visiting)
-        </p>
-    </div> 
     <div class="people administrative" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href="mailto:i.gressel@ucl.ac.uk"><img src="../images/Isabelle.jpg" alt="Isabelle Gressel" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Isabelle Gressel</strong><br>
@@ -266,12 +242,6 @@ function toggleVisibility(id) {
         <p><strong>Philipp Jovanovic</strong><br>
         Professor of Information Security</p>
     </div>
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="ttps://s2lab.cs.ucl.ac.uk"><img src="../images/zeliang-mark-kan.jpg" alt="Zeliang Mark Kan" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Zeliang "Mark" Kan</strong><br>
-             Doctoral Researcher (Visiting)
-        </p>
-    </div> 
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/george-kappos.jpg" alt="George Kappos" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>George Kappos</strong><br>
@@ -376,12 +346,6 @@ function toggleVisibility(id) {
         </p>
     </div>
     <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://s2lab.cs.ucl.ac.uk"><img src="../images/feargus.jpg" alt="Feargus Pendlebury" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Feargus Pendlebury</strong><br>
-             Doctoral Researcher (Visiting)
-        </p>
-    </div> 
-    <div class="people doctoral" style="flex: 1 0 21%; margin: 10px; text-align: center;">
         <a href=""><img src="../images/illaria-pia-la-torre.jpg" alt="Ilaria Pia Del Torre" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Ilaria Pia Del Torre</strong><br>
              Doctoral Researcher
@@ -436,12 +400,6 @@ function toggleVisibility(id) {
         <a href="https://profiles.ucl.ac.uk/64988-isabel-straw"><img src="../images/Isabel.jpg" alt="Isabel Straw" style="width: 100%; border-radius: 10px;"></a>
         <p><strong>Isabel Straw</strong><br>
             Affiliated Academic
-        </p>
-    </div>
-    <div class="people honorary" style="flex: 1 0 21%; margin: 10px; text-align: center;">
-        <a href="https://seclab.bu.edu/people/gianluca/"><img src="../images/gianluca.png" alt="Gianluca Stringhini" style="width: 100%; border-radius: 10px;"></a>
-        <p><strong>Gianluca Stringhini</strong><br>
-            Honorary
         </p>
     </div>
     <div class="people academic" class="people academic" style="flex: 1 0 21%; margin: 10px; text-align: center;">

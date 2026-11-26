@@ -18,9 +18,9 @@ groups:
   - id: doctoral
     title: "Doctoral Researchers"
   - id: honorary
-    title: "Honorary and Visiting"
+    title: "Current Honorary and Visitors"
   - id: past-faculty
-    title: "Past Faculty"
+    title: "Past Faculty, Honorary, and Visitors"
     archive: true
   - id: alumni
     title: "Alumni"

@@ -95,7 +95,7 @@
   url: ""
   group: alumni
 
-- name: "Jennifer Dwyer-Joyce"
+- name: "Jay Dwyer-Joyce"
   role: "Doctoral Researcher"
   image: "jennifer-dwyer-joyce.jpg"
   url: ""
@@ -213,7 +213,7 @@
   role: "Honorary"
   image: "susanlandau.jpg"
   url: "https://privacyink.org/"
-  group: honorary
+  group: past-faculty
 
 - name: "Ben Laurie"
   role: "Honorary"
@@ -321,7 +321,7 @@
   role: "Visiting Research Fellow"
   image: "alifa.jpeg"
   url: "https://nuuralifahroslan.com"
-  group: honorary
+  group: past-faculty
 
 - name: "M. Angela Sasse"
   role: "Professor of Human-Centred Technology (PT), and Professor at Ruhr-University Bochum"
@@ -374,7 +374,7 @@
 - name: "Mark Warner"
   role: "Associate Professor of Information Security and MSc Information Security Programme Director"
   image: "Mark.png"
-  url: "https://www.privacurity.com/"
+  url: "https://profiles.ucl.ac.uk/57936-mark-warner"
   group: academic
 
 - name: "Charles Westphal"

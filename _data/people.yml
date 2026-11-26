@@ -1,0 +1,482 @@
+# People list for the /people/ page.
+#
+# HOW TO EDIT
+#   Add someone:     copy an entry (from "- name:" down to "group:"), paste it, change the details.
+#   Remove someone:  delete their whole entry.
+#   Move to alumni:  change their group to alumni (and their role if you like).
+#
+# FIELDS
+#   name:   Full name (shown in bold)
+#   role:   Job title, shown under the name
+#   image:  File name inside /images/  (leave blank to use holding.png)
+#   url:    Website/profile link, or mailto:someone@ucl.ac.uk  (leave blank for no link)
+#   group:  One of: academic, affiliated, researcher, administrative, doctoral, honorary,
+#           past-faculty, alumni
+#
+# People appear on the page in the order they are listed here (currently alphabetical by surname).
+
+# ---------- Current members ----------
+
+- name: "Valeria Minero Abreu"
+  role: "Senior Research Fellow"
+  image: "val.jpg"
+  url: "https://profiles.ucl.ac.uk/99243-valeria-abreu-minero"
+  group: alumni
+
+- name: "Emiliano De Cristofaro"
+  role: "Professor of Security and Privacy Enhancing Technologies"
+  image: "emiliano2.jpg"
+  url: "https://emilianodc.com/"
+  group: past-faculty
+
+- name: "Earl Barr"
+  role: "Affiliated Academic"
+  image: "earl_barr.jpg"
+  url: "https://profiles.ucl.ac.uk/37811-earl-barr"
+  group: affiliated
+
+- name: "Kyle Beadle"
+  role: "Doctoral Researcher"
+  image: "beadle.jpg"
+  url: "https://kylebeadle.com"
+  group: alumni
+
+- name: "Filippo Blancato"
+  role: "Doctoral Researcher"
+  image: "blancato.jpg"
+  url: ""
+  group: alumni
+
+- name: "Samantha Bottomley"
+  role: "MSc Information Security Administrator"
+  image: ""
+  url: "mailto:s.bottomley@ucl.ac.uk"
+  group: administrative
+
+- name: "Sergi Bray"
+  role: "Doctoral Researcher"
+  image: "sergi-bray.jpg"
+  url: ""
+  group: doctoral
+
+- name: "Madeline Carr"
+  role: "Professor of Global Politics and Cyber Security"
+  image: "madeline2.jpeg"
+  url: "https://profiles.ucl.ac.uk/64074-madeline-carr"
+  group: academic
+
+- name: "Tristan Caulfield"
+  role: "Associate Professor of Information Security"
+  image: "tristan2.jpg"
+  url: "https://www.tristancaulfield.com/"
+  group: academic
+
+- name: "Lorenzo Cavallaro"
+  role: "Professor of Computer Science"
+  image: "lorenzo.jpg"
+  url: "https://s2lab.cs.ucl.ac.uk/people/sullivan"
+  group: academic
+
+- name: "George Danezis"
+  role: "Professor of Security and Privacy Engineering (PT) and Chief Scientist at Mysten Labs"
+  image: "george.jpg"
+  url: "http://www0.cs.ucl.ac.uk/staff/G.Danezis/"
+  group: academic
+
+- name: "Ahana Datta"
+  role: "Doctoral Researcher"
+  image: "Ahana.jpg"
+  url: ""
+  group: alumni
+
+- name: "Kyriacos Demetriou"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: alumni
+
+- name: "Jennifer Dwyer-Joyce"
+  role: "Doctoral Researcher"
+  image: "jennifer-dwyer-joyce.jpg"
+  url: ""
+  group: alumni
+
+- name: "Aliai Eusebi"
+  role: "Doctoral Researcher"
+  image: "eusebi.jpg"
+  url: ""
+  group: doctoral
+
+- name: "Georgi Ganev"
+  role: "Doctoral Researcher"
+  image: "ganevgv.jpg"
+  url: "https://ganevgv.github.io/"
+  group: doctoral
+
+- name: "Arthur Gervais"
+  role: "Professor of Information Security"
+  image: "Arthur.jpg"
+  url: "https://arthurgervais.com/"
+  group: academic
+
+- name: "Isabelle Gressel"
+  role: "UCL InfoSec Gender & Tech Lab Research Administrator"
+  image: "Isabelle.jpg"
+  url: "mailto:i.gressel@ucl.ac.uk"
+  group: administrative
+
+- name: "Jens Groth"
+  role: "Honorary Professor"
+  image: "jens.jpg"
+  url: "http://www.cs.ucl.ac.uk/staff/J.Groth/"
+  group: honorary
+
+- name: "Andreas Gutmann"
+  role: "Honorary Lecturer"
+  image: "andreas.jpeg"
+  url: ""
+  group: honorary
+
+- name: "Majid Hatamian"
+  role: "Honorary Senior Research Fellow"
+  image: "majid.jpeg"
+  url: ""
+  group: honorary
+
+- name: "Niamh Healy"
+  role: "Doctoral Researcher"
+  image: "niamh-healy.jpg"
+  url: ""
+  group: doctoral
+
+- name: "Marius Ilau"
+  role: "Doctoral Researcher"
+  image: "marius-ilau.jpeg"
+  url: ""
+  group: alumni
+
+- name: "Marios Isaakidis"
+  role: "Doctoral Researcher"
+  image: ""
+  url: "http://www0.cs.ucl.ac.uk/staff/M.Isaakidis"
+  group: alumni
+
+- name: "Madeleine Janickyj"
+  role: "Senior Research Fellow"
+  image: "Maddy.jpg"
+  url: "https://profiles.ucl.ac.uk/94090-madeleine-janickyj/about"
+  group: researcher
+
+- name: "Philipp Jovanovic"
+  role: "Professor of Information Security"
+  image: "philipp.png"
+  url: "https://philipp.jovanovic.io/"
+  group: academic
+
+- name: "George Kappos"
+  role: "Doctoral Researcher"
+  image: "george-kappos.jpg"
+  url: ""
+  group: alumni
+
+- name: "Anjuli Kaul"
+  role: "Doctoral Researcher"
+  image: "Anjuli.jpeg"
+  url: ""
+  group: doctoral
+
+- name: "Alireza Kavousi"
+  role: "Doctoral Researcher"
+  image: "Alireza.jpg"
+  url: ""
+  group: alumni
+
+- name: "Emmanouil Koulas"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
+- name: "Nikolaos Koukopoulos"
+  role: "Senior Research Fellow"
+  image: "Niko.jpg"
+  url: "https://profiles.ucl.ac.uk/94089-nikolaos-koukopoulos"
+  group: researcher
+
+- name: "Beltsazar Krisetya"
+  role: "Doctoral Researcher"
+  image: "beltsazar.jpg"
+  url: "https://krisetya.com"
+  group: doctoral
+
+- name: "Susan Landau"
+  role: "Honorary"
+  image: "susanlandau.jpg"
+  url: "https://privacyink.org/"
+  group: honorary
+
+- name: "Ben Laurie"
+  role: "Honorary"
+  image: "benlaurie.jpg"
+  url: "https://en.wikipedia.org/wiki/Ben_Laurie"
+  group: honorary
+
+- name: "Sarah Meiklejohn"
+  role: "Professor of Cryptography and Security (PT) and Staff Research Scientist at Google UK"
+  image: "sarah.jpg"
+  url: "https://smeiklej.com/"
+  group: academic
+
+- name: "Lisa Mekioussa Malki"
+  role: "Doctoral Researcher"
+  image: "lisamalki.jpeg"
+  url: ""
+  group: doctoral
+
+- name: "Nadine Michaelides"
+  role: "Doctoral Researcher"
+  image: "michaelides.jpg"
+  url: ""
+  group: alumni
+
+- name: "Reza Moqadasi"
+  role: "Doctoral Researcher"
+  image: "Reza.jpg"
+  url: ""
+  group: alumni
+
+- name: "Steven Murdoch"
+  role: "Professor of Security Engineering, Head of Group, and Royal Society University Research Fellow"
+  image: "steven.jpg"
+  url: "https://murdoch.is/"
+  group: academic
+
+- name: "Mohammad Naseri"
+  role: "Doctoral Researcher"
+  image: "Mohammad.jpg"
+  url: "https://mohammadnaseri.github.io/"
+  group: alumni
+
+- name: "Catherine O'Brien"
+  role: "Senior Research Fellow"
+  image: "cathy.jpg"
+  url: "https://profiles.ucl.ac.uk/99051-catherine-o%27brien"
+  group: researcher
+
+- name: "Marilyne Ordekian"
+  role: "Doctoral Researcher"
+  image: "ordekian.jpg"
+  url: ""
+  group: alumni
+
+- name: "Kärt Padur"
+  role: "Doctoral Researcher"
+  image: "kart-padur.jpg"
+  url: ""
+  group: alumni
+
+- name: "Simon Parkin"
+  role: "Honorary"
+  image: "simonparkin.png"
+  url: "https://uclisec.github.io/people/simon_parkin/"
+  group: honorary
+
+- name: "Ilaria Pia Del Torre"
+  role: "Doctoral Researcher"
+  image: "illaria-pia-la-torre.jpg"
+  url: ""
+  group: doctoral
+
+- name: "Fabio Pierazzi"
+  role: "Associate Professor"
+  image: "fabio.jpg"
+  url: "https://profiles.ucl.ac.uk/100070-fabio-pierazzi"
+  group: academic
+
+- name: "Akhil Polamarasetty"
+  role: "Doctoral Researcher"
+  image: "akhil.jpg"
+  url: "https://profiles.ucl.ac.uk/98247-akhil-polamarasetty"
+  group: doctoral
+
+- name: "David Pym"
+  role: "Professor of Information, Logic, and Security"
+  image: "david.jpg"
+  url: "http://www0.cs.ucl.ac.uk/staff/D.Pym/"
+  group: academic
+
+- name: "Ismini Psychoula"
+  role: "Honorary Senior Research Fellow"
+  image: "ismini.jpeg"
+  url: ""
+  group: honorary
+
+- name: "Dan Ristea"
+  role: "Doctoral Researcher"
+  image: "dan-ristrea.jpg"
+  url: "https://dri.st"
+  group: doctoral
+
+- name: "Nuur Alifah Roslan (Alifah)"
+  role: "Visiting Research Fellow"
+  image: "alifa.jpeg"
+  url: "https://nuuralifahroslan.com"
+  group: honorary
+
+- name: "M. Angela Sasse"
+  role: "Professor of Human-Centred Technology (PT), and Professor at Ruhr-University Bochum"
+  image: "angela.jpg"
+  url: "https://uclisec.github.io/people/m_angela_sasse/"
+  group: past-faculty
+
+- name: "Karolina Skrivankova"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
+- name: "Isabel Straw"
+  role: "Affiliated Academic"
+  image: "Isabel.jpg"
+  url: "https://profiles.ucl.ac.uk/64988-isabel-straw"
+  group: affiliated
+
+- name: "Leonie Tanczer"
+  role: "Associate Professor and UKRI Future Leaders Fellow"
+  image: "leonie.jpg"
+  url: "https://www.leonietanczer.net/"
+  group: academic
+
+- name: "Guy Thompson"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
+- name: "Arianna Trozze"
+  role: "Doctoral Researcher"
+  image: "arianna-trozze.jpg"
+  url: ""
+  group: alumni
+
+- name: "Marie Vasek"
+  role: "Associate Professor of Information Security"
+  image: "marie.jpg"
+  url: "https://mvasek.com/"
+  group: academic
+
+- name: "Antoine Vendeville"
+  role: "Doctoral Researcher"
+  image: "andoine-vendeville.jpg"
+  url: "https://antoinevendeville.github.io/"
+  group: alumni
+
+- name: "Mark Warner"
+  role: "Associate Professor of Information Security and MSc Information Security Programme Director"
+  image: "Mark.png"
+  url: "https://www.privacurity.com/"
+  group: academic
+
+- name: "Charles Westphal"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
+- name: "Matthew Wixley"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
+# ---------- Alumni ----------
+
+- name: "Sharad Agarwal"
+  role: "Doctoral Researcher"
+  image: "sharad.jpg"
+  url: "https://sharad1126.github.io/"
+  group: alumni
+
+- name: "Killian Davitt"
+  role: "Doctoral Researcher"
+  image: "killian.jpg"
+  url: "https://killiandavitt.me"
+  group: alumni
+
+- name: "Alexander Hicks"
+  role: "Doctoral Researcher"
+  image: "alh-profile.jpeg"
+  url: "https://alexanderlhicks.com/"
+  group: alumni
+
+- name: "Haaroon Yousaf"
+  role: "Doctoral Researcher"
+  image: ""
+  url: "http://www.haaroonyousaf.com/"
+  group: alumni
+
+- name: "Henry Skeoch"
+  role: "Doctoral Researcher"
+  image: "henry-skeotch.jpg"
+  url: ""
+  group: alumni
+
+- name: "Lauren Scott"
+  role: "Doctoral Researcher (Visiting)"
+  image: "lauren-scott.jpg"
+  url: "https://laurenscott.dev"
+  group: alumni
+
+- name: "Maria Santos"
+  role: "Doctoral Researcher"
+  image: "maria-santos.jpg"
+  url: "https://mariascrs.github.io/"
+  group: alumni
+
+- name: "Lilly Neubauer"
+  role: "Doctoral Researcher"
+  image: "Lilly.jpg"
+  url: ""
+  group: alumni
+
+- name: "Stefanos Evripi"
+  role: "Doctoral Researcher"
+  image: "evripidou.jpg"
+  url: ""
+  group: alumni
+
+- name: "Antonis Papasavva"
+  role: "Doctoral Researcher"
+  image: "antonis-papasavva.jpg"
+  url: "https://antonispapasavva.github.io/"
+  group: alumni
+
+- name: "Alexandros Efstratiou"
+  role: "Doctoral Researcher"
+  image: "efstratiou.png"
+  url: "https://alefstrat.github.io/"
+  group: alumni
+
+- name: "Gerard Buckley"
+  role: "Doctoral Researcher"
+  image: "gerard-buckley.jpg"
+  url: ""
+  group: alumni
+
+- name: "Maria Schett"
+  role: "Doctoral Researcher"
+  image: "Mariaschett.jpg"
+  url: "http://www.maria-a-schett.net/"
+  group: alumni
+
+- name: "Thomas Cattermole"
+  role: "Doctoral Researcher"
+  image: "Thomas.jpg"
+  url: ""
+  group: alumni
+
+- name: "Anina Henggeler"
+  role: "Doctoral Researcher"
+  image: "Anina.jpg"
+  url: ""
+  group: alumni

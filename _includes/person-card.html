@@ -1,0 +1,21 @@
+{%- assign p = include.p -%}
+{%- if p.image and p.image != "" -%}{%- assign img = p.image -%}{%- else -%}{%- assign img = "holding.png" -%}{%- endif -%}
+{%- if p.url and p.url != "" -%}
+  {%- if p.url contains "mailto:" -%}
+    {%- assign link_label = "Email" -%}{%- assign link_icon = "fa-envelope" -%}{%- assign link_target = "" -%}
+  {%- else -%}
+    {%- assign link_label = "Website" -%}{%- assign link_icon = "fa-external-link-alt" -%}{%- assign link_target = ' target="_blank" rel="noopener"' -%}
+  {%- endif -%}
+<div class="person has-link" data-group="{{ p.group }}">
+<a class="person-photo" href="{{ p.url }}"{{ link_target }} title="{{ link_label }}: {{ p.name }}"><img src="{{ '/images/' | append: img | relative_url }}" alt="{{ p.name }}"></a>
+<a href="{{ p.url }}"{{ link_target }}><strong>{{ p.name }}</strong></a>
+<span class="talk-title">{{ p.role }}</span>
+<a class="person-link" href="{{ p.url }}"{{ link_target }}><i class="fas fa-fw {{ link_icon }}" aria-hidden="true"></i> {{ link_label }}</a>
+</div>
+{%- else -%}
+<div class="person" data-group="{{ p.group }}">
+<img src="{{ '/images/' | append: img | relative_url }}" alt="{{ p.name }}">
+<strong>{{ p.name }}</strong>
+<span class="talk-title">{{ p.role }}</span>
+</div>
+{%- endif -%}

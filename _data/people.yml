@@ -29,6 +29,12 @@
   url: "https://emilianodc.com/"
   group: past-faculty
 
+- name: "Abdulwasii Ajayi"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
 - name: "Earl Barr"
   role: "Affiliated Academic"
   image: "earl_barr.jpg"
@@ -47,11 +53,11 @@
   url: ""
   group: alumni
 
-- name: "Samantha Bottomley"
-  role: "MSc Information Security Administrator"
+- name: "Sam Beattie"
+  role: "Doctoral Researcher"
   image: ""
-  url: "mailto:s.bottomley@ucl.ac.uk"
-  group: administrative
+  url: ""
+  group: doctoral
 
 - name: "Sergi Bray"
   role: "Doctoral Researcher"
@@ -95,6 +101,12 @@
   url: ""
   group: alumni
 
+- name: "Mario D'Onghia"
+  role: "Senior Research Fellow"
+  image: "mario.jpg"
+  url: "https://www.mariodonghia.com/"
+  group: researcher
+
 - name: "Jay Dwyer-Joyce"
   role: "Doctoral Researcher"
   image: "jennifer-dwyer-joyce.jpg"
@@ -125,6 +137,12 @@
   url: "mailto:i.gressel@ucl.ac.uk"
   group: administrative
 
+- name: "Fiona Hashani"
+  role: "MSc Information Security Administrator"
+  image: ""
+  url: "mailto:fiona.hashani@ucl.ac.uk"
+  group: administrative
+
 - name: "Jens Groth"
   role: "Honorary Professor"
   image: "jens.jpg"
@@ -142,6 +160,12 @@
   image: "majid.jpeg"
   url: ""
   group: honorary
+
+- name: "Xin Fan Guo"
+  role: "Doctoral Researcher (Visiting)"
+  image: "xin-fan-guo.jpg"
+  url: ""
+  group: doctoral
 
 - name: "Niamh Healy"
   role: "Doctoral Researcher"
@@ -219,7 +243,25 @@
   role: "Honorary"
   image: "benlaurie.jpg"
   url: "https://en.wikipedia.org/wiki/Ben_Laurie"
-  group: honorary
+  group: past-faculty
+
+- name: "Julia Mathews"
+  role: "Doctoral Researcher"
+  image: "julia-mathews.png"
+  url: "https://profiles.ucl.ac.uk/109800-julia-mathews"
+  group: doctoral
+
+- name: "Tania Maynard-Browne"
+  role: "Doctoral Researcher"
+  image: "tania-maynard-browne.webp"
+  url: ""
+  group: doctoral
+
+- name: "Shae McFadden"
+  role: "Doctoral Researcher (Visiting)"
+  image: "ShaeMcFadden.jpg"
+  url: "http://shaemcfadden.co.uk/"
+  group: doctoral
 
 - name: "Sarah Meiklejohn"
   role: "Professor of Cryptography and Security (PT) and Staff Research Scientist at Google UK"
@@ -263,6 +305,12 @@
   url: "https://profiles.ucl.ac.uk/99051-catherine-o%27brien"
   group: researcher
 
+- name: "Janine Obiri"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
+
 - name: "Marilyne Ordekian"
   role: "Doctoral Researcher"
   image: "ordekian.jpg"
@@ -279,7 +327,7 @@
   role: "Honorary"
   image: "simonparkin.png"
   url: "https://uclisec.github.io/people/simon_parkin/"
-  group: honorary
+  group: past-faculty
 
 - name: "Ilaria Pia Del Torre"
   role: "Doctoral Researcher"
@@ -322,6 +370,12 @@
   image: "alifa.jpeg"
   url: "https://nuuralifahroslan.com"
   group: past-faculty
+
+- name: "Martin Rowe"
+  role: "Doctoral Researcher"
+  image: "martin-rowe.jpg"
+  url: "https://profiles.ucl.ac.uk/109872-martin-rowe"
+  group: doctoral
 
 - name: "M. Angela Sasse"
   role: "Professor of Human-Centred Technology (PT), and Professor at Ruhr-University Bochum"
@@ -370,6 +424,12 @@
   image: "andoine-vendeville.jpg"
   url: "https://antoinevendeville.github.io/"
   group: alumni
+
+- name: "Harriet Vickers"
+  role: "Doctoral Researcher"
+  image: ""
+  url: ""
+  group: doctoral
 
 - name: "Mark Warner"
   role: "Associate Professor of Information Security and MSc Information Security Programme Director"
